@@ -1,0 +1,34 @@
+name: Build service lists - vhannibal
+
+on:
+  schedule:
+    - cron: '00 03 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install bsdtar
+        run: |
+          sudo apt update
+          sudo apt install -y --no-install-recommends libarchive-tools
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+      - name: Build service list against vhannibal settings
+        run: |
+          vhannibal_date=$(curl -fsSL https://www.vhannibal.net/ | awk '/Vhannibal Motor 70/{print a}{a=$0}' | awk -F '(Aggiornato il | alle)' '{print $2}')
+          if [[ ! -z "$vhannibal_date" ]] && [[ "$vhannibal_date" != $(cat ./vhannibal.date) ]]; then
+            mkdir ./build-input/enigma2
+            curl -fsSL "https://www.vhannibal.net/download_setting.php?id=3&action=download" | bsdtar xf - -C "./build-input/enigma2" --exclude=".*" --strip-components=1
+            curl -o ./build-source/snp.index -fsSL "https://raw.githubusercontent.com/picons/picons/master/build-source/snp.index" 
+            curl -o ./build-source/srp.index -fsSL "https://raw.githubusercontent.com/picons/picons/master/build-source/srp.index"
+            bash 1-build-servicelist.sh snp
+            bash 1-build-servicelist.sh srp
+            mv ./build-output/servicelist-enigma2-snp.txt ./build-output/servicelist-enigma2-srp.txt -t ./vhannibal
+            echo "$vhannibal_date" > ./vhannibal.date
+            git config --global user.name "${{ secrets.USER }}"
+            git config --global user.email "${{ secrets.EMAIL }}"
+            git add .
+            git commit -m "Updated vhannibal $(date --utc +"on %d_%m_%Y at %H:%M:%S")"
+            git push
+          fi

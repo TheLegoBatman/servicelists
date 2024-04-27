@@ -1,0 +1,17 @@
+# Default
+* text=auto eol=lf
+
+# Git
+.gitconfig text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+
+# Scripts
+*.sh text eol=lf
+
+# Text
+*.hash text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.index text eol=lf
+*.date text eol=lf

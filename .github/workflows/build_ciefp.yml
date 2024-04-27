@@ -1,0 +1,33 @@
+name: Build service lists - ciefp
+
+on:
+  schedule:
+    - cron: '00 02 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v4
+      - name: Build service list against ciefp settings
+        run: |
+          ciefp_latest_hash=$(curl -s "https://api.github.com/repos/ciefp/ciefpsettings-enigma2/commits" | jq -r .[0].sha)
+          if [[ ! -z "$ciefp_latest_hash" ]] && [[ "$ciefp_latest_hash" != $(cat ./ciefp.hash) ]]; then
+            curl -fsSL "https://github.com/ciefp/ciefpsettings-enigma2/archive/master.tar.gz" | tar xzf - -C "./build-input" --exclude=".*" --strip-components=1
+            mv ./build-input/ciefp-E2-motor-75E-34W ./build-input/enigma2
+            for f in ./build-input/enigma2/*.{tv,radio}; do
+              sed -i '/SERVICE 4097/d' "$f"
+            done
+            curl -o ./build-source/snp.index -fsSL "https://raw.githubusercontent.com/picons/picons/master/build-source/snp.index" 
+            curl -o ./build-source/srp.index -fsSL "https://raw.githubusercontent.com/picons/picons/master/build-source/srp.index"
+            bash 1-build-servicelist.sh snp
+            bash 1-build-servicelist.sh srp
+            mv ./build-output/servicelist-enigma2-snp.txt ./build-output/servicelist-enigma2-srp.txt -t ./ciefp
+            echo "$ciefp_latest_hash" > ./ciefp.hash
+            git config --global user.name "${{ secrets.USER }}"
+            git config --global user.email "${{ secrets.EMAIL }}"
+            git add .
+            git commit -m "Updated ciefp $(date --utc +"on %d_%m_%Y at %H:%M:%S")"
+            git push
+          fi
