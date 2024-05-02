@@ -293,9 +293,6 @@
 1_0_1_A2_26_36_CE40000_0_0_0           |  12360H SID 0xa2                                  |  A2_26_36_CE40000=--------                               |  12360hsid0xa2=--------
 1_0_1_A4_26_36_CE40000_0_0_0           |  12360H SID 0xa4                                  |  A4_26_36_CE40000=--------                               |  12360hsid0xa4=--------
 1_0_1_D49_1450_0_823048_0_0_0          |  12360H SID 0xd49                                 |  D49_1450_0_823048=--------                              |  12360hsid0xd49=--------
-1_0_1_FE50_54_46_E080000_0_0_0         |  12360H SID 0xfe50                                |  FE50_54_46_E080000=--------                             |  12360hsid0xfe50=--------
-1_0_1_FE51_54_46_E080000_0_0_0         |  12360H SID 0xfe51                                |  FE51_54_46_E080000=--------                             |  12360hsid0xfe51=--------
-1_0_1_FE52_54_46_E080000_0_0_0         |  12360H SID 0xfe52                                |  FE52_54_46_E080000=--------                             |  12360hsid0xfe52=--------
 1_0_1_2391_44A_1_C00000_0_0_0          |  12363V SID 0x2391                                |  2391_44A_1_C00000=--------                              |  12363vsid0x2391=--------
 1_0_1_2392_44A_1_C00000_0_0_0          |  12363V SID 0x2392                                |  2392_44A_1_C00000=--------                              |  12363vsid0x2392=--------
 1_0_1_2393_44A_1_C00000_0_0_0          |  12363V SID 0x2393                                |  2393_44A_1_C00000=--------                              |  12363vsid0x2393=--------
@@ -523,9 +520,10 @@
 1_0_2_1F5F_1_10_640000_0_0_0           |  51 BFBS Radio                                    |  1F5F_1_10_640000=--------                               |  51bfbsradio=bfbsops
 1_0_1_201_FF7D_36E_1680000_0_0_0       |  513                                              |  201_FF7D_36E_1680000=--------                           |  513=sonlifetv
 1_0_2_1F58_1_10_640000_0_0_0           |  52 BFBS Radio 2                                  |  1F58_1_10_640000=--------                               |  52bfbsradio2=bfbsradio2
+1_0_19_CD6E_902_2_11A0000_0_0_0        |  52590                                            |  CD6E_902_2_11A0000=--------                             |  52590=--------
 1_0_2_1F5B_1_10_640000_0_0_0           |  53 BFBS UK National                              |  1F5B_1_10_640000=--------                               |  53bfbsuknational=bfbsuk
-1_0_1_14C2_7DC_2_11A0000_0_0_0         |  5314                                             |  14C2_7DC_2_11A0000=--------                             |  5314=--------
-1_0_1_14CA_7DC_2_11A0000_0_0_0         |  5322                                             |  14CA_7DC_2_11A0000=--------                             |  5322=--------
+1_0_1_132B_7DC_2_11A0000_0_0_0         |  5314                                             |  132B_7DC_2_11A0000=--------                             |  5314=--------
+1_0_1_1519_7DC_2_11A0000_0_0_0         |  5322                                             |  1519_7DC_2_11A0000=--------                             |  5322=--------
 1_0_1_D324_836_2_11A0000_0_0_0         |  54052                                            |  D324_836_2_11A0000=--------                             |  54052=--------
 1_0_1_157F_7E7_2_11A0000_0_0_0         |  5503                                             |  157F_7E7_2_11A0000=--------                             |  5503=--------
 1_0_1_D7D3_840_2_11A0000_0_0_0         |  55251                                            |  D7D3_840_2_11A0000=--------                             |  55251=--------
@@ -607,10 +605,10 @@
 1_0_1_139A_2710_D5_820000_0_0_0        |  ??+                                              |  139A_2710_D5_820000=--------                            |  plus=--------
 1_0_1_139A_6_D5_1C20000_0_0_0          |  ??+                                              |  139A_6_D5_1C20000=--------                              |  plus=--------
 1_0_1_26D_2_0_208B035_0_0_0            |  ??-3 Int                                         |  26D_2_0_208B035=--------                                |  3int=--------
+1_0_16_3A0_5_0_2082A87_0_0_0           |  ???                                              |  3A0_5_0_2082A87=--------                                |  --------=--------
 1_0_1_1FA_1_0_208AFC2_0_0_0            |  ???                                              |  1FA_1_0_208AFC2=--------                                |  --------=--------
 1_0_1_2DC_3_0_208B05C_0_0_0            |  ???                                              |  2DC_3_0_208B05C=--------                                |  --------=--------
 1_0_1_39E_5_0_2082A87_0_0_0            |  ???                                              |  39E_5_0_2082A87=--------                                |  --------=--------
-1_0_1_3A0_5_0_2082A87_0_0_0            |  ???                                              |  3A0_5_0_2082A87=--------                                |  --------=--------
 1_0_1_3FA_6_AA_5A0000_0_0_0            |  ???                                              |  3FA_6_AA_5A0000=art                                     |  --------=--------
 1_0_1_72_1_D5_1C20000_0_0_0            |  ??? 2                                            |  72_1_D5_1C20000=--------                                |  2=--------
 1_0_1_72_251C_D5_820000_0_0_0          |  ??? 2                                            |  72_251C_D5_820000=--------                              |  2=--------
@@ -819,7 +817,6 @@
 1_0_1_CBF3_A925_42E_1A40000_0_0_0      |  AGRO TV                                          |  CBF3_A925_42E_1A40000=--------                          |  agrotv=agrotv
 1_0_1_44_0_0_D7AA68_0_0_0              |  AHTV-HD                                          |  44_0_0_D7AA68=--------                                  |  ahtvhd=anhuitelevision
 1_0_1_1C8D_332C_13E_820000_0_0_0       |  AIRMONT                                          |  1C8D_332C_13E_820000=--------                           |  airmont=airmont
-1_0_1_1F6_384_13E_820000_0_0_0         |  AIRMONT                                          |  1F6_384_13E_820000=--------                             |  airmont=airmont
 1_0_1_1F7_FF7D_36E_1680000_0_0_0       |  AIT                                              |  1F7_FF7D_36E_1680000=--------                           |  ait=ait
 1_0_19_1FFB_1E87_2BE_1040000_0_0_0     |  AIT NIGERIA                                      |  1FFB_1E87_2BE_1040000=--------                          |  aitnigeria=ait
 1_0_1_4_1A_14_2AD0000_0_0_0            |  AIT National                                     |  4_1A_14_2AD0000=--------                                |  aitnational=ait
@@ -832,7 +829,7 @@
 1_0_1_34_14_6E_DCA0000_0_0_0           |  AL AHAD VOICE                                    |  34_14_6E_DCA0000=--------                               |  alahadvoice=--------
 1_0_A_14A_C23_6E_DCA0000_0_0_0         |  AL AMAL                                          |  14A_C23_6E_DCA0000=--------                             |  alamal=--------
 1_0_1_6D_4EE8_77E_DCA0000_0_0_0        |  AL ANIS TV                                       |  6D_4EE8_77E_DCA0000=--------                            |  alanistv=alanistv
-1_0_1_1BE6_1E86_2BE_1040000_0_0_0      |  AL ANSAR                                         |  1BE6_1E86_2BE_1040000=--------                          |  alansar=alansarradioandtv
+1_0_19_1BE6_1E86_2BE_1040000_0_0_0     |  AL ANSAR                                         |  1BE6_1E86_2BE_1040000=--------                          |  alansar=alansarradioandtv
 1_0_19_5018_802_E0_1040000_0_0_0       |  AL ARABY 2HD                                     |  5018_802_E0_1040000=--------                            |  alaraby2hd=alarabytv2
 1_0_1_1446_320_5000_DC00000_0_0_0      |  AL ARABY TV                                      |  1446_320_5000_DC00000=--------                          |  alarabytv=alarabytv
 1_0_19_5015_802_E0_1040000_0_0_0       |  AL ARABY TV HD                                   |  5015_802_E0_1040000=--------                            |  alarabytvhd=alarabytv
@@ -1097,7 +1094,6 @@
 1_0_1_456_3F2_39E_1860000_0_0_0        |  ATV                                              |  456_3F2_39E_1860000=atv-uucanimeth                      |  atv=atv
 1_0_1_675_9FC4_16E_A00000_0_0_0        |  ATV                                              |  675_9FC4_16E_A00000=alternativnatv                      |  atv=atv
 1_0_1_7603_2BE_600_E080000_0_0_0       |  ATV                                              |  7603_2BE_600_E080000=atv-wapadedrud                     |  atv=atv
-1_0_1_B_1_1_A0B0F9_0_0_0               |  ATV                                              |  B_1_1_A0B0F9=atv-uucanimeth                             |  atv=atv
 1_0_1_D8_5_49_2AD0000_0_0_0            |  ATV                                              |  D8_5_49_2AD0000=--------                                |  atv=atv
 1_0_1_7619_2BE_600_E080000_0_0_0       |  ATV (SVT)                                        |  7619_2BE_600_E080000=--------                           |  atvsvt=atv-wapadedrud
 1_0_1_28A0_9CA6_42E_1A40000_0_0_0      |  ATV AVRUPA                                       |  28A0_9CA6_42E_1A40000=--------                          |  atvavrupa=atvavrupa
@@ -1375,6 +1371,7 @@
 1_0_19_1932_1F4_5000_DCA0000_0_0_0     |  Al-Awhad TV                                      |  1932_1F4_5000_DCA0000=--------                          |  alawhadtv=alawhadtv
 1_0_1_1068_29_800_DCA0000_0_0_0        |  Al-Etejah TV                                     |  1068_29_800_DCA0000=--------                            |  aletejahtv=aletejah
 1_0_1_1_1_FFFF_463170_0_0_0            |  Al-Forat HD                                      |  1_1_FFFF_463170=libyaalahrar                            |  alforathd=alforatnews
+1_0_1_9_1_FFFF_DCA2A3F_0_0_0           |  Al-Harifa Drama                                  |  9_1_FFFF_DCA2A3F=--------                               |  alharifadrama=--------
 1_0_2_6F_4E84_77E_DCA0000_0_0_0        |  Al-Houceima                                      |  6F_4E84_77E_DCA0000=--------                            |  alhouceima=radiohouceima
 1_0_16_1338_1F4_5000_DCA0000_0_0_0     |  Al-Jawad TV                                      |  1338_1F4_5000_DCA0000=--------                          |  aljawadtv=--------
 1_0_1_2DA_7_800_DCA0000_0_0_0          |  Al-Khabar TV                                     |  2DA_7_800_DCA0000=--------                              |  alkhabartv=alkhabartv
@@ -1474,7 +1471,6 @@
 1_0_1_1_1000_2000_212B18B_0_0_0        |  Allhthah TV                                      |  1_1000_2000_212B18B=--------                            |  allhthahtv=--------
 1_0_1_193_C23_6E_DCA0000_0_0_0         |  Almaaref TV HD                                   |  193_C23_6E_DCA0000=--------                             |  almaareftvhd=almaaref
 1_0_1_F_1_FFFF_DCA2A3F_0_0_0           |  Almadaah                                         |  F_1_FFFF_DCA2A3F=--------                               |  almadaah=--------
-1_0_1_2A_1_FFFF_DCA2A3F_0_0_0          |  Almaelim Drama                                   |  2A_1_FFFF_DCA2A3F=--------                              |  almaelimdrama=--------
 1_0_1_16_1_FFFF_DCA2A3F_0_0_0          |  Almagd TV                                        |  16_1_FFFF_DCA2A3F=--------                              |  almagdtv=almagdtv
 1_0_1_1270_1F4_5000_DCA0000_0_0_0      |  Almagharibia TV                                  |  1270_1F4_5000_DCA0000=--------                          |  almagharibiatv=almagharibia
 1_0_1_F1_C21_6E_DCA0000_0_0_0          |  Almahriah HD                                     |  F1_C21_6E_DCA0000=--------                              |  almahriahhd=almahriah
@@ -1582,7 +1578,6 @@
 1_0_19_1B64_70E1_217C_5A0000_0_0_0     |  Antenna 10                                       |  1B64_70E1_217C_5A0000=--------                          |  antenna10=--------
 1_0_1_1399_50E1_217C_5A0000_0_0_0      |  Antenna 3 RW                                     |  1399_50E1_217C_5A0000=--------                          |  antenna3rw=--------
 1_0_A_28F6_425_1_C00000_0_0_0          |  Antenne Brbg.                                    |  28F6_425_1_C00000=--------                              |  antennebrbg=rbbantennebrandenburg
-1_0_1_4245_3DB8_13E_820000_0_0_0       |  Antichita Chiossone                              |  4245_3DB8_13E_820000=--------                           |  antichitachiossone=antichitachiossone
 1_0_2_1413_5DC_13E_820000_0_0_0        |  Antyradio                                        |  1413_5DC_13E_820000=--------                            |  antyradio=antyradio
 1_0_1_11_8_FFFF_DC02B58_0_0_0          |  AnwarTV2                                         |  11_8_FFFF_DC02B58=--------                              |  anwartv2=alanwartv2
 1_0_1_26_1_1_2AD3112_0_0_0             |  Apex World News                                  |  26_1_1_2AD3112=--------                                 |  apexworldnews=--------
@@ -1638,8 +1633,8 @@
 1_0_1_4E57_C8A_3_EB0000_0_0_0          |  Arena Sport_3                                    |  4E57_C8A_3_EB0000=--------                              |  arenasport3=arenasport3
 1_0_1_4E4A_C8A_3_EB0000_0_0_0          |  Arena Sport_4                                    |  4E4A_C8A_3_EB0000=--------                              |  arenasport4=arenasport4
 1_0_1_78D5_2C5_600_E080000_0_0_0       |  Arena4                                           |  78D5_2C5_600_E080000=--------                           |  arena4=arena4
+1_0_19_75A1_2BD_600_E080000_0_0_0      |  Arena4 HD                                        |  75A1_2BD_600_E080000=--------                           |  arena4hd=arenasport4
 1_0_19_7664_2BF_600_E080000_0_0_0      |  Arena4 HD                                        |  7664_2BF_600_E080000=arena4                             |  arena4hd=arenasport4
-1_0_19_75A1_2BD_600_E080000_0_0_0      |  Arena4 HD.                                       |  75A1_2BD_600_E080000=--------                           |  arena4hd=arenasport4
 1_0_1_78D7_2C5_600_E080000_0_0_0       |  Arena4.                                          |  78D7_2C5_600_E080000=--------                           |  arena4=arena4
 1_0_1_4EFB_C81_3_EB0000_0_0_0          |  Arena_Sport 4                                    |  4EFB_C81_3_EB0000=--------                              |  arenasport4=arenasport4
 1_0_1_4EF3_C8B_3_EB0000_0_0_0          |  Arena_Sport 5                                    |  4EF3_C8B_3_EB0000=--------                              |  arenasport5=arenasport5
@@ -1665,7 +1660,6 @@
 1_0_19_3_16_1_D70000_0_0_0             |  Arryadia HD TNT                                  |  3_16_1_D70000=--------                                  |  arryadiahdtnt=arryadiahd
 1_0_1_2_16_1_D70000_0_0_0              |  Arryadia SD TNT                                  |  2_16_1_D70000=--------                                  |  arryadiasdtnt=arryadia
 1_0_16_5E6_50DC_16E_A00000_0_0_0       |  Arta TV                                          |  5E6_50DC_16E_A00000=--------                            |  artatv=arta
-1_0_1_7_1_1_A0B0F9_0_0_0               |  Arta TV                                          |  7_1_1_A0B0F9=--------                                   |  artatv=arta
 1_0_19_407_4_20FA_DDE0000_0_0_0        |  Arte                                             |  407_4_20FA_DDE0000=--------                             |  arte=arte
 1_0_1_4244_3DB8_13E_820000_0_0_0       |  Arte Atelier                                     |  4244_3DB8_13E_820000=--------                           |  arteatelier=arteatelier
 1_0_1_133_3E1C_13F_820000_0_0_0        |  Arte HD                                          |  133_3E1C_13F_820000=--------                            |  artehd=artehd
@@ -1715,6 +1709,7 @@
 1_0_1_8C_9D6C_77E_DCA0000_0_0_0        |  Athaqafia HD                                     |  8C_9D6C_77E_DCA0000=--------                            |  athaqafiahd=athaqafiahd
 1_0_1_14_1137_21AC_1040000_0_0_0       |  Attessia TV                                      |  14_1137_21AC_1040000=--------                           |  attessiatv=attessia
 1_0_1_4_0_FFFF_DCA2D8A_0_0_0           |  Attessia TV                                      |  4_0_FFFF_DCA2D8A=--------                               |  attessiatv=attessia
+1_0_1_27_211E_211E_2080000_0_0_0       |  Audio Iran International                         |  27_211E_211E_2080000=--------                           |  audioiraninternational=--------
 1_0_16_9A_1_40_A00000_0_0_0            |  Aurora TV.                                       |  9A_1_40_A00000=--------                                 |  auroratv=auroratv
 1_0_16_2B03_AFB_BB_E080000_0_0_0       |  Auto Motor Sport                                 |  2B03_AFB_BB_E080000=--------                            |  automotorsport=automotorsport
 1_0_1_76DB_2C0_600_E080000_0_0_0       |  Auto Motor Sport                                 |  76DB_2C0_600_E080000=--------                           |  automotorsport=automotorsport
@@ -1856,9 +1851,9 @@
 1_0_1_42EA_3138_13E_820000_0_0_0       |  BBC News Europe                                  |  42EA_3138_13E_820000=--------                           |  bbcnewseurope=bbcnews
 1_0_1_20A_5_800_DCA0000_0_0_0          |  BBC News TV                                      |  20A_5_800_DCA0000=--------                              |  bbcnewstv=--------
 1_0_19_1D45_48_46_E080000_0_0_0        |  BBC Nordic HD                                    |  1D45_48_46_E080000=--------                             |  bbcnordichd=bbcnordic
-1_0_19_1F28_29_46_E080000_0_0_0        |  BBC Nordic HD                                    |  1F28_29_46_E080000=--------                             |  bbcnordichd=bbcnordic
 1_0_19_1D47_48_46_E080000_0_0_0        |  BBC Nordic HD (N)                                |  1D47_48_46_E080000=--------                             |  bbcnordichdn=bbcnordic
 1_0_19_1E84_2C_46_E080000_0_0_0        |  BBC Nordic HD (N)                                |  1E84_2C_46_E080000=--------                             |  bbcnordichdn=bbcnordic
+1_0_19_1F28_29_46_E080000_0_0_0        |  BBC Nordic HD (old)                              |  1F28_29_46_E080000=--------                             |  bbcnordichdold=--------
 1_0_1_1044_1000_1_D7A0000_0_0_0        |  BBC ONE                                          |  1044_1000_1_D7A0000=--------                            |  bbcone=bbcone
 1_0_1_107D_1000_1_D7A0000_0_0_0        |  BBC ONE NI                                       |  107D_1000_1_D7A0000=--------                            |  bbconeni=bbconenorthernireland
 1_0_1_107C_1000_1_D7A0000_0_0_0        |  BBC ONE Scot                                     |  107C_1000_1_D7A0000=--------                            |  bbconescot=bbconescotland
@@ -1962,7 +1957,7 @@
 1_0_16_6_1_1F90_CB70000_0_0_0          |  BELEDOUGOU TV                                    |  6_1_1F90_CB70000=--------                               |  beledougoutv=beledougoutv
 1_0_1_1B60_17_6E_DCA0000_0_0_0         |  BELQEES                                          |  1B60_17_6E_DCA0000=--------                             |  belqees=belqeestv
 1_0_1_2C3_9EFC_77E_DCA0000_0_0_0       |  BELQEES HD                                       |  2C3_9EFC_77E_DCA0000=--------                           |  belqeeshd=--------
-1_0_1_50B_2_55_300000_0_0_0            |  BELSAT TV HD                                     |  50B_2_55_300000=--------                                |  belsattvhd=--------
+1_0_1_50B_2_55_300000_0_0_0            |  BELSAT TV HD                                     |  50B_2_55_300000=--------                                |  belsattvhd=belsat
 1_0_1_CA66_7B0E_42E_1A40000_0_0_0      |  BENGU TURK HD                                    |  CA66_7B0E_42E_1A40000=--------                          |  benguturkhd=--------
 1_0_1_C420_A4D9_42E_1A40000_0_0_0      |  BERAT TV                                         |  C420_A4D9_42E_1A40000=--------                          |  berattv=berattv
 1_0_1_C800_A3AE_42E_1A40000_0_0_0      |  BERAT TV                                         |  C800_A3AE_42E_1A40000=--------                          |  berattv=berattv
@@ -1973,7 +1968,7 @@
 1_0_1_A8_65_1_300000_0_0_0             |  BETFRED SIS - CISCO 1                            |  A8_65_1_300000=--------                                 |  betfredsiscisco1=sisone
 1_0_1_31_65_1_300000_0_0_0             |  BETFRED TOTE 2 - CISCO 1                         |  31_65_1_300000=--------                                 |  betfredtote2cisco1=sisone
 1_0_2_23EE_446_1_C00000_0_0_0          |  BEUR FM                                          |  23EE_446_1_C00000=--------                              |  beurfm=beurfm
-1_0_1_C801_A3AE_42E_1A40000_0_0_0      |  BEYAZ TV HD                                      |  C801_A3AE_42E_1A40000=--------                          |  beyaztvhd=beyaz
+1_0_19_C801_A3AE_42E_1A40000_0_0_0     |  BEYAZ TV HD                                      |  C801_A3AE_42E_1A40000=--------                          |  beyaztvhd=beyaz
 1_0_2_D794_82F_2_11A0000_0_0_0         |  BFBS Radio                                       |  D794_82F_2_11A0000=--------                             |  bfbsradio=bfbsuk
 1_0_2_1068_2711_90_DDE0000_0_0_0       |  BFM                                              |  1068_2711_90_DDE0000=--------                           |  bfm=bfmbusiness
 1_0_19_206F_432_1_C00000_0_0_0         |  BFM BUSINESS                                     |  206F_432_1_C00000=--------                              |  bfmbusiness=bfmbusiness
@@ -2643,9 +2638,9 @@
 1_0_1_85_65_53_CE40000_0_0_0           |  CNN Portugal                                     |  85_65_53_CE40000=--------                               |  cnnportugal=cnnportugal
 1_0_1_9C_65_53_CE40000_0_0_0           |  CNN Portugal                                     |  9C_65_53_CE40000=--------                               |  cnnportugal=cnnportugal
 1_0_16_7675_2BF_600_E080000_0_0_0      |  CNN Prima News                                   |  7675_2BF_600_E080000=--------                           |  cnnprimanews=cnnprimanews
+1_0_16_7A4D_2CB_600_E080000_0_0_0      |  CNN Prima News                                   |  7A4D_2CB_600_E080000=--------                           |  cnnprimanews=cnnprimanews
 1_0_19_271B_AFA_BB_E080000_0_0_0       |  CNN Prima News HD                                |  271B_AFA_BB_E080000=--------                            |  cnnprimanewshd=cnnprimanews
 1_0_19_36FF_C8C_3_EB0000_0_0_0         |  CNN Prima News HD                                |  36FF_C8C_3_EB0000=--------                              |  cnnprimanewshd=cnnprimanews
-1_0_16_7A4D_2CB_600_E080000_0_0_0      |  CNN Prima News.                                  |  7A4D_2CB_600_E080000=--------                           |  cnnprimanews=cnnprimanews
 1_0_1_515_3_42_1A40000_0_0_0           |  CNN TURK                                         |  515_3_42_1A40000=--------                               |  cnnturk=cnnturk
 1_0_19_6A6_7_42_1A40000_0_0_0          |  CNN TURK HD                                      |  6A6_7_42_1A40000=--------                               |  cnnturkhd=cnnturk
 1_0_82_A6_7_42_1A40000_0_0_0           |  CNN TURK HD                                      |  A6_7_42_1A40000=--------                                |  cnnturkhd=cnnturk
@@ -2721,8 +2716,8 @@
 1_0_16_271D_AFA_BB_E080000_0_0_0       |  CS Film                                          |  271D_AFA_BB_E080000=--------                            |  csfilm=csfilm
 1_0_16_36EA_C8C_3_EB0000_0_0_0         |  CS Film                                          |  36EA_C8C_3_EB0000=--------                              |  csfilm=csfilm
 1_0_16_765F_2BF_600_E080000_0_0_0      |  CS Film/CS Horror                                |  765F_2BF_600_E080000=--------                           |  csfilmcshorror=csfilm_cshorror
+1_0_16_7A48_2CB_600_E080000_0_0_0      |  CS Film/CS Horror                                |  7A48_2CB_600_E080000=--------                           |  csfilmcshorror=csfilm_cshorror
 1_0_1F_4B4_76C1_16E_A00000_0_0_0       |  CS Film/CS Horror                                |  4B4_76C1_16E_A00000=--------                            |  csfilmcshorror=csfilm_cshorror
-1_0_16_7A48_2CB_600_E080000_0_0_0      |  CS Film/CS Horror.                               |  7A48_2CB_600_E080000=--------                           |  csfilmcshorror=csfilm_cshorror
 1_0_16_335A_C93_3_EB0000_0_0_0         |  CS History                                       |  335A_C93_3_EB0000=--------                              |  cshistory=cshistory
 1_0_16_36EB_C8C_3_EB0000_0_0_0         |  CS Horror                                        |  36EB_C8C_3_EB0000=--------                              |  cshorror=cshorror
 1_0_16_334D_C93_3_EB0000_0_0_0         |  CS Mystery                                       |  334D_C93_3_EB0000=--------                              |  csmystery=csmystery
@@ -3589,7 +3584,7 @@
 1_0_1_701_5_85_C00000_0_0_0            |  Disney Channel                                   |  701_5_85_C00000=--------                                |  disneychannel=disneychannel
 1_0_1_70_4_1_186AFB5_0_0_0             |  Disney Channel                                   |  70_4_1_186AFB5=--------                                 |  disneychannel=disneychannel
 1_0_1_77EF_2C3_600_E080000_0_0_0       |  Disney Channel                                   |  77EF_2C3_600_E080000=disneychannel-phudothusi           |  disneychannel=disneychannel
-1_0_1_7E_E_3_130000_0_0_0              |  Disney Channel                                   |  7E_E_3_130000=--------                                  |  disneychannel=disneychannel
+1_0_1_7E_E_3_130000_0_0_0              |  Disney Channel                                   |  7E_E_3_130000=disneychannel-phudothusi                  |  disneychannel=disneychannel
 1_0_1_DA_E_1C_1860000_0_0_0            |  Disney Channel                                   |  DA_E_1C_1860000=--------                                |  disneychannel=disneychannel
 1_0_1_7801_2C3_600_E080000_0_0_0       |  Disney Channel (SVT)                             |  7801_2C3_600_E080000=--------                           |  disneychannelsvt=disneychannel-phudothusi
 1_0_1F_89_B1_39E_1860000_0_0_0         |  Disney Channel Bulgaria                          |  89_B1_39E_1860000=armenia1                              |  disneychannelbulgaria=disneychannel
@@ -3679,6 +3674,8 @@
 1_0_1_4EA3_C8B_3_EB0000_0_0_0          |  Dox TV                                           |  4EA3_C8B_3_EB0000=--------                              |  doxtv=doxtv
 1_0_1_197A_7E6_2_11A0000_0_0_0         |  Drama                                            |  197A_7E6_2_11A0000=--------                             |  drama=drama
 1_0_1_6217_7E6_2_11A0000_0_0_0         |  Drama                                            |  6217_7E6_2_11A0000=--------                             |  drama=drama
+1_0_1_1F43_12_6E_DCA0000_0_0_0         |  Drama Mix                                        |  1F43_12_6E_DCA0000=--------                             |  dramamix=--------
+1_0_1_2A_1_FFFF_DCA2A3F_0_0_0          |  Drama Turky                                      |  2A_1_FFFF_DCA2A3F=--------                              |  dramaturky=--------
 1_0_1_6219_7E6_2_11A0000_0_0_0         |  Drama+1                                          |  6219_7E6_2_11A0000=--------                             |  dramaplus1=dramaplus1
 1_0_1_4E22_FF8C_36E_1680000_0_0_0      |  Dream                                            |  4E22_FF8C_36E_1680000=--------                          |  dream=dreamworks
 1_0_19_9DD8_FC8_E0_1040000_0_0_0       |  Dream Works                                      |  9DD8_FC8_E0_1040000=--------                            |  dreamworks=dreamworks
@@ -3795,7 +3792,6 @@
 1_0_1_648_FF88_36E_1680000_0_0_0       |  EIT Data                                         |  648_FF88_36E_1680000=--------                           |  eitdata=--------
 1_0_1_53F_3_42_1A40000_0_0_0           |  EKINTURK TV                                      |  53F_3_42_1A40000=--------                               |  ekinturktv=ekinturk
 1_0_16_1C1B_1E86_2BE_1040000_0_0_0     |  EKITI STATE TV                                   |  1C1B_1E86_2BE_1040000=--------                          |  ekitistatetv=--------
-1_0_1_391C_A21D_42E_1A40000_0_0_0      |  EKOL TV                                          |  391C_A21D_42E_1A40000=--------                          |  ekoltv=--------
 1_0_1_CBF7_A925_42E_1A40000_0_0_0      |  EKOL TV HD                                       |  CBF7_A925_42E_1A40000=--------                          |  ekoltvhd=--------
 1_0_19_CBE9_A925_42E_1A40000_0_0_0     |  EKOTURK HD                                       |  CBE9_A925_42E_1A40000=--------                          |  ekoturkhd=ekoturk
 1_0_1_7A_E_3_130000_0_0_0              |  EKids                                            |  7A_E_3_130000=--------                                  |  ekids=ekids
@@ -4478,10 +4474,10 @@
 1_0_19_73_9_85_C00000_0_0_0            |  FUSSBALL.TV 1                                    |  73_9_85_C00000=--------                                 |  fussballtv1=--------
 1_0_19_75_9_85_C00000_0_0_0            |  FUSSBALL.TV 2                                    |  75_9_85_C00000=--------                                 |  fussballtv2=--------
 1_0_19_77_10_85_C00000_0_0_0           |  FUSSBALL.TV 3                                    |  77_10_85_C00000=--------                                |  fussballtv3=--------
-1_0_16_180B_C_55_300000_0_0_0          |  FX                                               |  180B_C_55_300000=--------                               |  fx=--------
-1_0_1_27E7_C9_55_300000_0_0_0          |  FX                                               |  27E7_C9_55_300000=--------                              |  fx=--------
-1_0_1_27E8_C9_55_300000_0_0_0          |  FX                                               |  27E8_C9_55_300000=--------                              |  fx=--------
-1_0_1_40E_8_AA_5A0000_0_0_0            |  FX                                               |  40E_8_AA_5A0000=--------                                |  fx=--------
+1_0_16_180B_C_55_300000_0_0_0          |  FX                                               |  180B_C_55_300000=--------                               |  fx=fx
+1_0_1_27E7_C9_55_300000_0_0_0          |  FX                                               |  27E7_C9_55_300000=--------                              |  fx=fx
+1_0_1_27E8_C9_55_300000_0_0_0          |  FX                                               |  27E8_C9_55_300000=--------                              |  fx=fx
+1_0_1_40E_8_AA_5A0000_0_0_0            |  FX                                               |  40E_8_AA_5A0000=--------                                |  fx=fx
 1_0_1_10_1566_1566_2080000_0_0_0       |  FX 1 HD                                          |  10_1566_1566_2080000=--------                           |  fx1hd=--------
 1_0_1_13_117E_117E_2080000_0_0_0       |  FX 1 HD                                          |  13_117E_117E_2080000=--------                           |  fx1hd=--------
 1_0_1_14_117E_117E_2080000_0_0_0       |  FX 2 HD                                          |  14_117E_117E_2080000=--------                           |  fx2hd=--------
@@ -4596,8 +4592,8 @@
 1_0_19_3CF2_C95_3_EB0000_0_0_0         |  Film+ HD                                         |  3CF2_C95_3_EB0000=filmplus                              |  filmplushd=filmplushd-velirajeha
 1_0_19_5F3_5_64_DE80000_0_0_0          |  Film+ HD                                         |  5F3_5_64_DE80000=--------                               |  filmplushd=filmplushd-velirajeha
 1_0_19_767D_2BF_600_E080000_0_0_0      |  Film+ HD                                         |  767D_2BF_600_E080000=--------                           |  filmplushd=filmplushd-velirajeha
+1_0_19_7A4F_2CB_600_E080000_0_0_0      |  Film+ HD                                         |  7A4F_2CB_600_E080000=--------                           |  filmplushd=filmplushd-velirajeha
 1_0_19_3AA1_C84_3_EB0000_0_0_0         |  Film+ HD Hungary                                 |  3AA1_C84_3_EB0000=--------                              |  filmplushdhungary=filmplushd-velirajeha
-1_0_19_7A4F_2CB_600_E080000_0_0_0      |  Film+ HD.                                        |  7A4F_2CB_600_E080000=--------                           |  filmplushd=filmplushd-velirajeha
 1_0_16_1F4B_AF8_BB_E080000_0_0_0       |  Film+ SK                                         |  1F4B_AF8_BB_E080000=--------                            |  filmplussk=filmplus
 1_0_16_3B76_C8D_3_EB0000_0_0_0         |  Film+ SK                                         |  3B76_C8D_3_EB0000=--------                              |  filmplussk=filmplus
 1_0_16_51B8_C96_3_EB0000_0_0_0         |  Film1 Action                                     |  51B8_C96_3_EB0000=--------                              |  film1action=film1action
@@ -4684,12 +4680,11 @@
 1_0_16_3CF9_C95_3_EB0000_0_0_0         |  Filmbox Stars                                    |  3CF9_C95_3_EB0000=--------                              |  filmboxstars=filmboxstars
 1_0_1_522_3_64_DE80000_0_0_0           |  Filmbox Stars                                    |  522_3_64_DE80000=--------                               |  filmboxstars=filmboxstars
 1_0_16_766B_2BF_600_E080000_0_0_0      |  Filmbox Stars CZ                                 |  766B_2BF_600_E080000=--------                           |  filmboxstarscz=filmboxstars
+1_0_16_7A55_2CB_600_E080000_0_0_0      |  Filmbox Stars CZ                                 |  7A55_2CB_600_E080000=--------                           |  filmboxstarscz=filmboxstars
 1_0_16_7A5E_2CB_600_E080000_0_0_0      |  Filmbox Stars CZ (SVT)                           |  7A5E_2CB_600_E080000=--------                           |  filmboxstarsczsvt=filmboxstars
-1_0_16_7A55_2CB_600_E080000_0_0_0      |  Filmbox Stars CZ.                                |  7A55_2CB_600_E080000=--------                           |  filmboxstarscz=filmboxstars
 1_0_1_77FE_2C3_600_E080000_0_0_0       |  Filmbox.                                         |  77FE_2C3_600_E080000=--------                           |  filmbox=filmbox
 1_0_19_9CAC_FAA_E0_1040000_0_0_0       |  Fine Living HD                                   |  9CAC_FAA_E0_1040000=--------                            |  finelivinghd=--------
 1_0_16_532_51A4_16E_A00000_0_0_0       |  First Channel                                    |  532_51A4_16E_A00000=--------                            |  firstchannel=firstchannel
-1_0_1_6_1_1_A0B0F9_0_0_0               |  First Channel                                    |  6_1_1_A0B0F9=--------                                   |  firstchannel=firstchannel
 1_0_1_233D_2328_13E_820000_0_0_0       |  Firstlight                                       |  233D_2328_13E_820000=--------                           |  firstlight=firstlight
 1_0_16_314_C94_3_EB0000_0_0_0          |  Fishing and Hunting                              |  314_C94_3_EB0000=--------                               |  fishingandhunting=fishingandhunting
 1_0_1F_4B5_76C1_16E_A00000_0_0_0       |  Fishing and Hunting                              |  4B5_76C1_16E_A00000=--------                            |  fishingandhunting=fishingandhunting
@@ -4720,7 +4715,7 @@
 1_0_1_CB_25E4_D5_820000_0_0_0          |  Food Network                                     |  CB_25E4_D5_820000=--------                              |  foodnetwork=foodnetwork
 1_0_1_CB_2_D5_1C20000_0_0_0            |  Food Network                                     |  CB_2_D5_1C20000=--------                                |  foodnetwork=foodnetwork
 1_0_1_FBB_AF4_BB_E080000_0_0_0         |  Food Network                                     |  FBB_AF4_BB_E080000=--------                             |  foodnetwork=foodnetwork
-1_0_19_16A8_C3AA_9E_5A0000_0_0_0       |  Food Network EMEA HD                             |  16A8_C3AA_9E_5A0000=--------                            |  foodnetworkemeahd=--------
+1_0_19_16A8_C3AA_9E_5A0000_0_0_0       |  Food Network EMEA HD                             |  16A8_C3AA_9E_5A0000=--------                            |  foodnetworkemeahd=foodnetwork
 1_0_19_3DD9_640_13E_820000_0_0_0       |  Food Network HD                                  |  3DD9_640_13E_820000=--------                            |  foodnetworkhd=foodnetwork
 1_0_1_3C9A_1BBC_13E_820000_0_0_0       |  Food Network HD                                  |  3C9A_1BBC_13E_820000=--------                           |  foodnetworkhd=foodnetwork
 1_0_19_3DEC_640_13E_820000_0_0_0       |  Food Network HD_                                 |  3DEC_640_13E_820000=--------                            |  foodnetworkhd=foodnetwork
@@ -4874,11 +4869,10 @@
 1_0_1_D3_2_800_DCA0000_0_0_0           |  GMA Life TV                                      |  D3_2_800_DCA0000=--------                               |  gmalifetv=gmalifetv
 1_0_1_CB_2_800_DCA0000_0_0_0           |  GMA News TV                                      |  CB_2_800_DCA0000=--------                               |  gmanewstv=gmanews
 1_0_1_CA_2_800_DCA0000_0_0_0           |  GMA Pinoy TV                                     |  CA_2_800_DCA0000=--------                               |  gmapinoytv=gmapinoytv
-1_0_16_1FF3_1E87_2BE_1040000_0_0_0     |  GMC TV GOMBE                                     |  1FF3_1E87_2BE_1040000=--------                          |  gmctvgombe=--------
+1_0_19_1FF3_1E87_2BE_1040000_0_0_0     |  GMC TV GOMBE                                     |  1FF3_1E87_2BE_1040000=--------                          |  gmctvgombe=--------
 1_0_1_A_B_4_1680000_0_0_0              |  GMS Sport                                        |  A_B_4_1680000=--------                                  |  gmssport=gmstv
-1_0_1_1_1_1_2AD3112_0_0_0              |  GMTV                                             |  1_1_1_2AD3112=--------                                  |  gmtv=--------
 1_0_1_43A0_2CEC_13E_820000_0_0_0       |  GNC                                              |  43A0_2CEC_13E_820000=--------                           |  gnc=gnc
-1_0_16_14_2_55_300000_0_0_0            |  GNC Sibir                                        |  14_2_55_300000=--------                                 |  gncsibir=--------
+1_0_16_14_2_55_300000_0_0_0            |  GNC Sibir                                        |  14_2_55_300000=--------                                 |  gncsibir=gnc
 1_0_19_138_17F8_2BE_1040000_0_0_0      |  GOBX Marhaba                                     |  138_17F8_2BE_1040000=--------                           |  gobxmarhaba=--------
 1_0_16_FDC_6_56_300000_0_0_0           |  GOD Channel                                      |  FDC_6_56_300000=--------                                |  godchannel=godtv
 1_0_1_8FC_6_6_CE40000_0_0_0            |  GOD Channel                                      |  8FC_6_6_CE40000=--------                                |  godchannel=godtv
@@ -4967,7 +4961,6 @@
 1_0_82_E55_16A8_FBFF_820000_0_0_0      |  Gestione Collegam. Telefonico                    |  E55_16A8_FBFF_820000=--------                           |  gestionecollegamtelefonico=--------
 1_0_1_D359_830_2_11A0000_0_0_0         |  Get Lucky TV                                     |  D359_830_2_11A0000=--------                             |  getluckytv=getluckytv
 1_0_82_210B_7EB_2_11A0000_0_0_0        |  Get Sky Products                                 |  210B_7EB_2_11A0000=--------                             |  getskyproducts=--------
-1_0_1_9_1_FFFF_DCA2A3F_0_0_0           |  Ghram                                            |  9_1_FFFF_DCA2A3F=--------                               |  ghram=--------
 1_0_19_10E2_3E8_13E_820000_0_0_0       |  Giallo HD                                        |  10E2_3E8_13E_820000=--------                            |  giallohd=--------
 1_0_2_E31_1C20_13E_820000_0_0_0        |  Giornale Radio                                   |  E31_1C20_13E_820000=--------                            |  giornaleradio=giornaleradio
 1_0_1_8A_65_53_CE40000_0_0_0           |  Globo                                            |  8A_65_53_CE40000=--------                               |  globo=tvglobo
@@ -5187,7 +5180,7 @@
 1_0_82_1F4F_384_110_5A0000_0_0_0       |  HUMAX DOWNLOAD SVC                               |  1F4F_384_110_5A0000=--------                            |  humaxdownloadsvc=--------
 1_0_1_8C_4_64_300000_0_0_0             |  HUNAN                                            |  8C_4_64_300000=--------                                 |  hunan=hunantv
 1_0_A_5_0_40_2120000_0_0_0             |  HURRIYAT RADIO                                   |  5_0_40_2120000=--------                                 |  hurriyatradio=--------
-1_0_C_3E9_3E9_1_820000_0_0_0           |  HVS-1 Bck                                        |  3E9_3E9_1_820000=--------                               |  hvs1bck=--------
+1_0_C_3E9_3E9_1_820000_0_0_0           |  HVS-1 Pry                                        |  3E9_3E9_1_820000=--------                               |  hvs1pry=--------
 1_0_C_3EA_3EA_1_820000_0_0_0           |  HVS-2 Bck                                        |  3EA_3EA_1_820000=--------                               |  hvs2bck=--------
 1_0_1_15F_19C8_9E_5A0000_0_0_0         |  HWAZAN                                           |  15F_19C8_9E_5A0000=--------                             |  hwazan=hwazantv
 1_0_1_580_FF86_36E_1680000_0_0_0       |  HY7                                              |  580_FF86_36E_1680000=--------                           |  hy7=--------
@@ -5304,7 +5297,7 @@
 1_0_2_A3C_0_0_1042BDE_0_0_0            |  Holy Quran Radio                                 |  A3C_0_0_1042BDE=--------                                |  holyquranradio=quranradio
 1_0_2_A3C_1A_2BE_DCA0000_0_0_0         |  Holy Quran Radio                                 |  A3C_1A_2BE_DCA0000=--------                             |  holyquranradio=quranradio
 1_0_1_CFD5_83F_2_11A0000_0_0_0         |  Home Shop TV                                     |  CFD5_83F_2_11A0000=--------                             |  homeshoptv=homeshoptv
-1_0_1_1B_194E_194E_2080000_0_0_0       |  Home TV Persian                                  |  1B_194E_194E_2080000=--------                           |  hometvpersian=--------
+1_0_1_1B_194E_194E_2080000_0_0_0       |  Home TV                                          |  1B_194E_194E_2080000=--------                           |  hometv=hometv
 1_0_1_3_1_1_2AD3112_0_0_0              |  Homebase TV                                      |  3_1_1_2AD3112=--------                                  |  homebasetv=--------
 1_0_2_A46_1A_2BE_1040000_0_0_0         |  Hona AlAzim                                      |  A46_1A_2BE_1040000=--------                             |  honaalazim=--------
 1_0_1_33A_8_800_DCA0000_0_0_0          |  Hona Baghdad                                     |  33A_8_800_DCA0000=--------                              |  honabaghdad=--------
@@ -5585,7 +5578,6 @@
 1_0_1_1F5_384_13E_820000_0_0_0         |  Iran International HD                            |  1F5_384_13E_820000=--------                             |  iraninternationalhd=iraninternational
 1_0_1_21_117E_117E_2080000_0_0_0       |  Iran International HD                            |  21_117E_117E_2080000=--------                           |  iraninternationalhd=iraninternational
 1_0_2_2_1F9_2BE_1040000_0_0_0          |  Iran International TV HD                         |  2_1F9_2BE_1040000=--------                              |  iraninternationaltvhd=iraninternational
-1_0_1_27_211E_211E_2080000_0_0_0       |  Iran Intl Radio                                  |  27_211E_211E_2080000=--------                           |  iranintlradio=iraninternationalradio
 1_0_1_F_1566_1566_2080000_0_0_0        |  Iran Movie                                       |  F_1566_1566_2080000=--------                            |  iranmovie=--------
 1_0_1_2E_1D36_1D36_2080000_0_0_0       |  Iran Proud                                       |  2E_1D36_1D36_2080000=--------                           |  iranproud=--------
 1_0_1_E97_3200_13E_820000_0_0_0        |  Iran e Aryaee                                    |  E97_3200_13E_820000=--------                            |  iranearyaee=iranearyaee
@@ -5715,8 +5707,8 @@
 1_0_16_339A_C89_3_EB0000_0_0_0         |  Jojko                                            |  339A_C89_3_EB0000=--------                              |  jojko=jojko
 1_0_16_339A_C9D_3_EB0000_0_0_0         |  Jojko                                            |  339A_C9D_3_EB0000=--------                              |  jojko=jojko
 1_0_16_767A_2BF_600_E080000_0_0_0      |  Jojko                                            |  767A_2BF_600_E080000=--------                           |  jojko=jojko
+1_0_16_7A4E_2CB_600_E080000_0_0_0      |  Jojko                                            |  7A4E_2CB_600_E080000=--------                           |  jojko=jojko
 1_0_1F_4C9_76C1_16E_A00000_0_0_0       |  Jojko                                            |  4C9_76C1_16E_A00000=--------                            |  jojko=jojko
-1_0_16_7A4E_2CB_600_E080000_0_0_0      |  Jojko.                                           |  7A4E_2CB_600_E080000=--------                           |  jojko=jojko
 1_0_1_2C9_7_800_DCA0000_0_0_0          |  Jordan                                           |  2C9_7_800_DCA0000=--------                              |  jordan=jordantv
 1_0_1_104B_29_800_DCA0000_0_0_0        |  Jordan Amen                                      |  104B_29_800_DCA0000=--------                            |  jordanamen=amenfm
 1_0_19_340_8_800_DCA0000_0_0_0         |  Jordan HD                                        |  340_8_800_DCA0000=--------                              |  jordanhd=jordantv
@@ -5779,7 +5771,6 @@
 1_0_1_44D_1_42_1A40000_0_0_0           |  KANAL D                                          |  44D_1_42_1A40000=--------                               |  kanald=kanald
 1_0_19_1_6_539_1860000_0_0_0           |  KANAL D HD                                       |  1_6_539_1860000=--------                                |  kanaldhd=kanald
 1_0_19_6A5_7_42_1A40000_0_0_0          |  KANAL D HD                                       |  6A5_7_42_1A40000=--------                               |  kanaldhd=kanald
-1_0_1_C672_7BD6_42E_1A40000_0_0_0      |  KANAL EGE                                        |  C672_7BD6_42E_1A40000=--------                          |  kanalege=kanalege
 1_0_1_3916_A21D_42E_1A40000_0_0_0      |  KANAL FIRAT                                      |  3916_A21D_42E_1A40000=--------                          |  kanalfirat=kanalfirat
 1_0_1_C9BC_76C1_42E_1A40000_0_0_0      |  KANAL S                                          |  C9BC_76C1_42E_1A40000=--------                          |  kanals=--------
 1_0_1_CF0F_7AAA_42E_1A40000_0_0_0      |  KANAL T                                          |  CF0F_7AAA_42E_1A40000=--------                          |  kanalt=kibriskanalt
@@ -5801,7 +5792,7 @@
 1_0_1_4EF5_C8A_3_EB0000_0_0_0          |  KCN Music 2                                      |  4EF5_C8A_3_EB0000=--------                              |  kcnmusic2=kcn2music
 1_0_2_D7C_FF9A_36E_1680000_0_0_0       |  KE9                                              |  D7C_FF9A_36E_1680000=--------                           |  ke9=--------
 1_0_19_1BE0_1E86_2BE_1040000_0_0_0     |  KEBBI TV                                         |  1BE0_1E86_2BE_1040000=--------                          |  kebbitv=--------
-1_0_19_1BCC_1E86_2BE_1040000_0_0_0     |  KHALIFA TV                                       |  1BCC_1E86_2BE_1040000=--------                          |  khalifatv=--------
+1_0_1_1BCC_1E86_2BE_1040000_0_0_0      |  KHALIFA TV                                       |  1BCC_1E86_2BE_1040000=--------                          |  khalifatv=--------
 1_0_1_2E0_3_0_208B05C_0_0_0            |  KHL Prime HD                                     |  2E0_3_0_208B05C=--------                                |  khlprimehd=--------
 1_0_1_CBF9_A925_42E_1A40000_0_0_0      |  KIBRIS TV HD                                     |  CBF9_A925_42E_1A40000=--------                          |  kibristvhd=--------
 1_0_1_1DB6_82D_2_11A0000_0_0_0         |  KICC TV                                          |  1DB6_82D_2_11A0000=--------                             |  kicctv=kicctv
@@ -5853,7 +5844,6 @@
 1_0_16_1AB_4FB0_55F_DDE0000_0_0_0      |  KTO                                              |  1AB_4FB0_55F_DDE0000=--------                           |  kto=kto
 1_0_1_264_C21_6E_DCA0000_0_0_0         |  KTO                                              |  264_C21_6E_DCA0000=--------                             |  kto=kto
 1_0_19_13D8_5014_16E_A00000_0_0_0      |  KTV                                              |  13D8_5014_16E_A00000=--------                           |  ktv=ktv
-1_0_1_1_1_1_A0B0F9_0_0_0               |  KTV                                              |  1_1_1_A0B0F9=kohavisionhd                               |  ktv=ktv
 1_0_1_C9A6_76C1_42E_1A40000_0_0_0      |  KUDUS TV                                         |  C9A6_76C1_42E_1A40000=--------                          |  kudustv=--------
 1_0_2_C811_A3AE_42E_1A40000_0_0_0      |  KUPE FM                                          |  C811_A3AE_42E_1A40000=--------                          |  kupefm=kupefm
 1_0_2_C80E_A3AE_42E_1A40000_0_0_0      |  KUR AN RADYO                                     |  C80E_A3AE_42E_1A40000=--------                          |  kuranradyo=diyanetkuranradyo
@@ -5894,13 +5884,13 @@
 1_0_19_73_3264_13E_820000_0_0_0        |  Kabelio ProSieben CH                             |  73_3264_13E_820000=--------                             |  kabelioprosiebench=prosiebenhd
 1_0_19_6C_3264_13E_820000_0_0_0        |  Kabelio Puls acht                                |  6C_3264_13E_820000=--------                             |  kabeliopulsacht=pulsacht
 1_0_19_6F_3264_13E_820000_0_0_0        |  Kabelio RTL CH                                   |  6F_3264_13E_820000=--------                             |  kabeliortlch=rtlhd
+1_0_19_82_3264_13E_820000_0_0_0        |  Kabelio RTL Super CH                             |  82_3264_13E_820000=--------                             |  kabeliortlsuperch=--------
 1_0_19_F3_2DB4_13E_820000_0_0_0        |  Kabelio RTL9 CH                                  |  F3_2DB4_13E_820000=--------                             |  kabeliortl9ch=--------
 1_0_19_70_3264_13E_820000_0_0_0        |  Kabelio RTLZWEI CH                               |  70_3264_13E_820000=--------                             |  kabeliortlzweich=rtlzweihd
 1_0_19_6A_3264_13E_820000_0_0_0        |  Kabelio S1                                       |  6A_3264_13E_820000=--------                             |  kabelios1=s1
 1_0_19_72_3264_13E_820000_0_0_0        |  Kabelio SAT.1 CH                                 |  72_3264_13E_820000=--------                             |  kabeliosat1ch=sat1hd
 1_0_19_D3_2DB4_13E_820000_0_0_0        |  Kabelio SWISS 1                                  |  D3_2DB4_13E_820000=--------                             |  kabelioswiss1=swiss1
 1_0_1_75_3264_13E_820000_0_0_0         |  Kabelio ServusTV                                 |  75_3264_13E_820000=--------                             |  kabelioservustv=servustv
-1_0_19_82_3264_13E_820000_0_0_0        |  Kabelio Super RTL CH                             |  82_3264_13E_820000=--------                             |  kabeliosuperrtlch=superrtlhd
 1_0_19_F1_2DB4_13E_820000_0_0_0        |  Kabelio TF1                                      |  F1_2DB4_13E_820000=--------                             |  kabeliotf1=tf1
 1_0_19_CD_2DB4_13E_820000_0_0_0        |  Kabelio TV Suedost                               |  CD_2DB4_13E_820000=--------                             |  kabeliotvsuedost=sudostschweiz
 1_0_19_67_3264_13E_820000_0_0_0        |  Kabelio TV24                                     |  67_3264_13E_820000=--------                             |  kabeliotv24=tv24
@@ -5923,7 +5913,7 @@
 1_0_1_39DB_1FA4_13E_820000_0_0_0       |  Kalemeh TV                                       |  39DB_1FA4_13E_820000=--------                           |  kalemehtv=kalemehfarsi
 1_0_19_1CA_10_6E_DCA0000_0_0_0         |  Kalimat tv                                       |  1CA_10_6E_DCA0000=--------                              |  kalimattv=--------
 1_0_1_61B5_FF91_36E_1680000_0_0_0      |  Kamem                                            |  61B5_FF91_36E_1680000=--------                          |  kamem=--------
-1_0_16_10F4_51A4_16E_A00000_0_0_0      |  Kanal 10                                         |  10F4_51A4_16E_A00000=kanal10                            |  kanal10=kanal10-cricroclot
+1_0_16_10F4_51A4_16E_A00000_0_0_0      |  Kanal 10                                         |  10F4_51A4_16E_A00000=--------                           |  kanal10=kanal10
 1_0_19_1D7A_22_46_E080000_0_0_0        |  Kanal 10 Norge HD                                |  1D7A_22_46_E080000=--------                             |  kanal10norgehd=kanal10norge
 1_0_16_1C63_22_46_E080000_0_0_0        |  Kanal 10 Sverige                                 |  1C63_22_46_E080000=--------                             |  kanal10sverige=kanal10-cricroclot
 1_0_19_1D30_4_46_E080000_0_0_0         |  Kanal 11 HD                                      |  1D30_4_46_E080000=--------                              |  kanal11hd=kanal11
@@ -5952,9 +5942,9 @@
 1_0_19_7928_2C6_600_E080000_0_0_0      |  Kanal D HD                                       |  7928_2C6_600_E080000=--------                           |  kanaldhd=kanald
 1_0_16_792A_2C6_600_E080000_0_0_0      |  Kanal D2                                         |  792A_2C6_600_E080000=--------                           |  kanald2=kanald2
 1_0_1_20F_11_1C_1860000_0_0_0          |  Kanal D2                                         |  20F_11_1C_1860000=--------                              |  kanald2=kanald2
-1_0_16_75A2_2BD_600_E080000_0_0_0      |  Kanal D2.                                        |  75A2_2BD_600_E080000=--------                           |  kanald2=kanald2
+1_0_1_75A2_2BD_600_E080000_0_0_0       |  Kanal D2                                         |  75A2_2BD_600_E080000=--------                           |  kanald2=kanald2
 1_0_16_792B_2C6_600_E080000_0_0_0      |  Kanal D2.                                        |  792B_2C6_600_E080000=--------                           |  kanald2=kanald2
-1_0_16_75B8_2BD_600_E080000_0_0_0      |  Kanal D2..                                       |  75B8_2BD_600_E080000=--------                           |  kanald2=kanald2
+1_0_1_75B8_2BD_600_E080000_0_0_0       |  Kanal D2..                                       |  75B8_2BD_600_E080000=--------                           |  kanald2=kanald2
 1_0_1_26_194E_194E_2080000_0_0_0       |  Kanal Jadid                                      |  26_194E_194E_2080000=--------                           |  kanaljadid=kanaljadid
 1_0_1_774_9FC4_7E_460000_0_0_0         |  Kanal Jadid HD                                   |  774_9FC4_7E_460000=--------                             |  kanaljadidhd=kanaljadid
 1_0_1_4_1_0_1CCAB10_0_0_0              |  Kanal S                                          |  4_1_0_1CCAB10=--------                                  |  kanals=--------
@@ -6024,7 +6014,7 @@
 1_0_19_7ABA_2CC_600_E080000_0_0_0      |  Kolyokklub                                       |  7ABA_2CC_600_E080000=--------                           |  kolyokklub=kolyokklub
 1_0_1_76C3_2C0_600_E080000_0_0_0       |  Kolyokklub                                       |  76C3_2C0_600_E080000=--------                           |  kolyokklub=kolyokklub
 1_0_1_76E0_2C0_600_E080000_0_0_0       |  Kolyokklub.                                      |  76E0_2C0_600_E080000=--------                           |  kolyokklub=kolyokklub
-1_0_1_41E_1_AA_5A0000_0_0_0            |  Kontra                                           |  41E_1_AA_5A0000=--------                                |  kontra=--------
+1_0_1_41E_1_AA_5A0000_0_0_0            |  Kontra                                           |  41E_1_AA_5A0000=--------                                |  kontra=kontra
 1_0_1_16B_1C84_13E_820000_0_0_0        |  Kontra Channel                                   |  16B_1C84_13E_820000=--------                            |  kontrachannel=kontra
 1_0_1_1A_8_FFFF_DC02B58_0_0_0          |  Koogi                                            |  1A_8_FFFF_DC02B58=--------                              |  koogi=koogitv
 1_0_1_4E92_C8A_3_EB0000_0_0_0          |  Koreni                                           |  4E92_C8A_3_EB0000=--------                              |  koreni=koreni
@@ -6128,17 +6118,17 @@
 1_0_1_317_107_217C_DDE0000_0_0_0       |  LA7 Test                                         |  317_107_217C_DDE0000=--------                           |  la7test=--------
 1_0_19_318_107_217C_5A0000_0_0_0       |  LA7 on demand                                    |  318_107_217C_5A0000=--------                            |  la7ondemand=la7
 1_0_19_318_107_217C_DDE0000_0_0_0      |  LA7 on demand                                    |  318_107_217C_DDE0000=--------                           |  la7ondemand=la7
-1_0_19_2C8_107_217C_5A0000_0_0_0       |  LA7d HD                                          |  2C8_107_217C_5A0000=--------                            |  la7dhd=la7dhd
-1_0_19_2C8_107_217C_DDE0000_0_0_0      |  LA7d HD                                          |  2C8_107_217C_DDE0000=--------                           |  la7dhd=la7dhd
-1_0_19_2D2_107_217C_5A0000_0_0_0       |  LA7d HD                                          |  2D2_107_217C_5A0000=--------                            |  la7dhd=la7dhd
-1_0_19_2D2_107_217C_DDE0000_0_0_0      |  LA7d HD                                          |  2D2_107_217C_DDE0000=--------                           |  la7dhd=la7dhd
-1_0_19_2F0_107_217C_5A0000_0_0_0       |  LA7d HD                                          |  2F0_107_217C_5A0000=--------                            |  la7dhd=la7dhd
-1_0_19_2F0_107_217C_DDE0000_0_0_0      |  LA7d HD                                          |  2F0_107_217C_DDE0000=--------                           |  la7dhd=la7dhd
-1_0_19_49_1770_BE_820000_0_0_0         |  LA7d HD                                          |  49_1770_BE_820000=--------                              |  la7dhd=la7dhd
+1_0_19_2C8_107_217C_5A0000_0_0_0       |  LA7d HD                                          |  2C8_107_217C_5A0000=--------                            |  la7dhd=la7d
+1_0_19_2C8_107_217C_DDE0000_0_0_0      |  LA7d HD                                          |  2C8_107_217C_DDE0000=--------                           |  la7dhd=la7d
+1_0_19_2D2_107_217C_5A0000_0_0_0       |  LA7d HD                                          |  2D2_107_217C_5A0000=--------                            |  la7dhd=la7d
+1_0_19_2D2_107_217C_DDE0000_0_0_0      |  LA7d HD                                          |  2D2_107_217C_DDE0000=--------                           |  la7dhd=la7d
+1_0_19_2F0_107_217C_5A0000_0_0_0       |  LA7d HD                                          |  2F0_107_217C_5A0000=--------                            |  la7dhd=la7d
+1_0_19_2F0_107_217C_DDE0000_0_0_0      |  LA7d HD                                          |  2F0_107_217C_DDE0000=--------                           |  la7dhd=la7d
+1_0_19_49_1770_BE_820000_0_0_0         |  LA7d HD                                          |  49_1770_BE_820000=--------                              |  la7dhd=la7d
 1_0_1_21_65_1_300000_0_0_0             |  LADBROKES SIS LES2 - CISCO 1                     |  21_65_1_300000=--------                                 |  ladbrokessisles2cisco1=ladbrokeslive3
 1_0_16_3C2A_C90_3_EB0000_0_0_0         |  LALA TV                                          |  3C2A_C90_3_EB0000=--------                              |  lalatv=lalatv
 1_0_16_765E_2BF_600_E080000_0_0_0      |  LALA TV                                          |  765E_2BF_600_E080000=--------                           |  lalatv=lalatv
-1_0_16_7A47_2CB_600_E080000_0_0_0      |  LALA TV.                                         |  7A47_2CB_600_E080000=--------                           |  lalatv=lalatv
+1_0_16_7A47_2CB_600_E080000_0_0_0      |  LALA TV                                          |  7A47_2CB_600_E080000=--------                           |  lalatv=lalatv
 1_0_2_C69B_7BD6_42E_1A40000_0_0_0      |  LALEGUL FM                                       |  C69B_7BD6_42E_1A40000=--------                          |  lalegulfm=lalegulfm
 1_0_1_C68B_7BD6_42E_1A40000_0_0_0      |  LALEGUL TV                                       |  C68B_7BD6_42E_1A40000=--------                          |  lalegultv=lalegul
 1_0_1_7793_424_1_C00000_0_0_0          |  LALIGA TV BAR                                    |  7793_424_1_C00000=--------                              |  laligatvbar=laligatvbar
@@ -6190,8 +6180,6 @@
 1_0_19_64F_FF88_36E_1680000_0_0_0      |  LIGAPHD                                          |  64F_FF88_36E_1680000=--------                           |  ligaphd=supersportlaliga
 1_0_16_A429_FFA2_36E_1680000_0_0_0     |  LIJOC                                            |  A429_FFA2_36E_1680000=--------                          |  lijoc=--------
 1_0_1_C67D_7BD6_42E_1A40000_0_0_0      |  LINE TV                                          |  C67D_7BD6_42E_1A40000=--------                          |  linetv=line
-1_0_16_52_7918_217C_5A0000_0_0_0       |  LINEAGEM                                         |  52_7918_217C_5A0000=--------                            |  lineagem=--------
-1_0_19_2_7918_217C_5A0000_0_0_0        |  LINEAGEM                                         |  2_7918_217C_5A0000=--------                             |  lineagem=--------
 1_0_1_1F49_80E1_217C_5A0000_0_0_0      |  LIRATV HD                                        |  1F49_80E1_217C_5A0000=--------                          |  liratvhd=--------
 1_0_1_A09D_FFA1_36E_1680000_0_0_0      |  LIYU                                             |  A09D_FFA1_36E_1680000=--------                          |  liyu=--------
 1_0_1_AF4_1C_800_DCA0000_0_0_0         |  LJBC TV                                          |  AF4_1C_800_DCA0000=--------                             |  ljbctv=--------
@@ -6297,13 +6285,13 @@
 1_0_20_BC5_20D0_13E_820000_0_0_0       |  Love Nature 4K                                   |  BC5_20D0_13E_820000=--------                            |  lovenature4k=lovenature4k
 1_0_19_263_C418_16E_A00000_0_0_0       |  Love Nature HD                                   |  263_C418_16E_A00000=--------                            |  lovenaturehd=lovenature
 1_0_19_2C4_7_1_1860000_0_0_0           |  Love Nature HD                                   |  2C4_7_1_1860000=--------                                |  lovenaturehd=lovenature
+1_0_19_7734_2C1_600_E080000_0_0_0      |  Love Nature HD                                   |  7734_2C1_600_E080000=--------                           |  lovenaturehd=lovenature
 1_0_19_7927_2C6_600_E080000_0_0_0      |  Love Nature HD                                   |  7927_2C6_600_E080000=--------                           |  lovenaturehd=lovenature
 1_0_19_7740_2C1_600_E080000_0_0_0      |  Love Nature HD (PS)                              |  7740_2C1_600_E080000=--------                           |  lovenaturehdps=lovenature
 1_0_19_7929_2C6_600_E080000_0_0_0      |  Love Nature HD (PS)                              |  7929_2C6_600_E080000=--------                           |  lovenaturehdps=lovenature
 1_0_19_31B_C94_3_EB0000_0_0_0          |  Love Nature HD BNL                               |  31B_C94_3_EB0000=--------                               |  lovenaturehdbnl=lovenature
 1_0_19_30F_C94_3_EB0000_0_0_0          |  Love Nature HD CZ                                |  30F_C94_3_EB0000=--------                               |  lovenaturehdcz=lovenature
 1_0_19_31A_C94_3_EB0000_0_0_0          |  Love Nature HD INT                               |  31A_C94_3_EB0000=--------                               |  lovenaturehdint=lovenature
-1_0_19_7734_2C1_600_E080000_0_0_0      |  Love Nature HD.                                  |  7734_2C1_600_E080000=--------                           |  lovenaturehd=lovenature
 1_0_2_135_157C_13E_820000_0_0_0        |  Love Radio                                       |  135_157C_13E_820000=loveradio975                        |  loveradio=loveradio
 1_0_2_1389_3FC_39E_1860000_0_0_0       |  Love Radio                                       |  1389_3FC_39E_1860000=--------                           |  loveradio=loveradio
 1_0_19_C44F_837_2_11A0000_0_0_0        |  LoveWorld HD                                     |  C44F_837_2_11A0000=--------                             |  loveworldhd=loveworld
@@ -6604,7 +6592,7 @@
 1_0_19_2017_430_1_C00000_0_0_0         |  MELODY                                           |  2017_430_1_C00000=--------                              |  melody=melody
 1_0_1_C677_7BD6_42E_1A40000_0_0_0      |  MELTEM TV                                        |  C677_7BD6_42E_1A40000=--------                          |  meltemtv=--------
 1_0_16_BCC_AF3_BB_E080000_0_0_0        |  MEN.TV                                           |  BCC_AF3_BB_E080000=--------                             |  mentv=--------
-1_0_16_51D5_C96_3_EB0000_0_0_0         |  MENT TV                                          |  51D5_C96_3_EB0000=--------                              |  menttv=menttv
+1_0_16_51D5_C96_3_EB0000_0_0_0         |  MENT pop                                         |  51D5_C96_3_EB0000=--------                              |  mentpop=mentpop
 1_0_1_68_65_53_CE40000_0_0_0           |  MEO                                              |  68_65_53_CE40000=--------                               |  meo=meo
 1_0_1_3915_A21D_42E_1A40000_0_0_0      |  MERCAN TV                                        |  3915_A21D_42E_1A40000=--------                          |  mercantv=mercan
 1_0_1_75_5_49_2AD0000_0_0_0            |  MERIBA TV                                        |  75_5_49_2AD0000=--------                                |  meribatv=--------
@@ -6853,7 +6841,7 @@
 1_0_1_776_1_64_5A0000_0_0_0            |  Mandarin TV                                      |  776_1_64_5A0000=--------                                |  mandarintv=mandarintv
 1_0_1_A7FA_FFA3_36E_1680000_0_0_0      |  Maningue Kool                                    |  A7FA_FFA3_36E_1680000=--------                          |  maninguekool=maninguekool
 1_0_1_24_0_0_1CC2B57_0_0_0             |  Marao                                            |  24_0_0_1CC2B57=--------                                 |  marao=marao
-1_0_1_200_2134_9C_5A0000_0_0_0         |  Marco Polo TV                                    |  200_2134_9C_5A0000=--------                             |  marcopolotv=marcopolo-lespestovi
+1_0_1_200_2134_9C_5A0000_0_0_0         |  Marco Polo TV                                    |  200_2134_9C_5A0000=--------                             |  marcopolotv=marcopolotv
 1_0_2_529_30_36_CE40000_0_0_0          |  Marginal                                         |  529_30_36_CE40000=--------                              |  marginal=marginal
 1_0_16_1C08_384_110_5A0000_0_0_0       |  Maria Vision                                     |  1C08_384_110_5A0000=--------                            |  mariavision=mariavisionmedugorje
 1_0_1_82_2_49_2AD0000_0_0_0            |  Marima Fire TV                                   |  82_2_49_2AD0000=--------                                |  marimafiretv=--------
@@ -6862,7 +6850,7 @@
 1_0_19_3F5_AF1_BB_E080000_0_0_0        |  Markiza HD                                       |  3F5_AF1_BB_E080000=--------                             |  markizahd=markiza
 1_0_1F_7D3_9E98_16E_A00000_0_0_0       |  Markiza HD                                       |  7D3_9E98_16E_A00000=--------                            |  markizahd=markiza
 1_0_16_7661_2BF_600_E080000_0_0_0      |  Markiza INT                                      |  7661_2BF_600_E080000=--------                           |  markizaint=markizainternational
-1_0_16_7A49_2CB_600_E080000_0_0_0      |  Markiza INT.                                     |  7A49_2CB_600_E080000=--------                           |  markizaint=markizainternational
+1_0_16_7A49_2CB_600_E080000_0_0_0      |  Markiza INT                                      |  7A49_2CB_600_E080000=--------                           |  markizaint=markizainternational
 1_0_16_3720_C8E_3_EB0000_0_0_0         |  Markiza International                            |  3720_C8E_3_EB0000=--------                              |  markizainternational=markizainternational
 1_0_16_FAD_AF4_BB_E080000_0_0_0        |  Markiza Krimi                                    |  FAD_AF4_BB_E080000=--------                             |  markizakrimi=--------
 1_0_19_339F_C89_3_EB0000_0_0_0         |  Markiza Krimi HD                                 |  339F_C89_3_EB0000=--------                              |  markizakrimihd=markizakrimi
@@ -7356,12 +7344,12 @@
 1_0_16_460_1AF4_9E_5A0000_0_0_0        |  NTDTV                                            |  460_1AF4_9E_5A0000=--------                             |  ntdtv=ntdtv
 1_0_19_1EE9_2E_55_300000_0_0_0         |  NTN HD                                           |  1EE9_2E_55_300000=--------                              |  ntnhd=ntn
 1_0_16_1C17_384_110_5A0000_0_0_0       |  NTR RADIO 264 MUSIC TV                           |  1C17_384_110_5A0000=--------                            |  ntrradio264musictv=--------
-1_0_19_1_15_1_2122CF1_0_0_0            |  NTV                                              |  1_15_1_2122CF1=--------                                 |  ntv=ntv
 1_0_1_2A31_9E99_42E_1A40000_0_0_0      |  NTV                                              |  2A31_9E99_42E_1A40000=--------                          |  ntv=ntv
 1_0_1_55F3_FFDF_36E_1680000_0_0_0      |  NTV                                              |  55F3_FFDF_36E_1680000=ntv-kiwuslorit                    |  ntv=ntv
 1_0_1_D3CD_839_2_11A0000_0_0_0         |  NTV                                              |  D3CD_839_2_11A0000=--------                             |  ntv=ntv
 1_0_16_FB1_190_7FE_14A0000_0_0_0       |  NTV Arena                                        |  FB1_190_7FE_14A0000=--------                            |  ntvarena=--------
 1_0_19_2A36_9E99_42E_1A40000_0_0_0     |  NTV HD                                           |  2A36_9E99_42E_1A40000=--------                          |  ntvhd=ntvhd
+1_0_1_1_2C_1113_2120000_0_0_0          |  NTV HD                                           |  1_2C_1113_2120000=--------                              |  ntvhd=ntvhd
 1_0_1_1_15_1_2120000_0_0_0             |  NTV Mir                                          |  1_15_1_2120000=--------                                 |  ntvmir=ntvmir
 1_0_1_F6_25E4_D5_820000_0_0_0          |  NTV Mir                                          |  F6_25E4_D5_820000=--------                              |  ntvmir=ntvmir
 1_0_1_F6_2_D5_1C20000_0_0_0            |  NTV Mir                                          |  F6_2_D5_1C20000=--------                                |  ntvmir=ntvmir
@@ -7415,12 +7403,12 @@
 1_0_1_77F7_2C3_600_E080000_0_0_0       |  Nat Geo Wild                                     |  77F7_2C3_600_E080000=--------                           |  natgeowild=nationalgeographicwild
 1_0_1_CD_12_1C_1860000_0_0_0           |  Nat Geo Wild                                     |  CD_12_1C_1860000=--------                               |  natgeowild=nationalgeographicwild
 1_0_19_584_4_64_DE80000_0_0_0          |  Nat Geo Wild HD                                  |  584_4_64_DE80000=--------                               |  natgeowildhd=nationalgeographicwild
+1_0_19_760A_2BE_600_E080000_0_0_0      |  Nat Geo Wild HD                                  |  760A_2BE_600_E080000=--------                           |  natgeowildhd=nationalgeographicwild
 1_0_19_7666_2BF_600_E080000_0_0_0      |  Nat Geo Wild HD                                  |  7666_2BF_600_E080000=--------                           |  natgeowildhd=nationalgeographicwild
 1_0_19_9E37_FD2_E0_1040000_0_0_0       |  Nat Geo Wild HD                                  |  9E37_FD2_E0_1040000=--------                            |  natgeowildhd=nationalgeographicwild
 1_0_1_195_1518_13E_820000_0_0_0        |  Nat Geo Wild HD                                  |  195_1518_13E_820000=--------                            |  natgeowildhd=nationalgeographicwild
 1_0_1_327_4_0_2082A5D_0_0_0            |  Nat Geo Wild HD                                  |  327_4_0_2082A5D=--------                                |  natgeowildhd=nationalgeographicwild
 1_0_1_A2_10_3_130000_0_0_0             |  Nat Geo Wild HD                                  |  A2_10_3_130000=natgeowildhd                             |  natgeowildhd=nationalgeographicwild
-1_0_19_760A_2BE_600_E080000_0_0_0      |  Nat Geo Wild HD.                                 |  760A_2BE_600_E080000=--------                           |  natgeowildhd=nationalgeographicwild
 1_0_1_1018_3_1_E080000_0_0_0           |  Nat Geo Wild HU                                  |  1018_3_1_E080000=--------                               |  natgeowildhu=nationalgeographicwild
 1_0_1_402_2_1_E080000_0_0_0            |  Nat Geo Wild RO                                  |  402_2_1_E080000=--------                                |  natgeowildro=nationalgeographicwild
 1_0_1_79E4_2C8_600_E080000_0_0_0       |  Nat Geo Wild RO                                  |  79E4_2C8_600_E080000=--------                           |  natgeowildro=nationalgeographicwild
@@ -7879,7 +7867,7 @@
 1_0_1_74_170C_9E_5A0000_0_0_0          |  ORTB TV                                          |  74_170C_9E_5A0000=--------                              |  ortbtv=ortb
 1_0_16_162_19C8_9E_5A0000_0_0_0        |  ORTM                                             |  162_19C8_9E_5A0000=--------                             |  ortm=ortm1
 1_0_19_1BC8_1E86_2BE_1040000_0_0_0     |  OSBC RADIO                                       |  1BC8_1E86_2BE_1040000=--------                          |  osbcradio=--------
-1_0_19_1BE4_1E86_2BE_1040000_0_0_0     |  OSBC TV OSUN STATE                               |  1BE4_1E86_2BE_1040000=--------                          |  osbctvosunstate=--------
+1_0_16_1BE4_1E86_2BE_1040000_0_0_0     |  OSBC TV OSUN STATE                               |  1BE4_1E86_2BE_1040000=--------                          |  osbctvosunstate=--------
 1_0_19_119F_2D_800_DCA0000_0_0_0       |  OSN TV Promo                                     |  119F_2D_800_DCA0000=--------                            |  osntvpromo=--------
 1_0_19_119C_2D_800_DCA0000_0_0_0       |  OSNtv Comedy                                     |  119C_2D_800_DCA0000=--------                            |  osntvcomedy=--------
 1_0_19_133_3_800_DCA0000_0_0_0         |  OSNtv Crime - Mux C                              |  133_3_800_DCA0000=--------                              |  osntvcrimemuxc=--------
@@ -7980,7 +7968,6 @@
 1_0_16_1C18_384_110_5A0000_0_0_0       |  PADRE PIO TV                                     |  1C18_384_110_5A0000=--------                            |  padrepiotv=teleradiopadrepiotv
 1_0_2_C747_7789_42E_1A40000_0_0_0      |  PAL NOSTALJI                                     |  C747_7789_42E_1A40000=--------                          |  palnostalji=palnostalji
 1_0_2_C748_7789_42E_1A40000_0_0_0      |  PAL STATION                                      |  C748_7789_42E_1A40000=--------                          |  palstation=palstation
-1_0_1_C9AE_76C1_42E_1A40000_0_0_0      |  PAMUKKALETV                                      |  C9AE_76C1_42E_1A40000=--------                          |  pamukkaletv=pamukkale
 1_0_1_756B_412_1_C00000_0_0_0          |  PARAMOUNT                                        |  756B_412_1_C00000=--------                              |  paramount=paramountnetwork
 1_0_16_309_3_20FA_DDE0000_0_0_0        |  PARIS PREMIERE                                   |  309_3_20FA_DDE0000=--------                             |  parispremiere=parispremiere
 1_0_19_232C_442_1_C00000_0_0_0         |  PARIS PREMIERE                                   |  232C_442_1_C00000=--------                              |  parispremiere=parispremiere
@@ -8084,7 +8071,6 @@
 1_0_1_74_4_64_300000_0_0_0             |  PRIME FAVORITE                                   |  74_4_64_300000=--------                                 |  primefavorite=--------
 1_0_1_6B_4_64_300000_0_0_0             |  PRIME JOURNEY                                    |  6B_4_64_300000=--------                                 |  primejourney=--------
 1_0_1_6E_4_64_300000_0_0_0             |  PRIME ONE                                        |  6E_4_64_300000=--------                                 |  primeone=--------
-1_0_1_17_1_1_A0B0F9_0_0_0              |  PRO 1                                            |  17_1_1_A0B0F9=--------                                  |  pro1=--------
 1_0_1_1DB5_145C_5_A00000_0_0_0         |  PRO ARENA                                        |  1DB5_145C_5_A00000=--------                             |  proarena=proarena
 1_0_1_76_11_1C_1860000_0_0_0           |  PRO ARENA                                        |  76_11_1C_1860000=--------                               |  proarena=proarena
 1_0_1_DE8_C_1_E080000_0_0_0            |  PRO ARENA                                        |  DE8_C_1_E080000=--------                                |  proarena=proarena
@@ -8430,8 +8416,8 @@
 1_0_19_3396_C89_3_EB0000_0_0_0         |  Prima COOL HD                                    |  3396_C89_3_EB0000=--------                              |  primacoolhd=primacoolhd
 1_0_19_3396_C9D_3_EB0000_0_0_0         |  Prima COOL HD                                    |  3396_C9D_3_EB0000=--------                              |  primacoolhd=primacoolhd
 1_0_16_7669_2BF_600_E080000_0_0_0      |  Prima Cool                                       |  7669_2BF_600_E080000=--------                           |  primacool=primacool
+1_0_16_7A4B_2CB_600_E080000_0_0_0      |  Prima Cool                                       |  7A4B_2CB_600_E080000=--------                           |  primacool=primacool
 1_0_1F_489_76C0_16E_A00000_0_0_0       |  Prima Cool HD                                    |  489_76C0_16E_A00000=--------                            |  primacoolhd=primacoolhd
-1_0_16_7A4B_2CB_600_E080000_0_0_0      |  Prima Cool.                                      |  7A4B_2CB_600_E080000=--------                           |  primacool=primacool
 1_0_19_3392_C89_3_EB0000_0_0_0         |  Prima HD                                         |  3392_C89_3_EB0000=--------                              |  primahd=primahd
 1_0_19_3392_C9D_3_EB0000_0_0_0         |  Prima HD                                         |  3392_C9D_3_EB0000=--------                              |  primahd=primahd
 1_0_19_3FA_AF1_BB_E080000_0_0_0        |  Prima HD                                         |  3FA_AF1_BB_E080000=--------                             |  primahd=primahd
@@ -8442,9 +8428,9 @@
 1_0_19_FAC_AF4_BB_E080000_0_0_0        |  Prima Krimi HD                                   |  FAC_AF4_BB_E080000=--------                             |  primakrimihd=primakrimi
 1_0_19_2340_AF9_BB_E080000_0_0_0       |  Prima LOVE HD                                    |  2340_AF9_BB_E080000=--------                            |  primalovehd=primalove
 1_0_16_766A_2BF_600_E080000_0_0_0      |  Prima Love                                       |  766A_2BF_600_E080000=--------                           |  primalove=primalove
+1_0_16_7A4C_2CB_600_E080000_0_0_0      |  Prima Love                                       |  7A4C_2CB_600_E080000=--------                           |  primalove=primalove
 1_0_1F_48A_76C0_16E_A00000_0_0_0       |  Prima Love                                       |  48A_76C0_16E_A00000=--------                            |  primalove=primalove
 1_0_19_36EF_C8C_3_EB0000_0_0_0         |  Prima Love HD                                    |  36EF_C8C_3_EB0000=--------                              |  primalovehd=primalove
-1_0_16_7A4C_2CB_600_E080000_0_0_0      |  Prima Love.                                      |  7A4C_2CB_600_E080000=--------                           |  primalove=primalove
 1_0_16_2337_AF9_BB_E080000_0_0_0       |  Prima MAX HD                                     |  2337_AF9_BB_E080000=--------                            |  primamaxhd=primamaxhd
 1_0_19_36E5_C8C_3_EB0000_0_0_0         |  Prima MAX HD                                     |  36E5_C8C_3_EB0000=--------                              |  primamaxhd=primamaxhd
 1_0_1F_48C_76C0_16E_A00000_0_0_0       |  Prima MAX HD                                     |  48C_76C0_16E_A00000=--------                            |  primamaxhd=primamaxhd
@@ -9152,8 +9138,8 @@
 1_0_1_5E7_5_64_DE80000_0_0_0           |  RTL HAROM                                        |  5E7_5_64_DE80000=--------                               |  rtlharom=rtlharom
 1_0_1_79ED_2C8_600_E080000_0_0_0       |  RTL HAROM                                        |  79ED_2C8_600_E080000=--------                           |  rtlharom=rtlharom
 1_0_1_79F2_2C8_600_E080000_0_0_0       |  RTL HAROM (SVT)                                  |  79F2_2C8_600_E080000=--------                           |  rtlharomsvt=rtlharom
+1_0_19_7735_2C1_600_E080000_0_0_0      |  RTL HAROM HD                                     |  7735_2C1_600_E080000=--------                           |  rtlharomhd=rtlharom
 1_0_19_791B_2C6_600_E080000_0_0_0      |  RTL HAROM HD                                     |  791B_2C6_600_E080000=--------                           |  rtlharomhd=rtlharom
-1_0_19_7735_2C1_600_E080000_0_0_0      |  RTL HAROM HD.                                    |  7735_2C1_600_E080000=--------                           |  rtlharomhd=rtlharom
 1_0_1_79F9_2C8_600_E080000_0_0_0       |  RTL HAROM.                                       |  79F9_2C8_600_E080000=--------                           |  rtlharom=rtlharom
 1_0_1_2EE5_441_1_C00000_0_0_0          |  RTL HB NDS                                       |  2EE5_441_1_C00000=--------                              |  rtlhbnds=rtlnord
 1_0_19_12D_1EDC_9C_5A0000_0_0_0        |  RTL HD                                           |  12D_1EDC_9C_5A0000=--------                             |  rtlhd=rtlhd
@@ -9172,7 +9158,7 @@
 1_0_1_79F1_2C8_600_E080000_0_0_0       |  RTL KETTO (SVT)                                  |  79F1_2C8_600_E080000=--------                           |  rtlkettosvt=rtlketto
 1_0_19_5E4_5_64_DE80000_0_0_0          |  RTL KETTO HD                                     |  5E4_5_64_DE80000=--------                               |  rtlkettohd=rtlketto
 1_0_19_7676_2BF_600_E080000_0_0_0      |  RTL KETTO HD                                     |  7676_2BF_600_E080000=--------                           |  rtlkettohd=rtlketto
-1_0_19_7733_2C1_600_E080000_0_0_0      |  RTL KETTO HD.                                    |  7733_2C1_600_E080000=--------                           |  rtlkettohd=rtlketto
+1_0_19_7733_2C1_600_E080000_0_0_0      |  RTL KETTO HD                                     |  7733_2C1_600_E080000=--------                           |  rtlkettohd=rtlketto
 1_0_1_79F6_2C8_600_E080000_0_0_0       |  RTL KETTO.                                       |  79F6_2C8_600_E080000=--------                           |  rtlketto=rtlketto
 1_0_16_15_1_40_A00000_0_0_0            |  RTL Kockica.                                     |  15_1_40_A00000=--------                                 |  rtlkockica=rtlkockica
 1_0_16_14_1_40_A00000_0_0_0            |  RTL Living.                                      |  14_1_40_A00000=rtlliving-clavecloha                     |  rtlliving=rtlliving
@@ -9300,9 +9286,7 @@
 1_0_16_FA9_190_7FE_14A0000_0_0_0       |  RTV TK                                           |  FA9_190_7FE_14A0000=--------                            |  rtvtk=tk
 1_0_19_FAD_190_7FE_14A0000_0_0_0       |  RTV USK                                          |  FAD_190_7FE_14A0000=--------                            |  rtvusk=radiotelevizijauskhd
 1_0_19_13BA_5014_16E_A00000_0_0_0      |  RTV21                                            |  13BA_5014_16E_A00000=--------                           |  rtv21=rtv21
-1_0_1_3_1_1_A0B0F9_0_0_0               |  RTV21                                            |  3_1_1_A0B0F9=--------                                   |  rtv21=rtv21
 1_0_16_550_51A4_16E_A00000_0_0_0       |  RTV21M                                           |  550_51A4_16E_A00000=--------                            |  rtv21m=21tv
-1_0_1_A_1_1_A0B0F9_0_0_0               |  RTV21M                                           |  A_1_1_A0B0F9=--------                                   |  rtv21m=21tv
 1_0_1_1389_50E1_217C_5A0000_0_0_0      |  RTV38 HD                                         |  1389_50E1_217C_5A0000=--------                          |  rtv38hd=--------
 1_0_16_FB3_190_7FE_14A0000_0_0_0       |  RTVIS                                            |  FB3_190_7FE_14A0000=--------                            |  rtvis=--------
 1_0_19_3B7A_C8D_3_EB0000_0_0_0         |  RTVS 24 HD                                       |  3B7A_C8D_3_EB0000=--------                              |  rtvs24hd=rtvs24
@@ -9696,9 +9680,7 @@
 1_0_1_D84_3FC_39E_1860000_0_0_0        |  Rai 1                                            |  D84_3FC_39E_1860000=--------                            |  rai1=rai1
 1_0_16_425_2_217C_DDE0000_0_0_0        |  Rai 1 HD                                         |  425_2_217C_DDE0000=--------                             |  rai1hd=rai1hd
 1_0_19_44D_46A_4ED8_DDE0000_0_0_0      |  Rai 1 HD                                         |  44D_46A_4ED8_DDE0000=--------                           |  rai1hd=rai1hd
-1_0_19_44D_71_217C_DDE0000_0_0_0       |  Rai 1 HD                                         |  44D_71_217C_DDE0000=--------                            |  rai1hd=rai1hd
 1_0_19_47F_4CE_4ED8_DDE0000_0_0_0      |  Rai 1 HD                                         |  47F_4CE_4ED8_DDE0000=--------                           |  rai1hd=rai1hd
-1_0_19_47F_7B_217C_DDE0000_0_0_0       |  Rai 1 HD                                         |  47F_7B_217C_DDE0000=--------                            |  rai1hd=rai1hd
 1_0_19_4B1_85_217C_DDE0000_0_0_0       |  Rai 1 HD                                         |  4B1_85_217C_DDE0000=--------                            |  rai1hd=rai1hd
 1_0_19_4E3_8F_217C_DDE0000_0_0_0       |  Rai 1 HD                                         |  4E3_8F_217C_DDE0000=--------                            |  rai1hd=rai1hd
 1_0_19_515_99_217C_DDE0000_0_0_0       |  Rai 1 HD                                         |  515_99_217C_DDE0000=--------                            |  rai1hd=rai1hd
@@ -9706,7 +9688,6 @@
 1_0_19_579_6C2_217C_DDE0000_0_0_0      |  Rai 1 HD                                         |  579_6C2_217C_DDE0000=--------                           |  rai1hd=rai1hd
 1_0_19_579_AD_217C_DDE0000_0_0_0       |  Rai 1 HD                                         |  579_AD_217C_DDE0000=--------                            |  rai1hd=rai1hd
 1_0_19_5AB_726_4ED8_DDE0000_0_0_0      |  Rai 1 HD                                         |  5AB_726_4ED8_DDE0000=--------                           |  rai1hd=rai1hd
-1_0_19_5AB_B7_217C_DDE0000_0_0_0       |  Rai 1 HD                                         |  5AB_B7_217C_DDE0000=--------                            |  rai1hd=rai1hd
 1_0_19_5DD_C1_217C_DDE0000_0_0_0       |  Rai 1 HD                                         |  5DD_C1_217C_DDE0000=--------                            |  rai1hd=rai1hd
 1_0_19_60F_CB_217C_DDE0000_0_0_0       |  Rai 1 HD                                         |  60F_CB_217C_DDE0000=--------                            |  rai1hd=rai1hd
 1_0_19_641_D5_217C_DDE0000_0_0_0       |  Rai 1 HD                                         |  641_D5_217C_DDE0000=--------                            |  rai1hd=rai1hd
@@ -9714,9 +9695,7 @@
 1_0_1_1162_3FC_39E_1860000_0_0_0       |  Rai 2                                            |  1162_3FC_39E_1860000=--------                           |  rai2=rai2
 1_0_16_426_2_217C_DDE0000_0_0_0        |  Rai 2 HD                                         |  426_2_217C_DDE0000=--------                             |  rai2hd=rai2hd
 1_0_19_44E_46A_4ED8_DDE0000_0_0_0      |  Rai 2 HD                                         |  44E_46A_4ED8_DDE0000=--------                           |  rai2hd=rai2hd
-1_0_19_44E_71_217C_DDE0000_0_0_0       |  Rai 2 HD                                         |  44E_71_217C_DDE0000=--------                            |  rai2hd=rai2hd
 1_0_19_480_4CE_4ED8_DDE0000_0_0_0      |  Rai 2 HD                                         |  480_4CE_4ED8_DDE0000=--------                           |  rai2hd=rai2hd
-1_0_19_480_7B_217C_DDE0000_0_0_0       |  Rai 2 HD                                         |  480_7B_217C_DDE0000=--------                            |  rai2hd=rai2hd
 1_0_19_4B2_85_217C_DDE0000_0_0_0       |  Rai 2 HD                                         |  4B2_85_217C_DDE0000=--------                            |  rai2hd=rai2hd
 1_0_19_4E4_8F_217C_DDE0000_0_0_0       |  Rai 2 HD                                         |  4E4_8F_217C_DDE0000=--------                            |  rai2hd=rai2hd
 1_0_19_516_99_217C_DDE0000_0_0_0       |  Rai 2 HD                                         |  516_99_217C_DDE0000=--------                            |  rai2hd=rai2hd
@@ -9724,7 +9703,6 @@
 1_0_19_57A_6C2_217C_DDE0000_0_0_0      |  Rai 2 HD                                         |  57A_6C2_217C_DDE0000=--------                           |  rai2hd=rai2hd
 1_0_19_57A_AD_217C_DDE0000_0_0_0       |  Rai 2 HD                                         |  57A_AD_217C_DDE0000=--------                            |  rai2hd=rai2hd
 1_0_19_5AC_726_4ED8_DDE0000_0_0_0      |  Rai 2 HD                                         |  5AC_726_4ED8_DDE0000=--------                           |  rai2hd=rai2hd
-1_0_19_5AC_B7_217C_DDE0000_0_0_0       |  Rai 2 HD                                         |  5AC_B7_217C_DDE0000=--------                            |  rai2hd=rai2hd
 1_0_19_5DE_C1_217C_DDE0000_0_0_0       |  Rai 2 HD                                         |  5DE_C1_217C_DDE0000=--------                            |  rai2hd=rai2hd
 1_0_19_610_CB_217C_DDE0000_0_0_0       |  Rai 2 HD                                         |  610_CB_217C_DDE0000=--------                            |  rai2hd=rai2hd
 1_0_19_642_D5_217C_DDE0000_0_0_0       |  Rai 2 HD                                         |  642_D5_217C_DDE0000=--------                            |  rai2hd=rai2hd
@@ -9735,9 +9713,7 @@
 1_0_16_587_6C2_217C_DDE0000_0_0_0      |  Rai 3 Bis                                        |  587_6C2_217C_DDE0000=--------                           |  rai3bis=rai3bis
 1_0_16_587_AD_217C_DDE0000_0_0_0       |  Rai 3 Bis                                        |  587_AD_217C_DDE0000=--------                            |  rai3bis=rai3bis
 1_0_0_456_46A_4ED8_DDE0000_0_0_0       |  Rai 3 HD                                         |  456_46A_4ED8_DDE0000=--------                           |  rai3hd=rai3hd
-1_0_0_456_71_217C_DDE0000_0_0_0        |  Rai 3 HD                                         |  456_71_217C_DDE0000=rai-phibruspel                      |  rai3hd=rai3hd
 1_0_0_488_4CE_4ED8_DDE0000_0_0_0       |  Rai 3 HD                                         |  488_4CE_4ED8_DDE0000=--------                           |  rai3hd=rai3hd
-1_0_0_488_7B_217C_DDE0000_0_0_0        |  Rai 3 HD                                         |  488_7B_217C_DDE0000=--------                            |  rai3hd=rai3hd
 1_0_0_4BA_85_217C_DDE0000_0_0_0        |  Rai 3 HD                                         |  4BA_85_217C_DDE0000=--------                            |  rai3hd=rai3hd
 1_0_0_4EC_8F_217C_DDE0000_0_0_0        |  Rai 3 HD                                         |  4EC_8F_217C_DDE0000=--------                            |  rai3hd=rai3hd
 1_0_0_51E_99_217C_DDE0000_0_0_0        |  Rai 3 HD                                         |  51E_99_217C_DDE0000=--------                            |  rai3hd=rai3hd
@@ -9745,23 +9721,18 @@
 1_0_0_582_6C2_217C_DDE0000_0_0_0       |  Rai 3 HD                                         |  582_6C2_217C_DDE0000=--------                           |  rai3hd=rai3hd
 1_0_0_582_AD_217C_DDE0000_0_0_0        |  Rai 3 HD                                         |  582_AD_217C_DDE0000=--------                            |  rai3hd=rai3hd
 1_0_0_5B4_726_4ED8_DDE0000_0_0_0       |  Rai 3 HD                                         |  5B4_726_4ED8_DDE0000=--------                           |  rai3hd=rai3hd
-1_0_0_5B4_B7_217C_DDE0000_0_0_0        |  Rai 3 HD                                         |  5B4_B7_217C_DDE0000=--------                            |  rai3hd=rai3hd
 1_0_0_5E6_C1_217C_DDE0000_0_0_0        |  Rai 3 HD                                         |  5E6_C1_217C_DDE0000=--------                            |  rai3hd=rai3hd
 1_0_0_618_CB_217C_DDE0000_0_0_0        |  Rai 3 HD                                         |  618_CB_217C_DDE0000=--------                            |  rai3hd=rai3hd
 1_0_0_64A_D5_217C_DDE0000_0_0_0        |  Rai 3 HD                                         |  64A_D5_217C_DDE0000=--------                            |  rai3hd=rai3hd
 1_0_16_427_2_217C_DDE0000_0_0_0        |  Rai 3 HD                                         |  427_2_217C_DDE0000=--------                             |  rai3hd=rai3hd
 1_0_19_D4B_1450_13E_820000_0_0_0       |  Rai 3 HD                                         |  D4B_1450_13E_820000=--------                            |  rai3hd=rai3hd
 1_0_1_48B_4CE_4ED8_DDE0000_0_0_0       |  Rai 3 Sudtirol HD                                |  48B_4CE_4ED8_DDE0000=--------                           |  rai3sudtirolhd=raisudtirolhd
-1_0_1_48B_7B_217C_DDE0000_0_0_0        |  Rai 3 Sudtirol HD                                |  48B_7B_217C_DDE0000=--------                            |  rai3sudtirolhd=raisudtirolhd
 1_0_1_48E_4CE_4ED8_DDE0000_0_0_0       |  Rai 3 Sudtirol HD                                |  48E_4CE_4ED8_DDE0000=--------                           |  rai3sudtirolhd=raisudtirolhd
-1_0_1_48E_7B_217C_DDE0000_0_0_0        |  Rai 3 Sudtirol HD                                |  48E_7B_217C_DDE0000=--------                            |  rai3sudtirolhd=raisudtirolhd
 1_0_16_4552_30D4_13E_820000_0_0_0      |  Rai 3 TGR Abruzzo                                |  4552_30D4_13E_820000=--------                           |  rai3tgrabruzzo=rai3
 1_0_16_4BB_85_217C_DDE0000_0_0_0       |  Rai 3 TGR Abruzzo                                |  4BB_85_217C_DDE0000=--------                            |  rai3tgrabruzzo=rai3
 1_0_16_4BE_85_217C_DDE0000_0_0_0       |  Rai 3 TGR Abruzzo                                |  4BE_85_217C_DDE0000=--------                            |  rai3tgrabruzzo=rai3
 1_0_1_48A_4CE_4ED8_DDE0000_0_0_0       |  Rai 3 TGR Alto Adige                             |  48A_4CE_4ED8_DDE0000=--------                           |  rai3tgraltoadige=rai3
-1_0_1_48A_7B_217C_DDE0000_0_0_0        |  Rai 3 TGR Alto Adige                             |  48A_7B_217C_DDE0000=--------                            |  rai3tgraltoadige=rai3
 1_0_1_48D_4CE_4ED8_DDE0000_0_0_0       |  Rai 3 TGR Alto Adige                             |  48D_4CE_4ED8_DDE0000=--------                           |  rai3tgraltoadige=rai3
-1_0_1_48D_7B_217C_DDE0000_0_0_0        |  Rai 3 TGR Alto Adige                             |  48D_7B_217C_DDE0000=--------                            |  rai3tgraltoadige=rai3
 1_0_16_4544_30D4_13E_820000_0_0_0      |  Rai 3 TGR Basilicata                             |  4544_30D4_13E_820000=--------                           |  rai3tgrbasilicata=rai3
 1_0_16_520_99_217C_DDE0000_0_0_0       |  Rai 3 TGR Basilicata                             |  520_99_217C_DDE0000=--------                            |  rai3tgrbasilicata=rai3
 1_0_16_523_99_217C_DDE0000_0_0_0       |  Rai 3 TGR Basilicata                             |  523_99_217C_DDE0000=--------                            |  rai3tgrbasilicata=rai3
@@ -9773,9 +9744,7 @@
 1_0_16_4554_30D4_13E_820000_0_0_0      |  Rai 3 TGR Campania                               |  4554_30D4_13E_820000=--------                           |  rai3tgrcampania=rai3
 1_0_16_454D_30D4_13E_820000_0_0_0      |  Rai 3 TGR Emilia-Romagna                         |  454D_30D4_13E_820000=--------                           |  rai3tgremiliaromagna=rai3
 1_0_1_459_46A_4ED8_DDE0000_0_0_0       |  Rai 3 TGR Emilia-Romagna                         |  459_46A_4ED8_DDE0000=--------                           |  rai3tgremiliaromagna=rai3
-1_0_1_459_71_217C_DDE0000_0_0_0        |  Rai 3 TGR Emilia-Romagna                         |  459_71_217C_DDE0000=--------                            |  rai3tgremiliaromagna=rai3
 1_0_1_45C_46A_4ED8_DDE0000_0_0_0       |  Rai 3 TGR Emilia-Romagna                         |  45C_46A_4ED8_DDE0000=--------                           |  rai3tgremiliaromagna=rai3
-1_0_1_45C_71_217C_DDE0000_0_0_0        |  Rai 3 TGR Emilia-Romagna                         |  45C_71_217C_DDE0000=--------                            |  rai3tgremiliaromagna=rai3
 1_0_1_552_A3_217C_DDE0000_0_0_0        |  Rai 3 TGR Emilia-Romagna HD                      |  552_A3_217C_DDE0000=--------                            |  rai3tgremiliaromagnahd=rai3hd
 1_0_1_555_A3_217C_DDE0000_0_0_0        |  Rai 3 TGR Emilia-Romagna HD                      |  555_A3_217C_DDE0000=--------                            |  rai3tgremiliaromagnahd=rai3hd
 1_0_16_583_6C2_217C_DDE0000_0_0_0      |  Rai 3 TGR FVG                                    |  583_6C2_217C_DDE0000=--------                           |  rai3tgrfvg=rai3
@@ -9789,14 +9758,10 @@
 1_0_1_4F0_8F_217C_DDE0000_0_0_0        |  Rai 3 TGR Lazio HD                               |  4F0_8F_217C_DDE0000=--------                            |  rai3tgrlaziohd=rai3hd
 1_0_16_4547_30D4_13E_820000_0_0_0      |  Rai 3 TGR Liguria                                |  4547_30D4_13E_820000=--------                           |  rai3tgrliguria=rai3
 1_0_16_5B5_726_4ED8_DDE0000_0_0_0      |  Rai 3 TGR Liguria                                |  5B5_726_4ED8_DDE0000=--------                           |  rai3tgrliguria=rai3
-1_0_16_5B5_B7_217C_DDE0000_0_0_0       |  Rai 3 TGR Liguria                                |  5B5_B7_217C_DDE0000=--------                            |  rai3tgrliguria=rai3
 1_0_16_5B8_726_4ED8_DDE0000_0_0_0      |  Rai 3 TGR Liguria                                |  5B8_726_4ED8_DDE0000=--------                           |  rai3tgrliguria=rai3
-1_0_16_5B8_B7_217C_DDE0000_0_0_0       |  Rai 3 TGR Liguria                                |  5B8_B7_217C_DDE0000=--------                            |  rai3tgrliguria=rai3
 1_0_16_454C_30D4_13E_820000_0_0_0      |  Rai 3 TGR Lombardia                              |  454C_30D4_13E_820000=--------                           |  rai3tgrlombardia=rai3
 1_0_1_457_46A_4ED8_DDE0000_0_0_0       |  Rai 3 TGR Lombardia HD                           |  457_46A_4ED8_DDE0000=--------                           |  rai3tgrlombardiahd=rai3hd
-1_0_1_457_71_217C_DDE0000_0_0_0        |  Rai 3 TGR Lombardia HD                           |  457_71_217C_DDE0000=--------                            |  rai3tgrlombardiahd=rai3hd
 1_0_1_45A_46A_4ED8_DDE0000_0_0_0       |  Rai 3 TGR Lombardia HD                           |  45A_46A_4ED8_DDE0000=--------                           |  rai3tgrlombardiahd=rai3hd
-1_0_1_45A_71_217C_DDE0000_0_0_0        |  Rai 3 TGR Lombardia HD                           |  45A_71_217C_DDE0000=--------                            |  rai3tgrlombardiahd=rai3hd
 1_0_16_454A_30D4_13E_820000_0_0_0      |  Rai 3 TGR Marche                                 |  454A_30D4_13E_820000=--------                           |  rai3tgrmarche=rai3
 1_0_16_5E7_C1_217C_DDE0000_0_0_0       |  Rai 3 TGR Marche                                 |  5E7_C1_217C_DDE0000=--------                            |  rai3tgrmarche=rai3
 1_0_16_5EA_C1_217C_DDE0000_0_0_0       |  Rai 3 TGR Marche                                 |  5EA_C1_217C_DDE0000=--------                            |  rai3tgrmarche=rai3
@@ -9805,17 +9770,13 @@
 1_0_16_4BF_85_217C_DDE0000_0_0_0       |  Rai 3 TGR Molise                                 |  4BF_85_217C_DDE0000=--------                            |  rai3tgrmolise=rai3
 1_0_16_454B_30D4_13E_820000_0_0_0      |  Rai 3 TGR Piemonte                               |  454B_30D4_13E_820000=--------                           |  rai3tgrpiemonte=rai3
 1_0_1_458_46A_4ED8_DDE0000_0_0_0       |  Rai 3 TGR Piemonte HD                            |  458_46A_4ED8_DDE0000=--------                           |  rai3tgrpiemontehd=rai3hd
-1_0_1_458_71_217C_DDE0000_0_0_0        |  Rai 3 TGR Piemonte HD                            |  458_71_217C_DDE0000=--------                            |  rai3tgrpiemontehd=rai3hd
 1_0_1_45B_46A_4ED8_DDE0000_0_0_0       |  Rai 3 TGR Piemonte HD                            |  45B_46A_4ED8_DDE0000=--------                           |  rai3tgrpiemontehd=rai3hd
-1_0_1_45B_71_217C_DDE0000_0_0_0        |  Rai 3 TGR Piemonte HD                            |  45B_71_217C_DDE0000=--------                            |  rai3tgrpiemontehd=rai3hd
 1_0_16_4543_30D4_13E_820000_0_0_0      |  Rai 3 TGR Puglia                                 |  4543_30D4_13E_820000=--------                           |  rai3tgrpuglia=rai3
 1_0_16_51F_99_217C_DDE0000_0_0_0       |  Rai 3 TGR Puglia                                 |  51F_99_217C_DDE0000=--------                            |  rai3tgrpuglia=rai3
 1_0_16_522_99_217C_DDE0000_0_0_0       |  Rai 3 TGR Puglia                                 |  522_99_217C_DDE0000=--------                            |  rai3tgrpuglia=rai3
 1_0_16_4551_30D4_13E_820000_0_0_0      |  Rai 3 TGR Sardegna                               |  4551_30D4_13E_820000=--------                           |  rai3tgrsardegna=rai3
 1_0_16_5B6_726_4ED8_DDE0000_0_0_0      |  Rai 3 TGR Sardegna                               |  5B6_726_4ED8_DDE0000=--------                           |  rai3tgrsardegna=rai3
-1_0_16_5B6_B7_217C_DDE0000_0_0_0       |  Rai 3 TGR Sardegna                               |  5B6_B7_217C_DDE0000=--------                            |  rai3tgrsardegna=rai3
 1_0_16_5B9_726_4ED8_DDE0000_0_0_0      |  Rai 3 TGR Sardegna                               |  5B9_726_4ED8_DDE0000=--------                           |  rai3tgrsardegna=rai3
-1_0_16_5B9_B7_217C_DDE0000_0_0_0       |  Rai 3 TGR Sardegna                               |  5B9_B7_217C_DDE0000=--------                            |  rai3tgrsardegna=rai3
 1_0_16_4546_30D4_13E_820000_0_0_0      |  Rai 3 TGR Sicilia                                |  4546_30D4_13E_820000=--------                           |  rai3tgrsicilia=rai3
 1_0_16_619_CB_217C_DDE0000_0_0_0       |  Rai 3 TGR Sicilia                                |  619_CB_217C_DDE0000=--------                            |  rai3tgrsicilia=rai3
 1_0_16_61C_CB_217C_DDE0000_0_0_0       |  Rai 3 TGR Sicilia                                |  61C_CB_217C_DDE0000=--------                            |  rai3tgrsicilia=rai3
@@ -9824,9 +9785,7 @@
 1_0_1_4EE_8F_217C_DDE0000_0_0_0        |  Rai 3 TGR Toscana                                |  4EE_8F_217C_DDE0000=--------                            |  rai3tgrtoscana=rai3
 1_0_1_4F1_8F_217C_DDE0000_0_0_0        |  Rai 3 TGR Toscana                                |  4F1_8F_217C_DDE0000=--------                            |  rai3tgrtoscana=rai3
 1_0_1_489_4CE_4ED8_DDE0000_0_0_0       |  Rai 3 TGR Trentino                               |  489_4CE_4ED8_DDE0000=--------                           |  rai3tgrtrentino=rai3
-1_0_1_489_7B_217C_DDE0000_0_0_0        |  Rai 3 TGR Trentino                               |  489_7B_217C_DDE0000=--------                            |  rai3tgrtrentino=rai3
 1_0_1_48C_4CE_4ED8_DDE0000_0_0_0       |  Rai 3 TGR Trentino                               |  48C_4CE_4ED8_DDE0000=--------                           |  rai3tgrtrentino=rai3
-1_0_1_48C_7B_217C_DDE0000_0_0_0        |  Rai 3 TGR Trentino                               |  48C_7B_217C_DDE0000=--------                            |  rai3tgrtrentino=rai3
 1_0_16_4558_30D4_13E_820000_0_0_0      |  Rai 3 TGR Trentino Alto Adige Bolzano            |  4558_30D4_13E_820000=--------                           |  rai3tgrtrentinoaltoadigebolzano=rai3
 1_0_16_4557_30D4_13E_820000_0_0_0      |  Rai 3 TGR Trentino Alto Adige Trento             |  4557_30D4_13E_820000=--------                           |  rai3tgrtrentinoaltoadigetrento=rai3
 1_0_16_4549_30D4_13E_820000_0_0_0      |  Rai 3 TGR Umbria                                 |  4549_30D4_13E_820000=--------                           |  rai3tgrumbria=rai3
@@ -9855,9 +9814,7 @@
 1_0_16_521_99_217C_DDE0000_0_0_0       |  Rai 3 Tgr Molise                                 |  521_99_217C_DDE0000=--------                            |  rai3tgrmolise=rai3
 1_0_16_524_99_217C_DDE0000_0_0_0       |  Rai 3 Tgr Molise                                 |  524_99_217C_DDE0000=--------                            |  rai3tgrmolise=rai3
 1_0_16_5B7_726_4ED8_DDE0000_0_0_0      |  Rai 3 Tgr Toscana                                |  5B7_726_4ED8_DDE0000=--------                           |  rai3tgrtoscana=rai3
-1_0_16_5B7_B7_217C_DDE0000_0_0_0       |  Rai 3 Tgr Toscana                                |  5B7_B7_217C_DDE0000=--------                            |  rai3tgrtoscana=rai3
 1_0_16_5BA_726_4ED8_DDE0000_0_0_0      |  Rai 3 Tgr Toscana                                |  5BA_726_4ED8_DDE0000=--------                           |  rai3tgrtoscana=rai3
-1_0_16_5BA_B7_217C_DDE0000_0_0_0       |  Rai 3 Tgr Toscana                                |  5BA_B7_217C_DDE0000=--------                            |  rai3tgrtoscana=rai3
 1_0_16_5E8_C1_217C_DDE0000_0_0_0       |  Rai 3 Tgr Umbria                                 |  5E8_C1_217C_DDE0000=--------                            |  rai3tgrumbria=rai3
 1_0_16_5EB_C1_217C_DDE0000_0_0_0       |  Rai 3 Tgr Umbria                                 |  5EB_C1_217C_DDE0000=--------                            |  rai3tgrumbria=rai3
 1_0_16_420_2_217C_DDE0000_0_0_0        |  Rai 4                                            |  420_2_217C_DDE0000=--------                             |  rai4=rai4
@@ -9881,13 +9838,9 @@
 1_0_19_403_1_217C_DDE0000_0_0_0        |  Rai Movie HD                                     |  403_1_217C_DDE0000=--------                             |  raimoviehd=raimoviehd
 1_0_19_D4E_1450_13E_820000_0_0_0       |  Rai Movie HD                                     |  D4E_1450_13E_820000=--------                            |  raimoviehd=raimoviehd
 1_0_16_44F_46A_4ED8_DDE0000_0_0_0      |  Rai News 24                                      |  44F_46A_4ED8_DDE0000=--------                           |  rainews24=rainews24
-1_0_16_44F_71_217C_DDE0000_0_0_0       |  Rai News 24                                      |  44F_71_217C_DDE0000=--------                            |  rainews24=rainews24
 1_0_16_45E_46A_4ED8_DDE0000_0_0_0      |  Rai News 24                                      |  45E_46A_4ED8_DDE0000=--------                           |  rainews24=rainews24
-1_0_16_45E_71_217C_DDE0000_0_0_0       |  Rai News 24                                      |  45E_71_217C_DDE0000=--------                            |  rainews24=rainews24
 1_0_16_481_4CE_4ED8_DDE0000_0_0_0      |  Rai News 24                                      |  481_4CE_4ED8_DDE0000=--------                           |  rainews24=rainews24
-1_0_16_481_7B_217C_DDE0000_0_0_0       |  Rai News 24                                      |  481_7B_217C_DDE0000=--------                            |  rainews24=rainews24
 1_0_16_490_4CE_4ED8_DDE0000_0_0_0      |  Rai News 24                                      |  490_4CE_4ED8_DDE0000=--------                           |  rainews24=rainews24
-1_0_16_490_7B_217C_DDE0000_0_0_0       |  Rai News 24                                      |  490_7B_217C_DDE0000=--------                            |  rainews24=rainews24
 1_0_16_4B3_85_217C_DDE0000_0_0_0       |  Rai News 24                                      |  4B3_85_217C_DDE0000=--------                            |  rainews24=rainews24
 1_0_16_4C2_85_217C_DDE0000_0_0_0       |  Rai News 24                                      |  4C2_85_217C_DDE0000=--------                            |  rainews24=rainews24
 1_0_16_4E5_8F_217C_DDE0000_0_0_0       |  Rai News 24                                      |  4E5_8F_217C_DDE0000=--------                            |  rainews24=rainews24
@@ -9901,9 +9854,7 @@
 1_0_16_58A_6C2_217C_DDE0000_0_0_0      |  Rai News 24                                      |  58A_6C2_217C_DDE0000=--------                           |  rainews24=rainews24
 1_0_16_58A_AD_217C_DDE0000_0_0_0       |  Rai News 24                                      |  58A_AD_217C_DDE0000=--------                            |  rainews24=rainews24
 1_0_16_5AD_726_4ED8_DDE0000_0_0_0      |  Rai News 24                                      |  5AD_726_4ED8_DDE0000=--------                           |  rainews24=rainews24
-1_0_16_5AD_B7_217C_DDE0000_0_0_0       |  Rai News 24                                      |  5AD_B7_217C_DDE0000=--------                            |  rainews24=rainews24
 1_0_16_5BC_726_4ED8_DDE0000_0_0_0      |  Rai News 24                                      |  5BC_726_4ED8_DDE0000=--------                           |  rainews24=rainews24
-1_0_16_5BC_B7_217C_DDE0000_0_0_0       |  Rai News 24                                      |  5BC_B7_217C_DDE0000=--------                            |  rainews24=rainews24
 1_0_16_5DF_C1_217C_DDE0000_0_0_0       |  Rai News 24                                      |  5DF_C1_217C_DDE0000=--------                            |  rainews24=rainews24
 1_0_16_5EE_C1_217C_DDE0000_0_0_0       |  Rai News 24                                      |  5EE_C1_217C_DDE0000=--------                            |  rainews24=rainews24
 1_0_16_611_CB_217C_DDE0000_0_0_0       |  Rai News 24                                      |  611_CB_217C_DDE0000=--------                            |  rainews24=rainews24
@@ -10217,8 +10168,8 @@
 1_0_1_3152_459_1_C00000_0_0_0          |  SEX-Kontakte                                     |  3152_459_1_C00000=--------                              |  sexkontakte=--------
 1_0_2_563_3_42_1A40000_0_0_0           |  SEYMEN                                           |  563_3_42_1A40000=--------                               |  seymen=radyoseymen
 1_0_2_3927_A21D_42E_1A40000_0_0_0      |  SEYR FM                                          |  3927_A21D_42E_1A40000=--------                          |  seyrfm=seyrfm
-1_0_16_1C18_1_46_E080000_0_0_0         |  SF-kanalen                                       |  1C18_1_46_E080000=--------                              |  sfkanalen=sfkanalen
 1_0_16_1CDF_E_46_E080000_0_0_0         |  SF-kanalen                                       |  1CDF_E_46_E080000=--------                              |  sfkanalen=sfkanalen
+1_0_16_1C18_1_46_E080000_0_0_0         |  SF-kanalen (old)                                 |  1C18_1_46_E080000=--------                              |  sfkanalenold=--------
 1_0_1_1_1F7_2BE_1040000_0_0_0          |  SHARJAH TV                                       |  1_1F7_2BE_1040000=--------                              |  sharjahtv=alsharjah
 1_0_1_6_1F7_2BE_1040000_0_0_0          |  SHARQIYA from Kalba                              |  6_1F7_2BE_1040000=--------                              |  sharqiyafromkalba=sharqiya
 1_0_19_160_C9_800_DCA0000_0_0_0        |  SHEHAB TV HD                                     |  160_C9_800_DCA0000=--------                             |  shehabtvhd=shihabtv
@@ -10480,6 +10431,7 @@
 1_0_19_1_18_20D_20D0000_0_0_0          |  STAR World HD                                    |  1_18_20D_20D0000=--------                               |  starworldhd=starworld
 1_0_2_2CD_FFDD_36E_1680000_0_0_0       |  STARFM                                           |  2CD_FFDD_36E_1680000=--------                           |  starfm=starfm
 1_0_16_62_7918_217C_5A0000_0_0_0       |  STARMARKET                                       |  62_7918_217C_5A0000=--------                            |  starmarket=--------
+1_0_19_2_7918_217C_5A0000_0_0_0        |  STARMARKET                                       |  2_7918_217C_5A0000=--------                             |  starmarket=--------
 1_0_1_427F_2BC0_13E_820000_0_0_0       |  STARS.TV                                         |  427F_2BC0_13E_820000=--------                           |  starstv=starstv
 1_0_19_196E_107B_55_300000_0_0_0       |  STB HD                                           |  196E_107B_55_300000=--------                            |  stbhd=stb
 1_0_1_19E6_10_55_300000_0_0_0          |  STB SD                                           |  19E6_10_55_300000=--------                              |  stbsd=stb
@@ -10650,9 +10602,9 @@
 1_0_1_131_9CD6_77E_DCA0000_0_0_0       |  Senemedia                                        |  131_9CD6_77E_DCA0000=--------                           |  senemedia=--------
 1_0_16_36F1_C8C_3_EB0000_0_0_0         |  Senzi                                            |  36F1_C8C_3_EB0000=--------                              |  senzi=senzi
 1_0_16_766C_2BF_600_E080000_0_0_0      |  Senzi                                            |  766C_2BF_600_E080000=--------                           |  senzi=senzi
+1_0_16_7A52_2CB_600_E080000_0_0_0      |  Senzi                                            |  7A52_2CB_600_E080000=--------                           |  senzi=senzi
 1_0_16_7A5D_2CB_600_E080000_0_0_0      |  Senzi (SVT)                                      |  7A5D_2CB_600_E080000=--------                           |  senzisvt=--------
 1_0_1F_4BD_76C1_16E_A00000_0_0_0       |  Senzi TV                                         |  4BD_76C1_16E_A00000=--------                            |  senzitv=senzi
-1_0_16_7A52_2CB_600_E080000_0_0_0      |  Senzi.                                           |  7A52_2CB_600_E080000=--------                           |  senzi=senzi
 1_0_19_A91_1_2A_DC00000_0_0_0          |  Series +2 HD                                     |  A91_1_2A_DC00000=--------                               |  seriesplus2hd=--------
 1_0_19_A92_1_2A_DC00000_0_0_0          |  Series Channel HD                                |  A92_1_2A_DC00000=--------                               |  serieschannelhd=alfamusalsalat
 1_0_1_7DA_3F2_39E_1860000_0_0_0        |  Series HD                                        |  7DA_3F2_39E_1860000=--------                            |  serieshd=tringseries
@@ -10783,7 +10735,7 @@
 1_0_19_1C57_2198_FBFF_820000_0_0_0     |  Sky Cinema Family                                |  1C57_2198_FBFF_820000=--------                          |  skycinemafamily=skycinemafamily-phibruspel
 1_0_19_8B_2_85_C00000_0_0_0            |  Sky Cinema Family                                |  8B_2_85_C00000=--------                                 |  skycinemafamily=skycinemafamily-phibruspel
 1_0_1_2B61_19C8_FBFF_820000_0_0_0      |  Sky Cinema Family                                |  2B61_19C8_FBFF_820000=--------                          |  skycinemafamily=skycinemafamily-phibruspel
-1_0_19_6F_D_85_C00000_0_0_0            |  Sky Cinema Highlights                            |  6F_D_85_C00000=--------                                 |  skycinemahighlights=--------
+1_0_19_6F_D_85_C00000_0_0_0            |  Sky Cinema Highlights                            |  6F_D_85_C00000=--------                                 |  skycinemahighlights=skycinemahighlights
 1_0_19_83_6_85_C00000_0_0_0            |  Sky Cinema Premiere                              |  83_6_85_C00000=--------                                 |  skycinemapremiere=skycinemapremiere
 1_0_19_1C3F_14B4_FBFF_820000_0_0_0     |  Sky Cinema Romance                               |  1C3F_14B4_FBFF_820000=--------                          |  skycinemaromance=skycinemaromance
 1_0_19_2B27_1900_FBFF_820000_0_0_0     |  Sky Cinema Suspense                              |  2B27_1900_FBFF_820000=--------                          |  skycinemasuspense=skycinemasuspense
@@ -10808,8 +10760,8 @@
 1_0_19_2DB1_2260_FBFF_820000_0_0_0     |  Sky Documentaries                                |  2DB1_2260_FBFF_820000=--------                          |  skydocumentaries=skydocumentaries
 1_0_19_2DB2_2260_FBFF_820000_0_0_0     |  Sky Documentaries                                |  2DB2_2260_FBFF_820000=--------                          |  skydocumentaries=skydocumentaries
 1_0_19_70_D_85_C00000_0_0_0            |  Sky Documentaries                                |  70_D_85_C00000=--------                                 |  skydocumentaries=skydocumentaries
-1_0_19_F58_189C_FBFF_820000_0_0_0      |  Sky Documentaries                                |  F58_189C_FBFF_820000=--------                           |  skydocumentaries=skydocumentaries
-1_0_19_F5E_189C_FBFF_820000_0_0_0      |  Sky Documentaries                                |  F5E_189C_FBFF_820000=--------                           |  skydocumentaries=skydocumentaries
+1_0_19_F58_189C_FBFF_820000_0_0_0      |  Sky Documentaries +1                             |  F58_189C_FBFF_820000=--------                           |  skydocumentariesplus1=skydocumentariesplus1
+1_0_19_F5E_189C_FBFF_820000_0_0_0      |  Sky Documentaries +1                             |  F5E_189C_FBFF_820000=--------                           |  skydocumentariesplus1=skydocumentariesplus1
 1_0_19_EE8_7EE_2_11A0000_0_0_0         |  Sky Drama HD                                     |  EE8_7EE_2_11A0000=--------                              |  skydramahd=skycinemadramaandromancehd
 1_0_1_1133_7DC_2_11A0000_0_0_0         |  Sky Family                                       |  1133_7DC_2_11A0000=--------                             |  skyfamily=skycinemafamily-clivebesle
 1_0_19_1782_7EE_2_11A0000_0_0_0        |  Sky Family HD                                    |  1782_7EE_2_11A0000=--------                             |  skyfamilyhd=skycinemafamilyhd-clivebesle
@@ -11015,7 +10967,9 @@
 1_0_19_EFC_7E5_2_11A0000_0_0_0         |  SkySp F1 HD                                      |  EFC_7E5_2_11A0000=--------                              |  skyspf1hd=skysportsf1hd
 1_0_1_106E_7E7_2_11A0000_0_0_0         |  SkySp Golf                                       |  106E_7E7_2_11A0000=--------                             |  skyspgolf=skysportsgolf
 1_0_1_1089_7E7_2_11A0000_0_0_0         |  SkySp Golf                                       |  1089_7E7_2_11A0000=--------                             |  skyspgolf=skysportsgolf
+1_0_1_14CA_7DC_2_11A0000_0_0_0         |  SkySp Golf                                       |  14CA_7DC_2_11A0000=--------                             |  skyspgolf=skysportsgolf
 1_0_1_1519_7E7_2_11A0000_0_0_0         |  SkySp Golf                                       |  1519_7E7_2_11A0000=--------                             |  skyspgolf=skysportsgolf
+1_0_1_151C_7DC_2_11A0000_0_0_0         |  SkySp Golf                                       |  151C_7DC_2_11A0000=--------                             |  skyspgolf=skysportsgolf
 1_0_1_151C_7E7_2_11A0000_0_0_0         |  SkySp Golf                                       |  151C_7E7_2_11A0000=--------                             |  skyspgolf=skysportsgolf
 1_0_19_106F_7D3_2_11A0000_0_0_0        |  SkySp Golf HD                                    |  106F_7D3_2_11A0000=--------                             |  skyspgolfhd=skysportsgolfhd
 1_0_19_108A_7D3_2_11A0000_0_0_0        |  SkySp Golf HD                                    |  108A_7D3_2_11A0000=--------                             |  skyspgolfhd=skysportsgolfhd
@@ -11029,7 +10983,9 @@
 1_0_1_1073_7E7_2_11A0000_0_0_0         |  SkySp News                                       |  1073_7E7_2_11A0000=--------                             |  skyspnews=skysportsnews
 1_0_1_132B_7E7_2_11A0000_0_0_0         |  SkySp News                                       |  132B_7E7_2_11A0000=--------                             |  skyspnews=skysportsnews
 1_0_1_132D_7E7_2_11A0000_0_0_0         |  SkySp News                                       |  132D_7E7_2_11A0000=--------                             |  skyspnews=skysportsnews
+1_0_1_132E_7DC_2_11A0000_0_0_0         |  SkySp News                                       |  132E_7DC_2_11A0000=--------                             |  skyspnews=skysportsnews
 1_0_1_132E_7E7_2_11A0000_0_0_0         |  SkySp News                                       |  132E_7E7_2_11A0000=--------                             |  skyspnews=skysportsnews
+1_0_1_14C2_7DC_2_11A0000_0_0_0         |  SkySp News                                       |  14C2_7DC_2_11A0000=--------                             |  skyspnews=skysportsnews
 1_0_19_E2D_7E5_2_11A0000_0_0_0         |  SkySp News HD                                    |  E2D_7E5_2_11A0000=--------                              |  skyspnewshd=skysportsnewshd
 1_0_19_F2A_7E0_2_11A0000_0_0_0         |  SkySp News HD                                    |  F2A_7E0_2_11A0000=--------                              |  skyspnewshd=skysportsnewshd
 1_0_19_F4D_7E0_2_11A0000_0_0_0         |  SkySp News HD                                    |  F4D_7E0_2_11A0000=--------                              |  skyspnewshd=skysportsnewshd
@@ -11170,7 +11126,7 @@
 1_0_19_7AA9_2CC_600_E080000_0_0_0      |  Sport 2 HD                                       |  7AA9_2CC_600_E080000=--------                           |  sport2hd=sport2
 1_0_1F_4CC_76C1_16E_A00000_0_0_0       |  Sport 2 HD                                       |  4CC_76C1_16E_A00000=--------                            |  sport2hd=sport2
 1_0_19_7ABE_2CC_600_E080000_0_0_0      |  Sport 2 HD (SVT)                                 |  7ABE_2CC_600_E080000=--------                           |  sport2hdsvt=sport2
-1_0_1_76DE_2C0_600_E080000_0_0_0       |  Sport Extra                                      |  76DE_2C0_600_E080000=--------                           |  sportextra=sportextra
+1_0_16_76DE_2C0_600_E080000_0_0_0      |  Sport Extra                                      |  76DE_2C0_600_E080000=--------                           |  sportextra=sportextra
 1_0_1_D5_10_1C_1860000_0_0_0           |  Sport Extra                                      |  D5_10_1C_1860000=--------                               |  sportextra=sportextra
 1_0_19_2C52_19C8_FBFF_820000_0_0_0     |  Sport HD                                         |  2C52_19C8_FBFF_820000=--------                          |  sporthd=skysport
 1_0_16_1C94_A_46_E080000_0_0_0         |  Sport Live                                       |  1C94_A_46_E080000=--------                              |  sportlive=sportlive
@@ -11368,13 +11324,12 @@
 1_0_1_139_9F98_7E_460000_0_0_0         |  T2                                               |  139_9F98_7E_460000=--------                             |  t2=--------
 1_0_1_1B_117E_117E_2080000_0_0_0       |  T2 HD                                            |  1B_117E_117E_2080000=--------                           |  t2hd=--------
 1_0_19_13F6_5014_16E_A00000_0_0_0      |  T7                                               |  13F6_5014_16E_A00000=--------                           |  t7=t7
-1_0_1_8_1_1_A0B0F9_0_0_0               |  T7                                               |  8_1_1_A0B0F9=--------                                   |  t7=t7
 1_0_16_1A98_68E1_217C_5A0000_0_0_0     |  T9                                               |  1A98_68E1_217C_5A0000=--------                          |  t9=--------
 1_0_16_7662_2BF_600_E080000_0_0_0      |  TA3                                              |  7662_2BF_600_E080000=--------                           |  ta3=ta3
+1_0_16_7A4A_2CB_600_E080000_0_0_0      |  TA3                                              |  7A4A_2CB_600_E080000=--------                           |  ta3=ta3
 1_0_19_1328_CA2_3_EB0000_0_0_0         |  TA3 HD                                           |  1328_CA2_3_EB0000=--------                              |  ta3hd=ta3
 1_0_1F_7DC_9E98_16E_A00000_0_0_0       |  TA3 HD                                           |  7DC_9E98_16E_A00000=--------                            |  ta3hd=ta3
 1_0_1_BD8_AF3_BB_E080000_0_0_0         |  TA3 HD                                           |  BD8_AF3_BB_E080000=--------                             |  ta3hd=ta3
-1_0_16_7A4A_2CB_600_E080000_0_0_0      |  TA3.                                             |  7A4A_2CB_600_E080000=--------                           |  ta3=ta3
 1_0_1_262_C21_6E_DCA0000_0_0_0         |  TAHA                                             |  262_C21_6E_DCA0000=--------                             |  taha=--------
 1_0_2_6210_FF91_36E_1680000_0_0_0      |  TAIFA                                            |  6210_FF91_36E_1680000=--------                          |  taifa=--------
 1_0_1_73_65_E26_26C0000_0_0_0          |  TAMASHA                                          |  73_65_E26_26C0000=--------                              |  tamasha=--------
@@ -11501,7 +11456,6 @@
 1_0_19_1B73_17_6E_DCA0000_0_0_0        |  TEST                                             |  1B73_17_6E_DCA0000=--------                             |  test=--------
 1_0_19_C29_3_FF00_2032C56_0_0_0        |  TEST                                             |  C29_3_FF00_2032C56=--------                             |  test=--------
 1_0_1_196_4EE8_77E_DC00000_0_0_0       |  TEST                                             |  196_4EE8_77E_DC00000=--------                           |  test=--------
-1_0_1_1E00_2B_55_300000_0_0_0          |  TEST                                             |  1E00_2B_55_300000=--------                              |  test=--------
 1_0_1_290A_41A_E0_1040000_0_0_0        |  TEST                                             |  290A_41A_E0_1040000=--------                            |  test=--------
 1_0_1_36_12D_2BE_1040000_0_0_0         |  TEST                                             |  36_12D_2BE_1040000=--------                             |  test=--------
 1_0_1_37_12D_2BE_1040000_0_0_0         |  TEST                                             |  37_12D_2BE_1040000=--------                             |  test=--------
@@ -11674,10 +11628,10 @@
 1_0_19_EB_1644_9C_5A0000_0_0_0         |  TLC HD                                           |  EB_1644_9C_5A0000=--------                              |  tlchd=tlchd
 1_0_1_308_9D08_16E_A00000_0_0_0        |  TLC HD                                           |  308_9D08_16E_A00000=--------                            |  tlchd=tlchd
 1_0_19_277E_409_1_C00000_0_0_0         |  TLC HD Austria                                   |  277E_409_1_C00000=--------                              |  tlchdaustria=tlchd
-1_0_19_15E0_C3AA_9E_5A0000_0_0_0       |  TLC Hungary HD                                   |  15E0_C3AA_9E_5A0000=--------                            |  tlchungaryhd=--------
+1_0_19_15E0_C3AA_9E_5A0000_0_0_0       |  TLC Hungary HD                                   |  15E0_C3AA_9E_5A0000=--------                            |  tlchungaryhd=tlc
 1_0_16_17D4_C3BE_9E_5A0000_0_0_0       |  TLC Hungary SD                                   |  17D4_C3BE_9E_5A0000=--------                            |  tlchungarysd=tlc
 1_0_19_1C3F_21_46_E080000_0_0_0        |  TLC Norge HD                                     |  1C3F_21_46_E080000=--------                             |  tlcnorgehd=tlc
-1_0_19_170C_C3AA_9E_5A0000_0_0_0       |  TLC Pan Regional HD                              |  170C_C3AA_9E_5A0000=--------                            |  tlcpanregionalhd=--------
+1_0_19_170C_C3AA_9E_5A0000_0_0_0       |  TLC Pan Regional HD                              |  170C_C3AA_9E_5A0000=--------                            |  tlcpanregionalhd=tlc
 1_0_1_405_2_1_E080000_0_0_0            |  TLC RO                                           |  405_2_1_E080000=--------                                |  tlcro=tlc
 1_0_19_1C3E_21_46_E080000_0_0_0        |  TLC Sverige HD                                   |  1C3E_21_46_E080000=--------                             |  tlcsverigehd=tlc
 1_0_1_136A_33F4_13E_820000_0_0_0       |  TLC Telecampione                                 |  136A_33F4_13E_820000=--------                           |  tlctelecampione=orlertv
@@ -11794,7 +11748,7 @@
 1_0_19_2968_7919_42E_1A40000_0_0_0     |  TRT COCUK HD                                     |  2968_7919_42E_1A40000=--------                          |  trtcocukhd=trtcocuk
 1_0_19_2986_42E_A861_1A40000_0_0_0     |  TRT DIYANET COCUK HD                             |  2986_42E_A861_1A40000=--------                          |  trtdiyanetcocukhd=--------
 1_0_1_C866_9CA5_42E_1A40000_0_0_0      |  TRT EBA                                          |  C866_9CA5_42E_1A40000=--------                          |  trteba=--------
-1_0_19_CB22_A02D_42E_1A40000_0_0_0     |  TRT EBA TV ORTAOKUL HD                           |  CB22_A02D_42E_1A40000=--------                          |  trtebatvortaokulhd=--------
+1_0_19_CB22_A02D_42E_1A40000_0_0_0     |  TRT EBA HD                                       |  CB22_A02D_42E_1A40000=--------                          |  trtebahd=--------
 1_0_2_290F_9D6D_42E_1A40000_0_0_0      |  TRT FM                                           |  290F_9D6D_42E_1A40000=--------                          |  trtfm=trtfm
 1_0_2_2_1_2A_1A40000_0_0_0             |  TRT FM                                           |  2_1_2A_1A40000=--------                                 |  trtfm=trtfm
 1_0_2_6_3D_2A_1A40000_0_0_0            |  TRT FM                                           |  6_3D_2A_1A40000=--------                                |  trtfm=trtfm
@@ -11903,8 +11857,8 @@
 1_0_1_CA5C_7B0E_42E_1A40000_0_0_0      |  TV 1                                             |  CA5C_7B0E_42E_1A40000=tv1-hilerethip                    |  tv1=tv1
 1_0_1_DD_1_D5_1C20000_0_0_0            |  TV 1 Russia                                      |  DD_1_D5_1C20000=--------                                |  tv1russia=--------
 1_0_1_DD_251C_D5_820000_0_0_0          |  TV 1 Russia                                      |  DD_251C_D5_820000=--------                              |  tv1russia=--------
-1_0_1_C870_9CA5_42E_1A40000_0_0_0      |  TV 100                                           |  C870_9CA5_42E_1A40000=--------                          |  tv100=tv100
 1_0_19_C9B0_76C1_42E_1A40000_0_0_0     |  TV 100 HD                                        |  C9B0_76C1_42E_1A40000=--------                          |  tv100hd=tv100-hilerethip
+1_0_19_CB25_A02D_42E_1A40000_0_0_0     |  TV 100 HD                                        |  CB25_A02D_42E_1A40000=--------                          |  tv100hd=tv100-hilerethip
 1_0_19_CBE8_A925_42E_1A40000_0_0_0     |  TV 100 HD                                        |  CBE8_A925_42E_1A40000=--------                          |  tv100hd=tv100-hilerethip
 1_0_1_12D_12_1C_1860000_0_0_0          |  TV 1000                                          |  12D_12_1C_1860000=--------                              |  tv1000=tv1000
 1_0_1_7E_1_D5_1C20000_0_0_0            |  TV 1000                                          |  7E_1_D5_1C20000=--------                                |  tv1000=tv1000
@@ -11996,9 +11950,9 @@
 1_0_16_44_3_40_A00000_0_0_0            |  TV Koper                                         |  44_3_40_A00000=--------                                 |  tvkoper=kopercapodistria
 1_0_19_1F4A_80E1_217C_5A0000_0_0_0     |  TV LUNA HD                                       |  1F4A_80E1_217C_5A0000=--------                          |  tvlunahd=--------
 1_0_16_766E_2BF_600_E080000_0_0_0      |  TV LUX                                           |  766E_2BF_600_E080000=--------                           |  tvlux=lux
+1_0_16_7A54_2CB_600_E080000_0_0_0      |  TV LUX                                           |  7A54_2CB_600_E080000=--------                           |  tvlux=lux
 1_0_19_1C02_C88_3_EB0000_0_0_0         |  TV LUX                                           |  1C02_C88_3_EB0000=--------                              |  tvlux=lux
 1_0_19_1C02_C92_3_EB0000_0_0_0         |  TV LUX                                           |  1C02_C92_3_EB0000=--------                              |  tvlux=lux
-1_0_16_7A54_2CB_600_E080000_0_0_0      |  TV LUX.                                          |  7A54_2CB_600_E080000=--------                           |  tvlux=lux
 1_0_19_177F_AF6_BB_E080000_0_0_0       |  TV Lux HD                                        |  177F_AF6_BB_E080000=--------                            |  tvluxhd=lux
 1_0_19_1F4E_CA1_3_EB0000_0_0_0         |  TV Lux HD                                        |  1F4E_CA1_3_EB0000=--------                              |  tvluxhd=lux
 1_0_1F_4B2_76C1_16E_A00000_0_0_0       |  TV Lux HD                                        |  4B2_76C1_16E_A00000=--------                            |  tvluxhd=lux
@@ -12064,9 +12018,9 @@
 1_0_1_451_526C_16E_A00000_0_0_0        |  TV1000 Russian Kino Global                       |  451_526C_16E_A00000=--------                            |  tv1000russiankinoglobal=tv1000russkoekino
 1_0_1_75B6_2BD_600_E080000_0_0_0       |  TV1000.                                          |  75B6_2BD_600_E080000=--------                           |  tv1000=tv1000
 1_0_19_1D1F_1_46_E080000_0_0_0         |  TV12 HD                                          |  1D1F_1_46_E080000=--------                              |  tv12hd=tv12
-1_0_19_1E0C_3D_46_E080000_0_0_0        |  TV12 HD                                          |  1E0C_3D_46_E080000=--------                             |  tv12hd=tv12
+1_0_19_1E0C_3D_46_E080000_0_0_0        |  TV12 HD (old)                                    |  1E0C_3D_46_E080000=--------                             |  tv12hdold=--------
 1_0_19_4303_1_46_E080000_0_0_0         |  TV12 HD - text                                   |  4303_1_46_E080000=--------                              |  tv12hdtext=tv12
-1_0_19_4A30_3D_46_E080000_0_0_0        |  TV12 HD - text                                   |  4A30_3D_46_E080000=--------                             |  tv12hdtext=tv12
+1_0_19_4A30_3D_46_E080000_0_0_0        |  TV12 HD - text (old)                             |  4A30_3D_46_E080000=--------                             |  tv12hdtextold=--------
 1_0_16_3B67_C8D_3_EB0000_0_0_0         |  TV2                                              |  3B67_C8D_3_EB0000=--------                              |  tv2=tv2-wapadedrud
 1_0_1_45ED_6FE_B4DC_E080000_0_0_0      |  TV2                                              |  45ED_6FE_B4DC_E080000=--------                          |  tv2=tv2-wapadedrud
 1_0_1_564_3_1_E080000_0_0_0            |  TV2                                              |  564_3_1_E080000=--------                                |  tv2=tv2-wapadedrud
@@ -12340,8 +12294,8 @@
 1_0_2_D760_82F_2_11A0000_0_0_0         |  TWR                                              |  D760_82F_2_11A0000=--------                             |  twr=transworldradio
 1_0_2_405_320_800_DCA0000_0_0_0        |  TWR Arabic ????? ??? ??????                      |  405_320_800_DCA0000=--------                            |  twrarabic=transworldradio
 1_0_1_1_1000_2000_D70000_0_0_0         |  TX SPORT 2                                       |  1_1000_2000_D70000=--------                             |  txsport2=--------
+1_0_1_1E00_2B_55_300000_0_0_0          |  Tak TV                                           |  1E00_2B_55_300000=--------                              |  taktv=--------
 1_0_1_D381_830_2_11A0000_0_0_0         |  Takbeer TV                                       |  D381_830_2_11A0000=--------                             |  takbeertv=takbeertv
-1_0_19_CD6E_902_2_11A0000_0_0_0        |  TalkTV HD                                        |  CD6E_902_2_11A0000=--------                             |  talktvhd=talktv
 1_0_1_D7B9_840_2_11A0000_0_0_0         |  TalkingPictures                                  |  D7B9_840_2_11A0000=--------                             |  talkingpictures=talkingpicturestv
 1_0_1_11_211E_211E_2080000_0_0_0       |  Tamadon HD                                       |  11_211E_211E_2080000=--------                           |  tamadonhd=--------
 1_0_1_50_320_2BE_1040000_0_0_0         |  Tamazight                                        |  50_320_2BE_1040000=--------                             |  tamazight=tamazight
@@ -12411,7 +12365,7 @@
 1_0_1_1A93_68E1_217C_5A0000_0_0_0      |  Teleuniverso HD                                  |  1A93_68E1_217C_5A0000=--------                          |  teleuniversohd=--------
 1_0_1_D32F_836_2_11A0000_0_0_0         |  Television X                                     |  D32F_836_2_11A0000=--------                             |  televisionx=televisionx
 1_0_1_54C_75FB_16E_A00000_0_0_0        |  Televizija 24                                    |  54C_75FB_16E_A00000=--------                            |  televizija24=televizija24
-1_0_1_1DF1_2B_55_300000_0_0_0          |  Televsesvit                                      |  1DF1_2B_55_300000=tv5                                   |  televsesvit=televsesvit
+1_0_1_1DF1_2B_55_300000_0_0_0          |  Televsesvit                                      |  1DF1_2B_55_300000=--------                              |  televsesvit=televsesvit
 1_0_1_4F31_C8A_3_EB0000_0_0_0          |  Telma                                            |  4F31_C8A_3_EB0000=--------                              |  telma=telma
 1_0_1_12_1137_21AC_1040000_0_0_0       |  Telvza TV                                        |  12_1137_21AC_1040000=--------                           |  telvzatv=telvzatv
 1_0_1_7_0_FFFF_DCA2D8A_0_0_0           |  Telvza TV                                        |  7_0_FFFF_DCA2D8A=--------                               |  telvzatv=telvzatv
@@ -12787,10 +12741,10 @@
 1_0_1_4E30_C81_3_EB0000_0_0_0          |  UNA TV                                           |  4E30_C81_3_EB0000=--------                              |  unatv=una
 1_0_1_4536_30D4_13E_820000_0_0_0       |  UNINETTUNO UNIVERSITY TV                         |  4536_30D4_13E_820000=--------                           |  uninettunouniversitytv=uninettunouniversitytv
 1_0_19_24B9_43C_1_C00000_0_0_0         |  UNIONTV                                          |  24B9_43C_1_C00000=uniontv                               |  uniontv=--------
-1_0_19_1FFC_1E87_2BE_1040000_0_0_0     |  UNITY TV                                         |  1FFC_1E87_2BE_1040000=--------                          |  unitytv=--------
+1_0_1_1FFC_1E87_2BE_1040000_0_0_0      |  UNITY TV                                         |  1FFC_1E87_2BE_1040000=--------                          |  unitytv=--------
 1_0_16_1C03_384_110_5A0000_0_0_0       |  UNO TV                                           |  1C03_384_110_5A0000=--------                            |  unotv=--------
 1_0_1_A098_FFA1_36E_1680000_0_0_0      |  UPEND                                            |  A098_FFA1_36E_1680000=--------                          |  upend=upendotv
-1_0_1F_9E3_18_44_300000_0_0_0          |  UPL.TV                                           |  9E3_18_44_300000=--------                               |  upltv=--------
+1_0_1F_9E3_18_44_300000_0_0_0          |  UPL.TV                                           |  9E3_18_44_300000=--------                               |  upltv=upltv
 1_0_1_7AC_9_42_1A40000_0_0_0           |  URBAN BEATS                                      |  7AC_9_42_1A40000=--------                               |  urbanbeats=--------
 1_0_82_AC_9_42_1A40000_0_0_0           |  URBAN BEATS                                      |  AC_9_42_1A40000=--------                                |  urbanbeats=--------
 1_0_2_1388_B_A_1040000_0_0_0           |  URadio Maroc                                     |  1388_B_A_1040000=--------                               |  uradiomaroc=--------
@@ -13153,7 +13107,7 @@
 1_0_16_C1_2_40_A00000_0_0_0            |  Vivid Touch.                                     |  C1_2_40_A00000=--------                                 |  vividtouch=vividtouch
 1_0_19_316_C94_3_EB0000_0_0_0          |  Vixen HD                                         |  316_C94_3_EB0000=--------                               |  vixenhd=vixen
 1_0_19_7665_2BF_600_E080000_0_0_0      |  Vixen HD                                         |  7665_2BF_600_E080000=--------                           |  vixenhd=vixen
-1_0_19_7A50_2CB_600_E080000_0_0_0      |  Vixen HD.                                        |  7A50_2CB_600_E080000=--------                           |  vixenhd=vixen
+1_0_19_7A50_2CB_600_E080000_0_0_0      |  Vixen HD                                         |  7A50_2CB_600_E080000=--------                           |  vixenhd=vixen
 1_0_1_3F2_3F2_39E_1860000_0_0_0        |  Vizion Plus HD                                   |  3F2_3F2_39E_1860000=--------                            |  vizionplushd=vizionplus
 1_0_2_19D0_10_55_300000_0_0_0          |  Voice                                            |  19D0_10_55_300000=--------                              |  voice=suspilneradiokultura
 1_0_2_1E26_C9E_3_EB0000_0_0_0          |  Voice                                            |  1E26_C9E_3_EB0000=--------                              |  voice=suspilneradiokultura
@@ -13218,7 +13172,7 @@
 1_0_1_6EEB_4B1_1_C00000_0_0_0          |  WDR Test A                                       |  6EEB_4B1_1_C00000=--------                              |  wdrtesta=wdrfernsehen
 1_0_19_6EC2_3FD_1_C00000_0_0_0         |  WDR Test-R                                       |  6EC2_3FD_1_C00000=--------                              |  wdrtestr=--------
 1_0_1_6F77_457_1_C00000_0_0_0          |  WDR Wuppertal                                    |  6F77_457_1_C00000=--------                              |  wdrwuppertal=wdrfernsehen
-1_0_1_1B3F_11_55_300000_0_0_0          |  WE-UKRAINE                                       |  1B3F_11_55_300000=--------                              |  weukraine=myukraina
+1_0_1_1B3F_11_55_300000_0_0_0          |  WE-UKRAINE                                       |  1B3F_11_55_300000=--------                              |  weukraine=weukraineplus
 1_0_1_8B3_1F4_13E_820000_0_0_0         |  WELAT                                            |  8B3_1F4_13E_820000=--------                             |  welat=dengewelat
 1_0_1_FAC_107_217C_5A0000_0_0_0        |  WELCOME IN                                       |  FAC_107_217C_5A0000=--------                            |  welcomein=--------
 1_0_1_FAC_107_217C_DDE0000_0_0_0       |  WELCOME IN                                       |  FAC_107_217C_DDE0000=--------                           |  welcomein=--------
@@ -13266,7 +13220,7 @@
 1_0_1_5AA_C_1_E080000_0_0_0            |  Warner TV                                        |  5AA_C_1_E080000=--------                                |  warnertv=wbtv
 1_0_1_9_1F4_5_A00000_0_0_0             |  Warner TV                                        |  9_1F4_5_A00000=--------                                 |  warnertv=wbtv
 1_0_1_DF_10_1C_1860000_0_0_0           |  Warner TV                                        |  DF_10_1C_1860000=--------                               |  warnertv=wbtv
-1_0_19_88_B_85_C00000_0_0_0            |  Warner TV Comedy                                 |  88_B_85_C00000=--------                                 |  warnertvcomedy=--------
+1_0_19_88_B_85_C00000_0_0_0            |  Warner TV Comedy                                 |  88_B_85_C00000=--------                                 |  warnertvcomedy=warnertvcomedy
 1_0_19_1A2C_C3BE_9E_5A0000_0_0_0       |  Warner TV Czech HD                               |  1A2C_C3BE_9E_5A0000=--------                            |  warnertvczechhd=wbtv
 1_0_19_8C_4_85_C00000_0_0_0            |  Warner TV Film                                   |  8C_4_85_C00000=--------                                 |  warnertvfilm=--------
 1_0_19_3B6C_12C_13E_820000_0_0_0       |  Warner TV Italy HD                               |  3B6C_12C_13E_820000=--------                            |  warnertvitalyhd=warnertv
@@ -13424,7 +13378,6 @@
 1_0_1_798E_2C7_600_E080000_0_0_0       |  Zenebutik                                        |  798E_2C7_600_E080000=--------                           |  zenebutik=zenebutik
 1_0_2_21_2_212C_1860000_0_0_0          |  Zeppelin                                         |  21_2_212C_1860000=--------                              |  zeppelin=zeppelin
 1_0_16_514_51A4_16E_A00000_0_0_0       |  Zico TV                                          |  514_51A4_16E_A00000=--------                            |  zicotv=zicotv
-1_0_1_9_1_1_A0B0F9_0_0_0               |  Zico TV                                          |  9_1_1_A0B0F9=--------                                   |  zicotv=zicotv
 1_0_16_51C2_C96_3_EB0000_0_0_0         |  Ziggo Sport Golf                                 |  51C2_C96_3_EB0000=--------                              |  ziggosportgolf=ziggosportgolf
 1_0_19_51E0_C96_3_EB0000_0_0_0         |  Ziggo Sport Select HD                            |  51E0_C96_3_EB0000=--------                              |  ziggosportselecthd=ziggosportselect
 1_0_16_51BD_C96_3_EB0000_0_0_0         |  Ziggo Sport Voetbal                              |  51BD_C96_3_EB0000=--------                              |  ziggosportvoetbal=ziggosportvoetbal
