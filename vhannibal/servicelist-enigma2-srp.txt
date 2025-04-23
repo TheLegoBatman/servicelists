@@ -278,7 +278,6 @@
 1_0_64_DCD_EA79_1_CE40000_0_0_0        |  11382H SID 0xdcd                                 |  DCD_EA79_1_CE40000=--------
 1_0_64_DCE_EA79_1_CE40000_0_0_0        |  11382H SID 0xdce                                 |  DCE_EA79_1_CE40000=--------
 1_0_64_FFFE_EA79_1_CE40000_0_0_0       |  11382H SID 0xfffe                                |  FFFE_EA79_1_CE40000=--------
-1_0_1_1_1_1_C00000_0_0_0               |  11407V                                           |  1_1_1_C00000=--------
 1_0_2_37C8_44C_13E_820000_0_0_0        |  11411H SID 0x37c8                                |  37C8_44C_13E_820000=--------
 1_0_64_1_202_0_CB72CCC_0_0_0           |  11468H SID 0x01                                  |  1_202_0_CB72CCC=--------
 1_0_1_47E_0_1_A0318A_0_0_0             |  1150 Torun SuperNova                             |  47E_0_1_A0318A=--------
@@ -565,6 +564,8 @@
 1_0_2_1F5F_1_10_640000_0_0_0           |  51 BFBS Radio                                    |  1F5F_1_10_640000=bfbsops
 1_0_2_1F58_1_10_640000_0_0_0           |  52 BFBS Radio 2                                  |  1F58_1_10_640000=bfbsradio2
 1_0_2_1F5B_1_10_640000_0_0_0           |  53 BFBS UK National                              |  1F5B_1_10_640000=bfbsuk
+1_0_1_D066_83E_2_11A0000_0_0_0         |  53350                                            |  D066_83E_2_11A0000=popmax
+1_0_1_D070_83E_2_11A0000_0_0_0         |  53360                                            |  D070_83E_2_11A0000=popmaxplus1
 1_0_1_D094_83E_2_11A0000_0_0_0         |  53396                                            |  D094_83E_2_11A0000=skysportsracing
 1_0_1_D095_83E_2_11A0000_0_0_0         |  53397                                            |  D095_83E_2_11A0000=skysportsracing
 1_0_1_1504_0_1_A0318A_0_0_0            |  5380 Warszawa ERock                              |  1504_0_1_A0318A=--------
@@ -1687,7 +1688,7 @@
 1_0_1_4_2_2_104AA12_0_0_0              |  Alkass two HD                                    |  4_2_2_104AA12=alkasstwohd
 1_0_1_9C6_19_800_DCA0000_0_0_0         |  Alkass two HD                                    |  9C6_19_800_DCA0000=alkasstwohd
 1_0_2_2_0_0_212B18B_0_0_0              |  Allahthah-FM                                     |  2_0_0_212B18B=--------
-1_0_2_17F1_C82_3_EB0000_0_0_0          |  Alleen Klassiek                                  |  17F1_C82_3_EB0000=classicnl
+1_0_2_17F1_C82_3_EB0000_0_0_0          |  Alleen Klassiek                                  |  17F1_C82_3_EB0000=alleenklassiek
 1_0_1_1_0_0_212B18B_0_0_0              |  Allhthah TV                                      |  1_0_0_212B18B=--------
 1_0_1_2E_1_FFFF_DCA2A3F_0_0_0          |  Alma7atta                                        |  2E_1_FFFF_DCA2A3F=--------
 1_0_1_193_C23_6E_DCA0000_0_0_0         |  Almaaref TV HD                                   |  193_C23_6E_DCA0000=almaaref
@@ -2411,8 +2412,6 @@
 1_0_19_33A8_3EB_1_C00000_0_0_0         |  Bibel TV HD                                      |  33A8_3EB_1_C00000=bibeltvhd
 1_0_19_1_1_1_2AD3112_0_0_0             |  Bible Explorations TV                            |  1_1_1_2AD3112=--------
 1_0_1_21_1_1_2AD3112_0_0_0             |  Bible Explorations TV                            |  21_1_1_2AD3112=--------
-1_0_19_1432_4F4C_16E_A00000_0_0_0      |  Big Brother VIP 1                                |  1432_4F4C_16E_A00000=--------
-1_0_19_1450_4F4C_16E_A00000_0_0_0      |  Big Brother VIP 2                                |  1450_4F4C_16E_A00000=--------
 1_0_19_2E7_3_0_208B05C_0_0_0           |  Big Planet HD                                    |  2E7_3_0_208B05C=--------
 1_0_1_1391_30_36_CE40000_0_0_0         |  Biggs                                            |  1391_30_36_CE40000=biggs
 1_0_1_F0_30_36_CE40000_0_0_0           |  Biggs                                            |  F0_30_36_CE40000=biggs
@@ -3168,7 +3167,7 @@
 1_0_1_BF4_3FC_39E_1860000_0_0_0        |  Click TV                                         |  BF4_3FC_39E_1860000=click
 1_0_1_D3C7_839_2_11A0000_0_0_0         |  Climax                                           |  D3C7_839_2_11A0000=climax
 1_0_19_10D1_418_1_C00000_0_0_0         |  ClipMyHorse.TV                                   |  10D1_418_1_C00000=clipmyhorsetv
-1_0_1_C796_815_2_11A0000_0_0_0         |  Club MTV                                         |  C796_815_2_11A0000=mtvhits
+1_0_1_C796_815_2_11A0000_0_0_0         |  Club MTV                                         |  C796_815_2_11A0000=mtvclub
 1_0_16_7A_3_40_A00000_0_0_0            |  Club MTV.                                        |  7A_3_40_A00000=mtvclub
 1_0_1_A32_3FC_39E_1860000_0_0_0        |  Club TV                                          |  A32_3FC_39E_1860000=clubtv
 1_0_1_D749_82F_2_11A0000_0_0_0         |  Clubland TV                                      |  D749_82F_2_11A0000=clublandtv
@@ -3715,7 +3714,6 @@
 1_0_1_474_1AF4_9E_5A0000_0_0_0         |  Diva Balkans                                     |  474_1AF4_9E_5A0000=divauniversal
 1_0_1_46F_1AF4_9E_5A0000_0_0_0         |  Diva Romania                                     |  46F_1AF4_9E_5A0000=divauniversal
 1_0_1_E8_5_49_2AD0000_0_0_0            |  Divine Hand TV                                   |  E8_5_49_2AD0000=--------
-1_0_19_1CF0_4A_800_DC00000_0_0_0       |  Diwan                                            |  1CF0_4A_800_DC00000=--------
 1_0_16_1BC_7_1_1860000_0_0_0           |  Dizi                                             |  1BC_7_1_1860000=--------
 1_0_16_46_6_1_1860000_0_0_0            |  Dizi                                             |  46_6_1_1860000=dizi
 1_0_16_9E9_18_44_300000_0_0_0          |  Dizi                                             |  9E9_18_44_300000=dizi
@@ -4761,7 +4759,7 @@
 1_0_A_1C_1F7_2BE_1040000_0_0_0         |  Gayathi Adhan                                    |  1C_1F7_2BE_1040000=--------
 1_0_1_C4AB_811_2_11A0000_0_0_0         |  Gems TV                                          |  C4AB_811_2_11A0000=gemstv
 1_0_16_36_7_85_C00000_0_0_0            |  Genius Exklusiv                                  |  36_7_85_C00000=geniusexklusiv
-1_0_16_6DD1_44D_1_C00000_0_0_0         |  Genius Family                                    |  6DD1_44D_1_C00000=--------
+1_0_16_6DD1_44D_1_C00000_0_0_0         |  Genius Family                                    |  6DD1_44D_1_C00000=geniusfamily
 1_0_16_5279_41D_1_C00000_0_0_0         |  Genius Plus                                      |  5279_41D_1_C00000=geniusplustv
 1_0_16_3336_45B_1_C00000_0_0_0         |  Genius TV                                        |  3336_45B_1_C00000=geniusplustv
 1_0_1_381_21_85_C00000_0_0_0           |  Genius Trend                                     |  381_21_85_C00000=geniustrend
@@ -5691,9 +5689,9 @@
 1_0_19_71_3264_13E_820000_0_0_0        |  Kabelio VOX CH                                   |  71_3264_13E_820000=voxhd
 1_0_19_85_3264_13E_820000_0_0_0        |  Kabelio ZDF                                      |  85_3264_13E_820000=zdf
 1_0_19_87_3264_13E_820000_0_0_0        |  Kabelio n-tv CH                                  |  87_3264_13E_820000=ntv
-1_0_1_106_2DB4_13E_820000_0_0_0        |  Kabelio wedo BigStor                             |  106_2DB4_13E_820000=--------
-1_0_1_104_2DB4_13E_820000_0_0_0        |  Kabelio wedo Movies                              |  104_2DB4_13E_820000=--------
-1_0_1_105_2DB4_13E_820000_0_0_0        |  Kabelio wedo Sports                              |  105_2DB4_13E_820000=--------
+1_0_1_106_2DB4_13E_820000_0_0_0        |  Kabelio wedo BigStor                             |  106_2DB4_13E_820000=wedotvbigstories
+1_0_1_104_2DB4_13E_820000_0_0_0        |  Kabelio wedo Movies                              |  104_2DB4_13E_820000=wedotvmovies
+1_0_1_105_2DB4_13E_820000_0_0_0        |  Kabelio wedo Sports                              |  105_2DB4_13E_820000=wedotvsports
 1_0_2_11_32_64_DCA0000_0_0_0           |  Kadak                                            |  11_32_64_DCA0000=kadak
 1_0_1_1C91_49_800_DC00000_0_0_0        |  Kaifa                                            |  1C91_49_800_DC00000=kaifa
 1_0_2_8B_65_12_5A0000_0_0_0            |  Kaiserslautern Eagle                             |  8B_65_12_5A0000=afngokaiserslautern
@@ -6021,7 +6019,7 @@
 1_0_1_8FF_2_2BE_1040000_0_0_0          |  Libya Education                                  |  8FF_2_2BE_1040000=--------
 1_0_1_901_17_800_DCA0000_0_0_0         |  Libya Radio Quran Karem                          |  901_17_800_DCA0000=--------
 1_0_19_8FE_17_800_DCA0000_0_0_0        |  Libya Sport 2 HD                                 |  8FE_17_800_DCA0000=libyasport2hd
-1_0_1_1_1_FFFF_D7AD96_0_0_0            |  Libya Sport 2 HD                                 |  1_1_FFFF_D7AD96=afaqtv
+1_0_1_1_1_FFFF_D7AD97_0_0_0            |  Libya Sport 2 HD                                 |  1_1_FFFF_D7AD97=afaqtv
 1_0_1_8FE_2_2BE_1040000_0_0_0          |  Libya Sport 2 HD                                 |  8FE_2_2BE_1040000=libyasport2hd
 1_0_1_1_1_1_D7AD7C_0_0_0               |  Libya Sport HD1                                  |  1_1_1_D7AD7C=lpc
 1_0_19_1C_8_FFFF_DC02B58_0_0_0         |  Libya WTV HD                                     |  1C_8_FFFF_DC02B58=wasattv
@@ -7567,8 +7565,6 @@
 1_0_2_C427_A4D9_42E_1A40000_0_0_0      |  POLIS RADYOSU                                    |  C427_A4D9_42E_1A40000=--------
 1_0_2_C80B_A3AE_42E_1A40000_0_0_0      |  POLIS RADYOSU                                    |  C80B_A3AE_42E_1A40000=--------
 1_0_1_D05C_83E_2_11A0000_0_0_0         |  POP                                              |  D05C_83E_2_11A0000=pop
-1_0_1_D066_83E_2_11A0000_0_0_0         |  POP Max                                          |  D066_83E_2_11A0000=popmax
-1_0_1_D070_83E_2_11A0000_0_0_0         |  POP Max+1                                        |  D070_83E_2_11A0000=popmaxplus1
 1_0_1_35A_C3B4_16E_A00000_0_0_0        |  POP TV HD                                        |  35A_C3B4_16E_A00000=pop-slegilimeh
 1_0_1_419_6_AA_5A0000_0_0_0            |  POP UP 02                                        |  419_6_AA_5A0000=--------
 1_0_1_41C_8_AA_5A0000_0_0_0            |  POP UP TEST HD                                   |  41C_8_AA_5A0000=--------
@@ -7749,7 +7745,7 @@
 1_0_1_B_117E_117E_2080000_0_0_0        |  Persiana Sports HD                               |  B_117E_117E_2080000=--------
 1_0_1_11_1566_1566_2080000_0_0_0       |  Persiana Teen                                    |  11_1566_1566_2080000=--------
 1_0_1_20A_765C_7E_460000_0_0_0         |  Persiana Travel                                  |  20A_765C_7E_460000=--------
-1_0_1_7_1566_1566_2080000_0_0_0        |  Persiana Vibe HD                                 |  7_1566_1566_2080000=--------
+1_0_1_7_1566_1566_2080000_0_0_0        |  Persiana Vibe                                    |  7_1566_1566_2080000=--------
 1_0_1_258_309_74_1C20000_0_0_0         |  Perviy kanal SNG                                 |  258_309_74_1C20000=--------
 1_0_2_E60_5_1_E080000_0_0_0            |  Petofi Radio                                     |  E60_5_1_E080000=petofiradio
 1_0_2_98_1838_9E_5A0000_0_0_0          |  Petofi Radio (AAC)                               |  98_1838_9E_5A0000=petofiradio
@@ -10276,9 +10272,9 @@
 1_0_19_149B_7E0_2_11A0000_0_0_0        |  SkyShowcaseHD                                    |  149B_7E0_2_11A0000=skyshowcasehd
 1_0_19_14A0_7E0_2_11A0000_0_0_0        |  SkyShowcaseHD                                    |  14A0_7E0_2_11A0000=skyshowcasehd
 1_0_19_1886_7D8_2_11A0000_0_0_0        |  SkyShowcaseHD                                    |  1886_7D8_2_11A0000=skyshowcasehd
-1_0_1_3E27_2EE0_13E_820000_0_0_0       |  SkyShowtime 1                                    |  3E27_2EE0_13E_820000=--------
+1_0_1_3E27_2EE0_13E_820000_0_0_0       |  SkyShowtime 1                                    |  3E27_2EE0_13E_820000=skyshowtime1
 1_0_19_1D3A_48_46_E080000_0_0_0        |  SkyShowtime 1 HD                                 |  1D3A_48_46_E080000=--------
-1_0_1_3E28_2EE0_13E_820000_0_0_0       |  SkyShowtime 2                                    |  3E28_2EE0_13E_820000=--------
+1_0_1_3E28_2EE0_13E_820000_0_0_0       |  SkyShowtime 2                                    |  3E28_2EE0_13E_820000=skyshowtime2
 1_0_19_1D43_48_46_E080000_0_0_0        |  SkyShowtime 2 HD                                 |  1D43_48_46_E080000=--------
 1_0_1_119F_7DC_2_11A0000_0_0_0         |  SkySp Action                                     |  119F_7DC_2_11A0000=skysportsaction
 1_0_1_14D5_7DC_2_11A0000_0_0_0         |  SkySp Action                                     |  14D5_7DC_2_11A0000=skysportsaction
@@ -10952,6 +10948,7 @@
 1_0_1_7E_4_1_300000_0_0_0              |  TRAVEL                                           |  7E_4_1_300000=--------
 1_0_16_4E_7918_217C_5A0000_0_0_0       |  TRAVEL TV                                        |  4E_7918_217C_5A0000=--------
 1_0_16_4F_7918_217C_5A0000_0_0_0       |  TRAVEL TV                                        |  4F_7918_217C_5A0000=--------
+1_0_1F_11FB_2B5C_13E_820000_0_0_0      |  TRAVELXP 4K                                      |  11FB_2B5C_13E_820000=travelxp4khdr
 1_0_1_12C2_48E1_217C_5A0000_0_0_0      |  TRC Bologna                                      |  12C2_48E1_217C_5A0000=--------
 1_0_1_12C1_48E1_217C_5A0000_0_0_0      |  TRC Modena                                       |  12C1_48E1_217C_5A0000=--------
 1_0_19_CF_4EE8_55F_DDE0000_0_0_0       |  TREK                                             |  CF_4EE8_55F_DDE0000=trek
@@ -11585,6 +11582,7 @@
 1_0_16_1C07_384_110_5A0000_0_0_0       |  Tesory Channel                                   |  1C07_384_110_5A0000=--------
 1_0_16_1C1C_384_110_5A0000_0_0_0       |  Tesory Channel                                   |  1C1C_384_110_5A0000=--------
 1_0_19_132B_31_800_DCA0000_0_0_0       |  Test                                             |  132B_31_800_DCA0000=--------
+1_0_19_1CF0_4A_800_DC00000_0_0_0       |  Test                                             |  1CF0_4A_800_DC00000=--------
 1_0_19_1EB_5_800_DCA0000_0_0_0         |  Test                                             |  1EB_5_800_DCA0000=--------
 1_0_19_3EC_A_800_DCA0000_0_0_0         |  Test                                             |  3EC_A_800_DCA0000=--------
 1_0_19_3ED_A_800_DCA0000_0_0_0         |  Test                                             |  3ED_A_800_DCA0000=--------
@@ -11813,7 +11811,7 @@
 1_0_1_13_0_0_20D2EC9_0_0_0             |  Tigrai TV                                        |  13_0_0_20D2EC9=--------
 1_0_1_13_1_1_20D2F16_0_0_0             |  Tigrai TV                                        |  13_1_1_20D2F16=--------
 1_0_1_13_5_1_20D0000_0_0_0             |  Tigrai TV                                        |  13_5_1_20D0000=--------
-1_0_1_3162_459_1_C00000_0_0_0          |  Time of Change.TV                                |  3162_459_1_C00000=--------
+1_0_1_3162_459_1_C00000_0_0_0          |  Time of Change.TV                                |  3162_459_1_C00000=timeofchangetv
 1_0_1_5EF_4E84_16E_A00000_0_0_0        |  Timeles Dizi channel                             |  5EF_4E84_16E_A00000=--------
 1_0_1_20D_CB_1_3200000_0_0_0           |  Timeless Dizi Channel                            |  20D_CB_1_3200000=--------
 1_0_1_4E2F_CA7_3_EB0000_0_0_0          |  Timeless Dizi Channel                            |  4E2F_CA7_3_EB0000=dizi
@@ -11892,7 +11890,6 @@
 1_0_1_2B04_AFB_BB_E080000_0_0_0        |  Travel XP                                        |  2B04_AFB_BB_E080000=travelxp
 1_0_16_17AF_C82_3_EB0000_0_0_0         |  Travel XP BNL                                    |  17AF_C82_3_EB0000=travelxp
 1_0_1F_EB_B2_39E_1860000_0_0_0         |  TravelXP                                         |  EB_B2_39E_1860000=travelxp
-1_0_1F_11FB_2B5C_13E_820000_0_0_0      |  TravelXP 4K                                      |  11FB_2B5C_13E_820000=travelxp4khdr
 1_0_1_5729_82B_2_11A0000_0_0_0         |  Travelxp                                         |  5729_82B_2_11A0000=travelxp
 1_0_19_2C5_7_1_1860000_0_0_0           |  Travelxp HD                                      |  2C5_7_1_1860000=travelxphd
 1_0_19_772_C6D4_16E_A00000_0_0_0       |  Travelxp HD                                      |  772_C6D4_16E_A00000=travelxphd
@@ -12135,6 +12132,7 @@
 1_0_19_EF11_421_1_C00000_0_0_0         |  VOX HD                                           |  EF11_421_1_C00000=voxhd
 1_0_19_435F_4_46_E080000_0_0_0         |  VOX HD - Tekst                                   |  435F_4_46_E080000=voxscandinavia
 1_0_19_2E91_411_1_C00000_0_0_0         |  VOX HD Austria                                   |  2E91_411_1_C00000=voxhd
+1_0_1_1_1_1_C00000_0_0_0               |  VOX HD Austria                                   |  1_1_1_C00000=--------
 1_0_1_7094_443_1_C00000_0_0_0          |  VOXup                                            |  7094_443_1_C00000=voxup
 1_0_19_CF_14B4_9C_5A0000_0_0_0         |  VOXup HD                                         |  CF_14B4_9C_5A0000=voxuphd
 1_0_19_EF17_421_1_C00000_0_0_0         |  VOXup HD                                         |  EF17_421_1_C00000=voxuphd
@@ -12370,7 +12368,7 @@
 1_0_1_423E_3DB8_13E_820000_0_0_0       |  Water Planet                                     |  423E_3DB8_13E_820000=waterplanet
 1_0_1_423D_3DB8_13E_820000_0_0_0       |  Water Planet V1                                  |  423D_3DB8_13E_820000=waterplanet
 1_0_19_1788_AF6_BB_E080000_0_0_0       |  Wau HD                                           |  1788_AF6_BB_E080000=wautv
-1_0_19_539_3D54_13E_820000_0_0_0       |  WeDo TV                                          |  539_3D54_13E_820000=wedomovies
+1_0_19_539_3D54_13E_820000_0_0_0       |  WeDo TV                                          |  539_3D54_13E_820000=wedotvmovies
 1_0_1_2659_98E1_217C_5A0000_0_0_0      |  Wedding TV                                       |  2659_98E1_217C_5A0000=--------
 1_0_1_1F4_9E34_77E_DCA0000_0_0_0       |  Wedo TV                                          |  1F4_9E34_77E_DCA0000=wedobigstories
 1_0_2_92_65_12_5A0000_0_0_0            |  Weisbaden Eagle                                  |  92_65_12_5A0000=afngowiesbaden
@@ -12881,7 +12879,7 @@
 1_0_1_20C_1_0_208AFC2_0_0_0            |  viju+ Sport                                      |  20C_1_0_208AFC2=--------
 1_0_1_77_65_1_3200000_0_0_0            |  viju+ Sport                                      |  77_65_1_3200000=--------
 1_0_1_4279_2BC0_13E_820000_0_0_0       |  wPolsce24                                        |  4279_2BC0_13E_820000=wpolsce24
-1_0_1_313F_459_1_C00000_0_0_0          |  wedo movies                                      |  313F_459_1_C00000=--------
-1_0_16_6DCF_44D_1_C00000_0_0_0         |  wedotv Movies                                    |  6DCF_44D_1_C00000=one1musictelevision
+1_0_1_313F_459_1_C00000_0_0_0          |  wedo movies                                      |  313F_459_1_C00000=wedotvmovies
+1_0_16_6DCF_44D_1_C00000_0_0_0         |  wedotv Movies                                    |  6DCF_44D_1_C00000=wedotvmovies
 1_0_1_6D6E_437_1_C00000_0_0_0          |  zdf_neo                                          |  6D6E_437_1_C00000=zdfneo
 1_0_19_2B7A_3F3_1_C00000_0_0_0         |  zdf_neo HD                                       |  2B7A_3F3_1_C00000=zdfneo
