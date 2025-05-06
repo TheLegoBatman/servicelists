@@ -274,6 +274,7 @@
 1_0_64_DCD_EA79_1_CE40000_0_0_0        |  11382H SID 0xdcd                                 |  DCD_EA79_1_CE40000=--------
 1_0_64_DCE_EA79_1_CE40000_0_0_0        |  11382H SID 0xdce                                 |  DCE_EA79_1_CE40000=--------
 1_0_64_FFFE_EA79_1_CE40000_0_0_0       |  11382H SID 0xfffe                                |  FFFE_EA79_1_CE40000=--------
+1_0_1_1_1_1_C00000_0_0_0               |  11407V                                           |  1_1_1_C00000=--------
 1_0_2_37C8_44C_13E_820000_0_0_0        |  11411H SID 0x37c8                                |  37C8_44C_13E_820000=--------
 1_0_64_1_202_0_CB72CCC_0_0_0           |  11468H SID 0x01                                  |  1_202_0_CB72CCC=--------
 1_0_1_47E_0_1_A0318A_0_0_0             |  1150 Torun SuperNova                             |  47E_0_1_A0318A=--------
@@ -810,6 +811,7 @@
 1_0_1_261_CC_1_3200000_0_0_0           |  ????? ???                                        |  261_CC_1_3200000=--------
 1_0_1_463_8_AA_5A0000_0_0_0            |  ????? ??? ?????????                              |  463_8_AA_5A0000=nea
 1_0_2_1ED_CA_1_3200000_0_0_0           |  ????? ????                                       |  1ED_CA_1_3200000=--------
+1_0_2_1EF_CA_1_3200000_0_0_0           |  ????? ????                                       |  1EF_CA_1_3200000=--------
 1_0_1_197_CA_1_3200000_0_0_0           |  ????? ????? HD                                   |  197_CA_1_3200000=--------
 1_0_1_276_2_0_208B035_0_0_0            |  ????? ????? HD                                   |  276_2_0_208B035=--------
 1_0_1_2F5_D2_1_3200000_0_0_0           |  ????? ??????                                     |  2F5_D2_1_3200000=--------
@@ -1482,6 +1484,7 @@
 1_0_1_2_32_64_DCA0000_0_0_0            |  Al Emarat TV HD                                  |  2_32_64_DCA0000=alemarattv
 1_0_1_652_10_800_DCA0000_0_0_0         |  Al Fath Al3amh                                   |  652_10_800_DCA0000=--------
 1_0_1_647_10_800_DCA0000_0_0_0         |  Al Fath Sonnah TV                                |  647_10_800_DCA0000=--------
+1_0_1_1662_320_5000_DC00000_0_0_0      |  Al Filia TV                                      |  1662_320_5000_DC00000=shehabnewsagency
 1_0_1_78_1_800_DCA0000_0_0_0           |  Al Forat                                         |  78_1_800_DCA0000=alforatnews
 1_0_19_1C94_49_800_DC00000_0_0_0       |  Al Forat HD                                      |  1C94_49_800_DC00000=alforatnews
 1_0_19_651_10_800_DCA0000_0_0_0        |  Al Ghad HD                                       |  651_10_800_DCA0000=alghadtv
@@ -1970,7 +1973,6 @@
 1_0_1_14_1137_21AC_1040000_0_0_0       |  Attessia TV                                      |  14_1137_21AC_1040000=--------
 1_0_1_4_0_FFFF_DCA2D8A_0_0_0           |  Attessia TV                                      |  4_0_FFFF_DCA2D8A=attessia
 1_0_1_27_211E_211E_2080000_0_0_0       |  Audio Iran International                         |  27_211E_211E_2080000=--------
-1_0_16_9A_1_40_A00000_0_0_0            |  Aurora TV.                                       |  9A_1_40_A00000=auroratv
 1_0_16_2B03_AFB_BB_E080000_0_0_0       |  Auto Motor Sport                                 |  2B03_AFB_BB_E080000=automotorsport
 1_0_1_76DB_2C0_600_E080000_0_0_0       |  Auto Motor Sport                                 |  76DB_2C0_600_E080000=automotorsport
 1_0_1F_453_B11_39E_1860000_0_0_0       |  Auto Motor Sport HD                              |  453_B11_39E_1860000=automotorsporthd
@@ -3285,7 +3287,6 @@
 1_0_1_7582_412_1_C00000_0_0_0          |  DAZN 2 BAR                                       |  7582_412_1_C00000=dazn2bar
 1_0_1_17B9_27_36_CE40000_0_0_0         |  DAZN 2 HD                                        |  17B9_27_36_CE40000=dazn2
 1_0_19_220F_44C_1_C00000_0_0_0         |  DAZN 3                                           |  220F_44C_1_C00000=dazn3
-1_0_19_691_1900_FBFF_820000_0_0_0      |  DAZN 3                                           |  691_1900_FBFF_820000=--------
 1_0_1_17BA_27_36_CE40000_0_0_0         |  DAZN 3                                           |  17BA_27_36_CE40000=dazn3
 1_0_1_77BE_40A_1_C00000_0_0_0          |  DAZN 3                                           |  77BE_40A_1_C00000=dazn3
 1_0_1_F3E_27_36_CE40000_0_0_0          |  DAZN 3                                           |  F3E_27_36_CE40000=dazn3
@@ -4921,7 +4922,7 @@
 1_0_82_1F4F_384_110_5A0000_0_0_0       |  HUMAX DOWNLOAD SVC                               |  1F4F_384_110_5A0000=--------
 1_0_C_3E9_3E9_1_820000_0_0_0           |  HVS-1 Bck                                        |  3E9_3E9_1_820000=--------
 1_0_C_7D2_7D6_2_820000_0_0_0           |  HVS-2 Pri (SGP6)                                 |  7D2_7D6_2_820000=--------
-1_0_C_3EB_3EB_1_822D06_0_0_0           |  HVS-3 Bck                                        |  3EB_3EB_1_822D06=--------
+1_0_C_3EB_3EB_1_820000_0_0_0           |  HVS-3 Bck                                        |  3EB_3EB_1_820000=--------
 1_0_1_712_12_800_DCA0000_0_0_0         |  HYA                                              |  712_12_800_DCA0000=--------
 1_0_1_14_0_0_1CC2B57_0_0_0             |  Haber Global HD                                  |  14_0_0_1CC2B57=--------
 1_0_1_70C_1FA_2BE_1040000_0_0_0        |  Hadramaut TV                                     |  70C_1FA_2BE_1040000=hadhramauttv
@@ -5401,7 +5402,6 @@
 1_0_19_BBE_3A2_110_5A0000_0_0_0        |  Italia1 HD                                       |  BBE_3A2_110_5A0000=--------
 1_0_19_C22_3A2_110_5A0000_0_0_0        |  Italia1 HD                                       |  C22_3A2_110_5A0000=--------
 1_0_19_DB2_3A2_110_5A0000_0_0_0        |  Italia1 HD                                       |  DB2_3A2_110_5A0000=--------
-1_0_1_642_2454_13E_820000_0_0_0        |  Italian Fishing TV                               |  642_2454_13E_820000=italianfishingtv
 1_0_1_74E_1_64_5A0000_0_0_0            |  Italy Service 3                                  |  74E_1_64_5A0000=intralottv
 1_0_1_762_1_64_5A0000_0_0_0            |  Italy Service 5                                  |  762_1_64_5A0000=intralottv
 1_0_1_45FA_4_1_E080000_0_0_0           |  Izaura TV                                        |  45FA_4_1_E080000=--------
@@ -6065,6 +6065,7 @@
 1_0_19_7508_420_1_C00000_0_0_0         |  M+ VAMOSHD                                       |  7508_420_1_C00000=vamoshd
 1_0_19_750A_420_1_C00000_0_0_0         |  M+ VAMOSHD                                       |  750A_420_1_C00000=vamoshd
 1_0_19_7537_426_1_C00000_0_0_0         |  M+COMEDIA HD                                     |  7537_426_1_C00000=movistarcomedia
+1_0_1_7696_41E_1_C00000_0_0_0          |  M+COMEDIA N                                      |  7696_41E_1_C00000=movistarestrellasdemimoore
 1_0_1_7736_416_1_C00000_0_0_0          |  M+Cine Espanol                                   |  7736_416_1_C00000=movistarcineespagnol
 1_0_1_7739_416_1_C00000_0_0_0          |  M+DEPORTES2                                      |  7739_416_1_C00000=movistardeportes2
 1_0_19_7532_426_1_C00000_0_0_0         |  M+DEPORTES2HD                                    |  7532_426_1_C00000=movistardeportes2
@@ -6078,23 +6079,14 @@
 1_0_19_78BE_3EC_1_C00000_0_0_0         |  M+Documentales HD                                |  78BE_3EC_1_C00000=movistardocumentaleshd
 1_0_19_78B5_3EC_1_C00000_0_0_0         |  M+ELLAS V HD                                     |  78B5_3EC_1_C00000=movistarellasvhd
 1_0_1_756D_412_1_C00000_0_0_0          |  M+GOLF 2                                         |  756D_412_1_C00000=movistargolf2
-1_0_1_782F_428_1_C00000_0_0_0          |  M+LCAMPEON10                                     |  782F_428_1_C00000=laligatvbarm8
-1_0_1_7820_428_1_C00000_0_0_0          |  M+LCAMPEON11                                     |  7820_428_1_C00000=laligatvbarm9
-1_0_1_7821_428_1_C00000_0_0_0          |  M+LCAMPEON12                                     |  7821_428_1_C00000=laligatvhypermotion
-1_0_1_782B_428_1_C00000_0_0_0          |  M+LCAMPEON13                                     |  782B_428_1_C00000=movistarlaliga5
 1_0_19_749E_41C_1_C00000_0_0_0         |  M+LCAMPEON2                                      |  749E_41C_1_C00000=movistarchampionstour
 1_0_1_77C3_40A_1_C00000_0_0_0          |  M+LCAMPEON2                                      |  77C3_40A_1_C00000=movistarchampionstour
 1_0_19_749F_41C_1_C00000_0_0_0         |  M+LCAMPEON3                                      |  749F_41C_1_C00000=movistarchampionstour2
 1_0_1_769F_41E_1_C00000_0_0_0          |  M+LCAMPEON3                                      |  769F_41E_1_C00000=movistarchampionstour2
 1_0_1_77D8_40A_1_C00000_0_0_0          |  M+LCAMPEON4                                      |  77D8_40A_1_C00000=movistarligadecampeones4
 1_0_1_77C4_40A_1_C00000_0_0_0          |  M+LCAMPEON5                                      |  77C4_40A_1_C00000=daznlaliga3
-1_0_1_7829_428_1_C00000_0_0_0          |  M+LCAMPEON6                                      |  7829_428_1_C00000=daznlaliga4
-1_0_1_7822_428_1_C00000_0_0_0          |  M+LCAMPEON7                                      |  7822_428_1_C00000=laligatvbar5
-1_0_1_7824_428_1_C00000_0_0_0          |  M+LCAMPEON8                                      |  7824_428_1_C00000=laligatvbarm6
-1_0_1_782C_428_1_C00000_0_0_0          |  M+LCAMPEON9                                      |  782C_428_1_C00000=laligatvbarm7
 1_0_19_78B4_3EC_1_C00000_0_0_0         |  M+LCAMPEONES                                     |  78B4_3EC_1_C00000=movistarligadecampeones
 1_0_1_757B_412_1_C00000_0_0_0          |  M+LCAMPEONES                                     |  757B_412_1_C00000=movistarligadecampeones
-1_0_1_7696_41E_1_C00000_0_0_0          |  M+MUSICALES                                      |  7696_41E_1_C00000=movistarestrellasdemimoore
 1_0_1_756C_412_1_C00000_0_0_0          |  M+VAMOSBAR2                                      |  756C_412_1_C00000=vamos
 1_0_16_17E5_C82_3_EB0000_0_0_0         |  M1                                               |  17E5_C82_3_EB0000=m1
 1_0_1_10F_D_1C_1860000_0_0_0           |  M1                                               |  10F_D_1C_1860000=m1
@@ -7469,8 +7461,6 @@
 1_0_1_27_194E_194E_2080000_0_0_0       |  Orange TV                                        |  27_194E_194E_2080000=--------
 1_0_1_13A_E_1C_1860000_0_0_0           |  Orizont TV                                       |  13A_E_1C_1860000=--------
 1_0_1_89A_16_800_DCA0000_0_0_0         |  Oscar TV                                         |  89A_16_800_DCA0000=--------
-1_0_16_502B_802_E0_1040000_0_0_0       |  Osm Cinema                                       |  502B_802_E0_1040000=--------
-1_0_16_5029_802_E0_1040000_0_0_0       |  Osm Drama                                        |  5029_802_E0_1040000=--------
 1_0_1_55B_75FB_16E_A00000_0_0_0        |  Oto                                              |  55B_75FB_16E_A00000=oto
 1_0_1_1F47_80E1_217C_5A0000_0_0_0      |  Otto Channel                                     |  1F47_80E1_217C_5A0000=--------
 1_0_2_C9_2_40_A00000_0_0_0             |  Otvoreni.                                        |  C9_2_40_A00000=otvoreni
@@ -7828,6 +7818,7 @@
 1_0_1_C23_1E78_71_820000_0_0_0         |  Polsat Doku HD                                   |  C23_1E78_71_820000=polsatdoku
 1_0_1_C37_1E78_71_820000_0_0_0         |  Polsat Doku HD                                   |  C37_1E78_71_820000=polsatdoku
 1_0_1_1CCF_1CE8_71_820000_0_0_0        |  Polsat Film 2                                    |  1CCF_1CE8_71_820000=polsatfilm2
+1_0_1_3E1F_2EE0_13E_820000_0_0_0       |  Polsat Film 2 HD                                 |  3E1F_2EE0_13E_820000=starstv
 1_0_1_3398_3390_71_820000_0_0_0        |  Polsat Film HD                                   |  3398_3390_71_820000=polsatfilm
 1_0_1_33A8_3390_71_820000_0_0_0        |  Polsat Film HD                                   |  33A8_3390_71_820000=polsatfilm
 1_0_1_33B8_3390_71_820000_0_0_0        |  Polsat Film HD                                   |  33B8_3390_71_820000=polsatfilm
@@ -7859,6 +7850,7 @@
 1_0_1_33C2_3390_71_820000_0_0_0        |  Polsat Play HD                                   |  33C2_3390_71_820000=polsatplay
 1_0_1_33D2_3390_71_820000_0_0_0        |  Polsat Play HD                                   |  33D2_3390_71_820000=polsatplay
 1_0_1_1CCD_1CE8_71_820000_0_0_0        |  Polsat Reality                                   |  1CCD_1CE8_71_820000=polsatcbsreality
+1_0_1_3E21_2EE0_13E_820000_0_0_0       |  Polsat Reality HD                                |  3E21_2EE0_13E_820000=--------
 1_0_1_1C8F_1CE8_71_820000_0_0_0        |  Polsat Rodzina HD                                |  1C8F_1CE8_71_820000=polsatrodzina
 1_0_1_1CAC_1CE8_71_820000_0_0_0        |  Polsat Seriale HD                                |  1CAC_1CE8_71_820000=polsatseriale
 1_0_1_1CAD_1CE8_71_820000_0_0_0        |  Polsat Seriale HD                                |  1CAD_1CE8_71_820000=polsatseriale
@@ -7878,7 +7870,7 @@
 1_0_1_1CCA_1CE8_71_820000_0_0_0        |  Polsat Viasat Explore HD                         |  1CCA_1CE8_71_820000=polsatviasatexplorehd
 1_0_1_C20_1E78_71_820000_0_0_0         |  Polsat Viasat History HD                         |  C20_1E78_71_820000=polsatviasathistoryhd
 1_0_1_2908_1EDC_71_820000_0_0_0        |  Polsat Viasat Nature HD                          |  2908_1EDC_71_820000=polsatviasatnature
-1_0_1_1C8B_1CE8_71_820000_0_0_0        |  Polsat X                                         |  1C8B_1CE8_71_820000=polsatx
+1_0_1_1C8B_1CE8_71_820000_0_0_0        |  Polsat X HD                                      |  1C8B_1CE8_71_820000=polsatx
 1_0_1_455_65_53_CE40000_0_0_0          |  Porto Canal                                      |  455_65_53_CE40000=portocanal
 1_0_1_9F_65_53_CE40000_0_0_0           |  Porto Canal                                      |  9F_65_53_CE40000=portocanal
 1_0_1_E_0_0_1CC2B57_0_0_0              |  Pos TV                                           |  E_0_0_1CC2B57=--------
@@ -9512,7 +9504,7 @@
 1_0_2_575_3_42_1A40000_0_0_0           |  SERVICE 4                                        |  575_3_42_1A40000=--------
 1_0_1_12C_1D4C_13E_820000_0_0_0        |  SERVICE IP/MAC NOTIFICATION                      |  12C_1D4C_13E_820000=--------
 1_0_1_320_3E9_1_820000_0_0_0           |  SERVICE IP/MAC NOTIFICATION                      |  320_3E9_1_820000=--------
-1_0_1_320_3EB_1_822D06_0_0_0           |  SERVICE IP/MAC NOTIFICATION                      |  320_3EB_1_822D06=--------
+1_0_1_320_3EB_1_820000_0_0_0           |  SERVICE IP/MAC NOTIFICATION                      |  320_3EB_1_820000=--------
 1_0_1_320_7D6_2_820000_0_0_0           |  SERVICE IP/MAC NOTIFICATION                      |  320_7D6_2_820000=--------
 1_0_1_125C_3F7_1_C00000_0_0_0          |  SES 01                                           |  125C_3F7_1_C00000=ses
 1_0_1_125D_3F7_1_C00000_0_0_0          |  SES 02                                           |  125D_3F7_1_C00000=ses
@@ -10721,9 +10713,17 @@
 1_0_1_7882_414_1_C00000_0_0_0          |  TEST1 TXP44                                      |  7882_414_1_C00000=movistarlaliga4
 1_0_1_76C3_40E_1_C00000_0_0_0          |  TEST2 TXP38                                      |  76C3_40E_1_C00000=disneychannel-phudothusi
 1_0_1_788C_414_1_C00000_0_0_0          |  TEST2 TXP44                                      |  788C_414_1_C00000=laligatvhypermotion5
+1_0_1_7829_428_1_C00000_0_0_0          |  TEST2 TXP64                                      |  7829_428_1_C00000=daznlaliga4
 1_0_1_7894_414_1_C00000_0_0_0          |  TEST3 TXP44                                      |  7894_414_1_C00000=eurosport9
+1_0_1_7822_428_1_C00000_0_0_0          |  TEST3 TXP64                                      |  7822_428_1_C00000=laligatvbar5
 1_0_1_7884_414_1_C00000_0_0_0          |  TEST4 TXP44                                      |  7884_414_1_C00000=laligatvhypermotion4
+1_0_1_7824_428_1_C00000_0_0_0          |  TEST4 TXP64                                      |  7824_428_1_C00000=laligatvbarm6
 1_0_1_788D_414_1_C00000_0_0_0          |  TEST5 TXP44                                      |  788D_414_1_C00000=laligatvhypermotion
+1_0_1_782C_428_1_C00000_0_0_0          |  TEST5 TXP64                                      |  782C_428_1_C00000=laligatvbarm7
+1_0_1_782F_428_1_C00000_0_0_0          |  TEST6 TXP64                                      |  782F_428_1_C00000=laligatvbarm8
+1_0_1_7820_428_1_C00000_0_0_0          |  TEST7 TXP64                                      |  7820_428_1_C00000=laligatvbarm9
+1_0_1_7821_428_1_C00000_0_0_0          |  TEST8 TXP64                                      |  7821_428_1_C00000=laligatvhypermotion
+1_0_1_782B_428_1_C00000_0_0_0          |  TEST9 TXP64                                      |  782B_428_1_C00000=movistarlaliga5
 1_0_1_75DE_422_1_C00000_0_0_0          |  TEST_CSD1                                        |  75DE_422_1_C00000=movistarplus
 1_0_1_75DF_422_1_C00000_0_0_0          |  TEST_CSD2                                        |  75DF_422_1_C00000=movistarplus
 1_0_1_75E0_422_1_C00000_0_0_0          |  TEST_CSD3                                        |  75E0_422_1_C00000=movistarplus
@@ -12091,7 +12091,6 @@
 1_0_19_EF11_421_1_C00000_0_0_0         |  VOX HD                                           |  EF11_421_1_C00000=voxhd
 1_0_19_435F_4_46_E080000_0_0_0         |  VOX HD - Tekst                                   |  435F_4_46_E080000=voxscandinavia
 1_0_19_2E91_411_1_C00000_0_0_0         |  VOX HD Austria                                   |  2E91_411_1_C00000=voxhd
-1_0_1_1_1_1_C00000_0_0_0               |  VOX HD Austria                                   |  1_1_1_C00000=--------
 1_0_1_7094_443_1_C00000_0_0_0          |  VOXup                                            |  7094_443_1_C00000=voxup
 1_0_19_CF_14B4_9C_5A0000_0_0_0         |  VOXup HD                                         |  CF_14B4_9C_5A0000=voxuphd
 1_0_19_EF17_421_1_C00000_0_0_0         |  VOXup HD                                         |  EF17_421_1_C00000=voxuphd
