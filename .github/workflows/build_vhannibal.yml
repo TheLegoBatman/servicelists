@@ -20,11 +20,13 @@ jobs:
           if [[ ! -z "$vhannibal_date" ]] && [[ "$vhannibal_date" != $(cat ./vhannibal.date) ]]; then
             mkdir ./build-input/enigma2
             curl -fsSL "https://www.vhannibal.net/download_setting.php?id=3&action=download" | bsdtar xf - -C "./build-input/enigma2" --exclude=".*" --strip-components=1
+            curl -o ./build-source/utf8snp.index -fsSL "https://raw.githubusercontent.com/picons/picons/master/build-source/utf8snp.index"
             curl -o ./build-source/snp.index -fsSL "https://raw.githubusercontent.com/picons/picons/master/build-source/snp.index" 
             curl -o ./build-source/srp.index -fsSL "https://raw.githubusercontent.com/picons/picons/master/build-source/srp.index"
+            bash 1-build-servicelist.sh utf8snp
             bash 1-build-servicelist.sh snp
             bash 1-build-servicelist.sh srp
-            mv ./build-output/servicelist-enigma2-snp.txt ./build-output/servicelist-enigma2-srp.txt -t ./vhannibal
+            mv ./build-output/servicelist-enigma2-utf8snp.txt ./build-output/servicelist-enigma2-snp.txt ./build-output/servicelist-enigma2-srp.txt -t ./vhannibal
             echo "$vhannibal_date" > ./vhannibal.date
             git config --global user.name "${{ secrets.USER }}"
             git config --global user.email "${{ secrets.EMAIL }}"
