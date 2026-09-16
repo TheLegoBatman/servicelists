@@ -47,7 +47,7 @@
 1_0_1_7828_428_1_C00000_0_0_0         |  10936V SID 0x7828                                |  7828_428_1_C00000=--------                              |  10936v sid 0x7828=--------
 1_0_1_7573_412_1_C00000_0_0_0         |  11097V SID 0x7573                                |  7573_412_1_C00000=--------                              |  11097v sid 0x7573=--------
 1_0_2_37C8_44C_13E_820000_0_0_0       |  11411H SID 0x37c8                                |  37C8_44C_13E_820000=--------                            |  11411h sid 0x37c8=--------
-1_0_19_157E_41F_1_C00000_0_0_0        |  123.live                                         |  157E_41F_1_C00000=--------                              |  123.live=123tv
+1_0_19_157E_41F_1_C00000_0_0_0        |  123.live                                         |  157E_41F_1_C00000=--------                              |  123.live=123live
 1_0_1_2391_44A_1_C00000_0_0_0         |  12363V SID 0x2391                                |  2391_44A_1_C00000=--------                              |  12363v sid 0x2391=--------
 1_0_1_2392_44A_1_C00000_0_0_0         |  12363V SID 0x2392                                |  2392_44A_1_C00000=--------                              |  12363v sid 0x2392=--------
 1_0_1_2393_44A_1_C00000_0_0_0         |  12363V SID 0x2393                                |  2393_44A_1_C00000=--------                              |  12363v sid 0x2393=--------
@@ -414,7 +414,7 @@
 1_0_19_2263_438_1_C00000_0_0_0        |  CANAL+CINEMA.S                                   |  2263_438_1_C00000=--------                              |  canal+cinema.s=canalpluscinemas
 1_0_19_22CE_434_1_C00000_0_0_0        |  CANAL+DOCS                                       |  22CE_434_1_C00000=--------                              |  canal+docs=canalplusdocs
 1_0_19_2271_438_1_C00000_0_0_0        |  CANAL+FOOT                                       |  2271_438_1_C00000=--------                              |  canal+foot=canalplusfoot
-1_0_1F_2339_442_1_C00000_0_0_0        |  CANAL+FOOT UHD HDR                               |  2339_442_1_C00000=--------                              |  canal+foot uhd hdr=--------
+1_0_1F_2339_442_1_C00000_0_0_0        |  CANAL+FOOT UHD HDR                               |  2339_442_1_C00000=--------                              |  canal+foot uhd hdr=canalplusfootuhdhdr
 1_0_19_207A_432_1_C00000_0_0_0        |  CANAL+GRAND ECRAN                                |  207A_432_1_C00000=--------                              |  canal+grand ecran=canalplusgrandecran
 1_0_19_2711_44C_1_C00000_0_0_0        |  CANAL+LIVE 1                                     |  2711_44C_1_C00000=--------                              |  canal+live 1=canalpluslive1
 1_0_19_207C_432_1_C00000_0_0_0        |  CANAL+LIVE 10                                    |  207C_432_1_C00000=--------                              |  canal+live 10=canalpluslive10
@@ -1050,11 +1050,11 @@
 1_0_19_49_1770_BE_820000_0_0_0        |  LA7 CINEMA                                       |  49_1770_BE_820000=--------                              |  la7 cinema=la7cinema
 1_0_19_4F_1770_BE_820000_0_0_0        |  LA7 HD                                           |  4F_1770_BE_820000=--------                              |  la7 hd=la7hd
 1_0_1_7793_424_1_C00000_0_0_0         |  LALIGA TV BAR (H2)                               |  7793_424_1_C00000=--------                              |  laliga tv bar (h2)=--------
-1_0_19_74FF_420_1_C00000_0_0_0        |  LALIGA TV BAR (HD-H2)                            |  74FF_420_1_C00000=--------                              |  laliga tv bar (hd-h2)=--------
-1_0_1_76C5_40E_1_C00000_0_0_0         |  LALIGA TV BAR 2 (H2)                             |  76C5_40E_1_C00000=--------                              |  laliga tv bar 2 (h2)=--------
-1_0_1_769A_41E_1_C00000_0_0_0         |  LALIGA TV BAR 3                                  |  769A_41E_1_C00000=--------                              |  laliga tv bar 3=laligatvbar3
-1_0_1_7830_428_1_C00000_0_0_0         |  LALIGA TV BAR 4                                  |  7830_428_1_C00000=--------                              |  laliga tv bar 4=laligatvbar4
-1_0_1_772B_416_1_C00000_0_0_0         |  LALIGA TV BAR 5                                  |  772B_416_1_C00000=--------                              |  laliga tv bar 5=laligatvbar5
+1_0_19_74FF_420_1_C00000_0_0_0        |  LALIGA TV BAR (HD-H2)                            |  74FF_420_1_C00000=--------                              |  laliga tv bar (hd-h2)=laligatvbar
+1_0_1_76C5_40E_1_C00000_0_0_0         |  LALIGA TV BAR 2 (H2)                             |  76C5_40E_1_C00000=--------                              |  laliga tv bar 2 (h2)=laligatvbar
+1_0_1_769A_41E_1_C00000_0_0_0         |  LALIGA TV BAR 3                                  |  769A_41E_1_C00000=--------                              |  laliga tv bar 3=--------
+1_0_1_7830_428_1_C00000_0_0_0         |  LALIGA TV BAR 4                                  |  7830_428_1_C00000=--------                              |  laliga tv bar 4=--------
+1_0_1_772B_416_1_C00000_0_0_0         |  LALIGA TV BAR 5                                  |  772B_416_1_C00000=--------                              |  laliga tv bar 5=--------
 1_0_19_749B_41C_1_C00000_0_0_0        |  LALIGA TV HYPERMOTION                            |  749B_41C_1_C00000=--------                              |  laliga tv hypermotion=laligatvhypermotion
 1_0_1_7825_428_1_C00000_0_0_0         |  LALIGA TV HYPERMOTION                            |  7825_428_1_C00000=--------                              |  laliga tv hypermotion=laligatvhypermotion
 1_0_1_7831_428_1_C00000_0_0_0         |  LALIGA TV HYPERMOTION 2                          |  7831_428_1_C00000=--------                              |  laliga tv hypermotion 2=laligatvhypermotion2
@@ -1121,7 +1121,7 @@
 1_0_19_750A_420_1_C00000_0_0_0        |  M+ VAMOSHD                                       |  750A_420_1_C00000=--------                              |  m+ vamoshd=movistarvamos
 1_0_1_768E_41E_1_C00000_0_0_0         |  M+Baloncesto                                     |  768E_41E_1_C00000=--------                              |  m+baloncesto=movistarbaloncesto
 1_0_1_756B_412_1_C00000_0_0_0         |  M+Baloncesto2                                    |  756B_412_1_C00000=--------                              |  m+baloncesto2=movistarbaloncesto2
-1_0_1_7893_414_1_C00000_0_0_0         |  M+Baloncesto3                                    |  7893_414_1_C00000=--------                              |  m+baloncesto3=--------
+1_0_1_7893_414_1_C00000_0_0_0         |  M+Baloncesto3                                    |  7893_414_1_C00000=--------                              |  m+baloncesto3=movistarbaloncesto3
 1_0_19_7536_426_1_C00000_0_0_0        |  M+BaloncestoHD                                   |  7536_426_1_C00000=--------                              |  m+baloncestohd=movistarbaloncesto
 1_0_19_7537_426_1_C00000_0_0_0        |  M+COMEDIA HD                                     |  7537_426_1_C00000=--------                              |  m+comedia hd=movistarcomedia
 1_0_1_7736_416_1_C00000_0_0_0         |  M+Cine Español                                   |  7736_416_1_C00000=--------                              |  m+cine español=--------
@@ -1146,9 +1146,9 @@
 1_0_1_77D8_40A_1_C00000_0_0_0         |  M+LCAMPEON4                                      |  77D8_40A_1_C00000=--------                              |  m+lcampeon4=movistarligadecampeones4
 1_0_1_77C4_40A_1_C00000_0_0_0         |  M+LCAMPEON5                                      |  77C4_40A_1_C00000=--------                              |  m+lcampeon5=movistarligadecampeones5
 1_0_1_7829_428_1_C00000_0_0_0         |  M+LCAMPEON6                                      |  7829_428_1_C00000=--------                              |  m+lcampeon6=movistarligadecampeones6
-1_0_1_7822_428_1_C00000_0_0_0         |  M+LCAMPEON7                                      |  7822_428_1_C00000=--------                              |  m+lcampeon7=--------
-1_0_1_7824_428_1_C00000_0_0_0         |  M+LCAMPEON8                                      |  7824_428_1_C00000=--------                              |  m+lcampeon8=--------
-1_0_1_782C_428_1_C00000_0_0_0         |  M+LCAMPEON9                                      |  782C_428_1_C00000=--------                              |  m+lcampeon9=--------
+1_0_1_7822_428_1_C00000_0_0_0         |  M+LCAMPEON7                                      |  7822_428_1_C00000=--------                              |  m+lcampeon7=movistarligadecampeones7
+1_0_1_7824_428_1_C00000_0_0_0         |  M+LCAMPEON8                                      |  7824_428_1_C00000=--------                              |  m+lcampeon8=movistarligadecampeones8
+1_0_1_782C_428_1_C00000_0_0_0         |  M+LCAMPEON9                                      |  782C_428_1_C00000=--------                              |  m+lcampeon9=movistarligadecampeones9
 1_0_19_78B4_3EC_1_C00000_0_0_0        |  M+LCAMPEONES                                     |  78B4_3EC_1_C00000=--------                              |  m+lcampeones=movistarligadecampeones
 1_0_1_757B_412_1_C00000_0_0_0         |  M+LCAMPEONES                                     |  757B_412_1_C00000=--------                              |  m+lcampeones=movistarligadecampeones
 1_0_1_7885_414_1_C00000_0_0_0         |  M+VACACIONES                                     |  7885_414_1_C00000=--------                              |  m+vacaciones=movistarvacaciones
@@ -1551,9 +1551,9 @@
 1_0_1_C1E_1E78_71_820000_0_0_0        |  Polsat Sport HD                                  |  C1E_1E78_71_820000=--------                             |  polsat sport hd=polsatsport
 1_0_1_709_32C8_13E_820000_0_0_0       |  Polsat Sport Premium 1                           |  709_32C8_13E_820000=--------                            |  polsat sport premium 1=polsatsportpremium1superhd
 1_0_1_70A_32C8_13E_820000_0_0_0       |  Polsat Sport Premium 2                           |  70A_32C8_13E_820000=--------                            |  polsat sport premium 2=polsatsportpremium2superhd
-1_0_1_1CCA_1CE8_71_820000_0_0_0       |  Polsat Viasat Explore HD                         |  1CCA_1CE8_71_820000=--------                            |  polsat viasat explore hd=polsatviasatexplorehd
-1_0_1_C20_1E78_71_820000_0_0_0        |  Polsat Viasat History HD                         |  C20_1E78_71_820000=--------                             |  polsat viasat history hd=polsatviasathistoryhd
-1_0_1_2908_1EDC_71_820000_0_0_0       |  Polsat Viasat Nature HD                          |  2908_1EDC_71_820000=--------                            |  polsat viasat nature hd=polsatviasatnature
+1_0_1_1CCA_1CE8_71_820000_0_0_0       |  Polsat Viasat Explore HD                         |  1CCA_1CE8_71_820000=--------                            |  polsat viasat explore hd=--------
+1_0_1_C20_1E78_71_820000_0_0_0        |  Polsat Viasat History HD                         |  C20_1E78_71_820000=--------                             |  polsat viasat history hd=--------
+1_0_1_2908_1EDC_71_820000_0_0_0       |  Polsat Viasat Nature HD                          |  2908_1EDC_71_820000=--------                            |  polsat viasat nature hd=--------
 1_0_1_1C8B_1CE8_71_820000_0_0_0       |  Polsat X HD                                      |  1C8B_1CE8_71_820000=--------                            |  polsat x hd=polsatx
 1_0_19_2C4D_19C8_FBFF_820000_0_0_0    |  Primafila HD                                     |  2C4D_19C8_FBFF_820000=--------                          |  primafila hd=skyprimafila
 1_0_19_155_4_85_C00000_0_0_0          |  Prime Sportsbar                                  |  155_4_85_C00000=--------                                |  prime sportsbar=prime-spucosevep
@@ -2291,10 +2291,10 @@
 1_0_16_78_251C_D5_820000_0_0_0        |  Viasat Explore                                   |  78_251C_D5_820000=--------                              |  viasat explore=viasatexplore
 1_0_1_262_2774_13E_820000_0_0_0       |  Viasat Explore HD                                |  262_2774_13E_820000=--------                            |  viasat explore hd=--------
 1_0_16_79_251C_D5_820000_0_0_0        |  Viasat History                                   |  79_251C_D5_820000=--------                              |  viasat history=viasathistory
-1_0_1_260_2774_13E_820000_0_0_0       |  Viasat History HD                                |  260_2774_13E_820000=--------                            |  viasat history hd=viasathistoryhd
+1_0_1_260_2774_13E_820000_0_0_0       |  Viasat History HD                                |  260_2774_13E_820000=--------                            |  viasat history hd=viasathistory
 1_0_16_7E_251C_D5_820000_0_0_0        |  Viasat Kino                                      |  7E_251C_D5_820000=--------                              |  viasat kino=viasatkino
 1_0_16_D4_25E4_D5_820000_0_0_0        |  Viasat Nature                                    |  D4_25E4_D5_820000=--------                              |  viasat nature=viasatnature
-1_0_1_261_2774_13E_820000_0_0_0       |  Viasat Nature HD                                 |  261_2774_13E_820000=--------                            |  viasat nature hd=viasatnaturehd
+1_0_1_261_2774_13E_820000_0_0_0       |  Viasat Nature HD                                 |  261_2774_13E_820000=--------                            |  viasat nature hd=viasatnature
 1_0_16_131_2648_D5_820000_0_0_0       |  Viasat True Crime                                |  131_2648_D5_820000=--------                             |  viasat true crime=viasattruecrime
 1_0_1_13FD_5DC_13E_820000_0_0_0       |  Viasat True Crime                                |  13FD_5DC_13E_820000=--------                            |  viasat true crime=viasattruecrime
 1_0_1_1BBF_17D4_13E_820000_0_0_0      |  Viasat True Crime HD                             |  1BBF_17D4_13E_820000=--------                           |  viasat true crime hd=viasattruecrime
